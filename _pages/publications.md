@@ -82,7 +82,7 @@ ACM International Conference on Information and Knowledge Management (**CIKM**),
 
 ## Journal
 -----
-* Data‐efficient Graph Learning: Problems, Progress, and Prospects \[[PDF](https://onlinelibrary.wiley.com/doi/full/10.1002/aaai.12200)\] 
+* Data‐efficient Graph Learning: Problems, Progress, and Prospects \[[PDF](https://onlinelibrary.wiley.com/doi/full/10.1002/aaai.12200)\]  
 Kaize Ding, **Yixin Liu**, Chuxu Zhang, Jianling Wang.  
 AI Magazine, 2024.  
 
