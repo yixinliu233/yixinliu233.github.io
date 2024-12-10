@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Yixin Liu (刘奕鑫)"
   avatar           : "profile.jpg"
-  bio              : "Ph.D. Candidate at Monash University"
-  location         : "Melbourne, VIC, AU"
+  bio              : "Research Fellow at Griffith University"
+  location         : "Gold Coast, QLD, Australia"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=1WUeULEAAAAJ&hl=en&oi=ao"
-  email            : "yixin.liu@monash.edu"
+  email            : "yixin.liu@griffith.edu.au"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
