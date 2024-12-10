@@ -11,6 +11,7 @@ Hi there! I am Yixin Liu, a research fellow at the Institute for Integrated and 
 
 News
 ------
+* 2024/12: Our paper on [graph fraud detection]() has been accepted by AAAI 2025.
 * 2024/09: Our paper on [generalist graph anomaly detection with in-context learning](https://arxiv.org/pdf/2405.16771) has been accepted by NeurIPS 2024.
 * 2024/08: Our paper on [data-efficient graph learning](https://arxiv.org/pdf/2405.16771) has been accepted by AI Magazine.
 * 2024/07: Our paper on [graph representation learning](https://arxiv.org/pdf/2407.19944) has been accepted by CIKM 2024.
