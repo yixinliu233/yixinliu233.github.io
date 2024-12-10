@@ -17,6 +17,22 @@ author_profile: true
 
 ## Conference
 -----
+* A Label-free Heterophily-guided Approach for Unsupervised Graph Fraud Detection \[[PDF]()\] \[[Code]()\]  
+Junjun Pan, **Yixin Liu**, Xin Zheng, Yizhen Zheng, Alan Wee-Chung Liew, Fuyi Li, Shirui Pan.  
+AAAI Conference on Artificial Intelligence (**AAAI**), 2025.  
+
+* ARC: A Generalist Graph Anomaly Detector with In-Context Learning \[[PDF](https://arxiv.org/pdf/2405.16771)\] \[[Code](https://github.com/yixinliu233/ARC)\]  
+**Yixin Liu**, Shiyuan Li, Yu Zheng, Qingfeng Chen, Chengqi Zhang, Shirui Pan.  
+Advances in Neural Information Processing Systems (**NeurIPS**), 2024.  
+
+* Self-Supervision Improves Diffusion Models for Tabular Data Imputation \[[PDF](https://dl.acm.org/doi/pdf/10.1145/3627673.3679829)\] \[[Code](https://github.com/yixinliu233/SimpDM)\]  
+**Yixin Liu**, Thalaiyasingam Ajanthan, Hisham Husain, Vu Nguyen.  
+ACM International Conference on Information and Knowledge Management (**CIKM**), 2024.  
+
+* Noise-Resilient Unsupervised Graph Representation Learning via Multi-Hop Feature Quality Estimation \[[PDF](https://arxiv.org/pdf/2407.19944)\] \[[Code]()\]  
+Shiyuan Li\*, **Yixin Liu**\*, Qingfeng Chen, Geoffrey Webb, Shirui Pan.  
+ACM International Conference on Information and Knowledge Management (**CIKM**), 2024.  
+
 * Divide and Denoise: Empowering Simple Models for Robust Semi-Supervised Node Classification \[[PDF]()\] \[[Code]()\]    
 Kaize Ding, Xiaoxiao Ma, **Yixin Liu**, Shirui Pan.   
 ACM SIGKDD Conference on Knowledge Discovery and Data Mining (**KDD**), 2024. 
@@ -66,6 +82,10 @@ ACM International Conference on Information and Knowledge Management (**CIKM**),
 
 ## Journal
 -----
+* Data‐efficient Graph Learning: Problems, Progress, and Prospects \[[PDF](https://onlinelibrary.wiley.com/doi/full/10.1002/aaai.12200)\] 
+Kaize Ding, **Yixin Liu**, Chuxu Zhang, Jianling Wang.  
+AI Magazine, 2024.  
+
 * Integrating Graphs with Large Language Models: Methods and Prospects \[[PDF](https://arxiv.org/abs/2310.05499)\]  
 Shirui Pan, Yizhen Zheng, **Yixin Liu**.  
 IEEE Intelligent Systems, 2023.
