@@ -11,6 +11,7 @@ Hi there! I am Yixin Liu, a research fellow at the Institute for Integrated and 
 
 News
 ------
+* 2025/01: Our benchmark on [graph anomaly/OOD detection](https://arxiv.org/pdf/2406.15523) has been accepted by ICLR 2025.
 * 2024/12: Our paper on [graph fraud detection]() has been accepted by AAAI 2025.
 * 2024/09: Our paper on [generalist graph anomaly detection with in-context learning](https://arxiv.org/pdf/2405.16771) has been accepted by NeurIPS 2024.
 * 2024/08: Our paper on [data-efficient graph learning](https://arxiv.org/pdf/2405.16771) has been accepted by AI Magazine.
@@ -41,6 +42,19 @@ News
 
 Selected Papers (first-author/co-first-author)
 ------
+
+<dl>
+  <dt><img align="left" width="200" hspace="10"  wspace="20" src="/images/ubgold.png"></dt>
+  <dd><strong>Unifying Unsupervised Graph-Level Anomaly Detection and Out-of-Distribution Detection: A Benchmark</strong></dd>
+  <dd>Yili Wang*, <strong>Yixin Liu</strong>*, Xu Shen*, Chenyu Li*, Kaize Ding, Rui Miao, Ying Wang, Shirui Pan, Xin Wang</dd>
+  <dd> International Conference on Learning Representations (<strong>ICLR</strong>), 2025</dd>
+  <dd>
+    <a href="https://arxiv.org/pdf/2406.15523.pdf">[Paper]</a> 
+    <a href="https://github.com/UB-GOLD/UB-GOLD">[Code]</a>
+  </dd>
+</dl>
+
+---
 
 <dl>
   <dt><img align="left" width="200" hspace="10"  wspace="20" src="/images/arc.png"></dt>
