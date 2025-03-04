@@ -17,6 +17,10 @@ author_profile: true
 
 ## Conference
 -----
+* Unifying Unsupervised Graph-level Anomaly Detection and Out-of-distribution Detection: A Benchmark \[[PDF]()\] \[[Code]()\]  
+Yili Wang*, **Yixin Liu**\*, Xu Shen*, Chenyu Li, Kaize Ding, Rui Miao, Ying Wang, Shirui Pan, Xin Wang.  
+International Conference on Learning Representations (**ICLR**), 2025.  
+
 * A Label-free Heterophily-guided Approach for Unsupervised Graph Fraud Detection \[[PDF]()\] \[[Code]()\]  
 Junjun Pan, **Yixin Liu**, Xin Zheng, Yizhen Zheng, Alan Wee-Chung Liew, Fuyi Li, Shirui Pan.  
 AAAI Conference on Artificial Intelligence (**AAAI**), 2025.  
