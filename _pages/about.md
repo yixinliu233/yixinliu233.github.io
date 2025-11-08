@@ -11,8 +11,8 @@ Hi there! I am Yixin Liu, a research fellow at the School of Information and Com
 
 News
 ------
-* 2024/11: Our paper on [LLM multi-agent system design](https://arxiv.org/pdf/2507.18224) has been accepted by AAAI 2026.
-* 2024/11: Our paper on [graph anomaly detection]() has been accepted by AAAI 2026.
+* 2025/11: Our paper on [LLM multi-agent system design](https://arxiv.org/pdf/2507.18224) has been accepted by AAAI 2026.
+* 2025/11: Our paper on [graph anomaly detection]() has been accepted by AAAI 2026.
 * 2025/10: Our position paper on [graph-augmented LLM agents](https://arxiv.org/pdf/2507.21407) has been accepted by IEEE Intelligent Systems.
 * 2025/09: Honored to be named in the list of [the World's Top 2% Scientists 2025](https://topresearcherslist.com/Home/Profile/1103860) by Stanford University/Elsevier.
 * 2025/09: Our survey on [generalizable graph anomaly detection](https://arxiv.org/pdf/2509.06609) has been accepted by ICKG 2025.
