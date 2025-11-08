@@ -11,6 +11,8 @@ Hi there! I am Yixin Liu, a research fellow at the School of Information and Com
 
 News
 ------
+* 2024/11: Our paper on [LLM multi-agent system design](https://arxiv.org/pdf/2507.18224) has been accepted by AAAI 2026.
+* 2024/11: Our paper on [graph anomaly detection]() has been accepted by AAAI 2026.
 * 2025/10: Our position paper on [graph-augmented LLM agents](https://arxiv.org/pdf/2507.21407) has been accepted by IEEE Intelligent Systems.
 * 2025/09: Honored to be named in the list of [the World's Top 2% Scientists 2025](https://topresearcherslist.com/Home/Profile/1103860) by Stanford University/Elsevier.
 * 2025/09: Our survey on [generalizable graph anomaly detection](https://arxiv.org/pdf/2509.06609) has been accepted by ICKG 2025.
@@ -19,7 +21,7 @@ News
 * 2025/06: Our paper on [graph neural network](https://arxiv.org/pdf/2506.13083) has been accepted by TNNLS.
 * 2025/02: Our paper on [graph foundation model](https://link.springer.com/chapter/10.1007/978-981-96-8173-0_18) has been accepted by PAKDD 2025.
 * 2025/01: Our benchmark on [graph-level anomaly/OOD detection](https://arxiv.org/pdf/2406.15523) has been accepted by ICLR 2025.
-* 2024/12: Our paper on [graph fraud detection]() has been accepted by AAAI 2025.
+* 2024/12: Our paper on [graph fraud detection](https://arxiv.org/pdf/2502.13308) has been accepted by AAAI 2025.
 * 2024/09: Our paper on [generalist graph anomaly detection with in-context learning](https://arxiv.org/pdf/2405.16771) has been accepted by NeurIPS 2024.
 * 2024/08: Our paper on [data-efficient graph learning](https://arxiv.org/pdf/2405.16771) has been accepted by AI Magazine.
 * 2024/07: Our paper on [graph representation learning](https://arxiv.org/pdf/2407.19944) has been accepted by CIKM 2024.
