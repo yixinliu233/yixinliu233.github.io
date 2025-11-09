@@ -17,23 +17,19 @@ author_profile: true
 
 ## Conference
 -----
-* Assemble Your Crew: Automatic Multi-Agent Communication Topology Design via Autoregressive Graph Generation  
-\[[PDF](https://arxiv.org/pdf/2507.18224)\]  \[[Code](https://github.com/Shiy-Li/ARG-Designer)\]  
+* Assemble Your Crew: Automatic Multi-Agent Communication Topology Design via Autoregressive Graph Generation  \[[PDF](https://arxiv.org/pdf/2507.18224)\]  \[[Code](https://github.com/Shiy-Li/ARG-Designer)\]  
 Shiyuan Li, **Yixin Liu**, Qingsong Wen, Chengqi Zhang, Shirui Pan.  
 AAAI Conference on Artificial Intelligence (**AAAI**), 2026.
 
-* Correcting False Alarms from Unseen: Adapting Graph Anomaly Detectors at Test Time  
-\[[PDF]()\]  \[[Code]()\]  
+* Correcting False Alarms from Unseen: Adapting Graph Anomaly Detectors at Test Time  \[[PDF]()\]  \[[Code]()\]  
 Junjun Pan, **Yixin Liu**, Chuan Zhou, Fei Xiong, Alan Wee-Chung Liew, Shirui Pan.  
 AAAI Conference on Artificial Intelligence (**AAAI**), 2026.
 
-* A Survey of Generalization of Graph Anomaly Detection: From Transfer Learning to Foundation Models  
-\[[PDF](https://arxiv.org/pdf/2509.06609)\]  
+* A Survey of Generalization of Graph Anomaly Detection: From Transfer Learning to Foundation Models  \[[PDF](https://arxiv.org/pdf/2509.06609)\]  
 Junjun Pan, Yu Zheng, Yue Tan, **Yixin Liu†**.  
 International Conference on Knowledge Graph (**ICKG**), 2025.
 
-* FreeGAD: A Training-Free yet Effective Approach for Graph Anomaly Detection  
-\[[PDF](https://arxiv.org/pdf/2508.10594)\]    \[[Code](https://github.com/yunf-zhao/FreeGAD)\]  
+* FreeGAD: A Training-Free yet Effective Approach for Graph Anomaly Detection  \[[PDF](https://arxiv.org/pdf/2508.10594)\]    \[[Code](https://github.com/yunf-zhao/FreeGAD)\]  
 Yunfeng Zhao*, **Yixin Liu**\*, Shiyuan Li*, Qingfeng Chen, Yu Zheng, Shirui Pan.  
 ACM International Conference on Information and Knowledge Management (**CIKM**), 2025.
 
