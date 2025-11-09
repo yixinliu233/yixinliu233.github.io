@@ -18,12 +18,12 @@ author_profile: true
 ## Conference
 -----
 * Assemble Your Crew: Automatic Multi-Agent Communication Topology Design via Autoregressive Graph Generation  
-\[[PDF](https://arxiv.org/pdf/2507.18224)\]  
+\[[PDF](https://arxiv.org/pdf/2507.18224)\]  \[[Code](https://github.com/Shiy-Li/ARG-Designer)\]  
 Shiyuan Li, **Yixin Liu**, Qingsong Wen, Chengqi Zhang, Shirui Pan.  
 AAAI Conference on Artificial Intelligence (**AAAI**), 2026.
 
 * Correcting False Alarms from Unseen: Adapting Graph Anomaly Detectors at Test Time  
-\[[PDF]()\]  
+\[[PDF]()\]  \[[Code]()\]  
 Junjun Pan, **Yixin Liu**, Chuan Zhou, Fei Xiong, Alan Wee-Chung Liew, Shirui Pan.  
 AAAI Conference on Artificial Intelligence (**AAAI**), 2026.
 
@@ -33,17 +33,15 @@ Junjun Pan, Yu Zheng, Yue Tan, **Yixin Liu†**.
 International Conference on Knowledge Graph (**ICKG**), 2025.
 
 * FreeGAD: A Training-Free yet Effective Approach for Graph Anomaly Detection  
-\[[PDF](https://arxiv.org/pdf/2508.10594)\]  
+\[[PDF](https://arxiv.org/pdf/2508.10594)\]    \[[Code](https://github.com/yunf-zhao/FreeGAD)\]  
 Yunfeng Zhao*, **Yixin Liu**\*, Shiyuan Li*, Qingfeng Chen, Yu Zheng, Shirui Pan.  
 ACM International Conference on Information and Knowledge Management (**CIKM**), 2025.
 
-* Understanding the Information Propagation Effects of Communication Topologies in LLM-based Multi-Agent Systems  
-\[[PDF](https://arxiv.org/pdf/2505.23352)\]  
+* Understanding the Information Propagation Effects of Communication Topologies in LLM-based Multi-Agent Systems  \[[PDF](https://arxiv.org/pdf/2505.23352)\]  \[[Code](https://github.com/se7esx/EIB_learner)\]  
 Xu Shen*, **Yixin Liu**\*, Yiwei Dai, Yili Wang, Rui Miao, Yue Tan, Shirui Pan, Xin Wang.  
 Conference on Empirical Methods in Natural Language Processing (**EMNLP**), 2025.
 
-* SpecG: A Spectral-based Framework for Effective Graph Pre-training and Knowledge Transfer  
-\[[PDF](https://link.springer.com/chapter/10.1007/978-981-96-8173-0_18)\]  
+* SpecG: A Spectral-based Framework for Effective Graph Pre-training and Knowledge Transfer  \[[PDF](https://link.springer.com/chapter/10.1007/978-981-96-8173-0_18)\]  
 Zizhe Jin, Yizhen Zheng, Linhao Luo, **Yixin Liu**, Xin Zheng, Xuefei Yin, Vincent Lee, Shirui Pan.  
 Pacific-Asia Conference on Knowledge Discovery and Data Mining (**PAKDD**), 2025.
 
@@ -122,7 +120,7 @@ ACM International Conference on Information and Knowledge Management (**CIKM**),
 IEEE Intelligent Systems, 2025.
 
 * Uncertainty-Aware Graph Neural Networks: A Multi-Hop Evidence Fusion Approach  
-\[[PDF](https://arxiv.org/pdf/2506.13083)\]  
+\[[PDF](https://arxiv.org/pdf/2506.13083)\]  \[[Code](https://github.com/Shiy-Li/EFGNN)\]    
 Qingfeng Chen, Shiyuan Li, **Yixin Liu**, Shirui Pan, Geoffrey Webb, Shichao Zhang.  
 IEEE Transactions on Neural Networks and Learning Systems (**TNNLS**), 2025.
 
