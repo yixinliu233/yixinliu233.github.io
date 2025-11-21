@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hi there! I am Yixin Liu, a research fellow at the School of Information and Communication Technology (ICT), Griffith University, Australia, advised by [Prof. Shirui Pan](https://shiruipan.github.io/). Previous to that, I obtained my Ph.D. degree from the Faculty of Information Technology, Monash University, Australia in 2024, and obtained my B.S.&M.E. degree from Beihang University, China in 2017 and 2020, respectively. My research interests are in graph neural networks, large language models, agentic AI, and anomaly detection. I am a recipient of the [Google Ph.D. Fellowship](https://research.google/outreach/phd-fellowship) in 2022.
+Hi there! I am Yixin Liu, a research fellow at the School of Information and Communication Technology (ICT), Griffith University, Australia. Previous to that, I obtained my Ph.D. degree from the Faculty of Information Technology, Monash University, Australia in 2024, and obtained my B.S.&M.E. degree from Beihang University, China in 2017 and 2020, respectively. My research interests are in graph neural networks, large language models, agentic AI, and anomaly detection. I am a recipient of the [Google Ph.D. Fellowship](https://research.google/outreach/phd-fellowship) in 2022.
 
 News
 ------
