@@ -11,6 +11,7 @@ Hi there! I am Yixin Liu, a research fellow at the School of Information and Com
 
 News
 ------
+* 2025/12: Our survey on [Domain generalization/adaptation](https://arxiv.org/pdf/2504.14280) has been accepted by TPAMI.
 * 2025/11: Honored and thrilled to receive [ARC DECRA Fellowship 2026](https://rms.arc.gov.au/RMS/Report/Download/Report/a3f6be6e-33f7-4fb5-98a6-7526aaa184cf/285) (AU$496,368) for supporting my research on graph anomaly detection!
 * 2025/11: Our paper on [LLM multi-agent system design](https://arxiv.org/pdf/2507.18224) has been accepted by AAAI 2026.
 * 2025/11: Our paper on [graph anomaly detection]() has been accepted by AAAI 2026.
