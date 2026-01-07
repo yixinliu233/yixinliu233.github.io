@@ -7,10 +7,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hi there! I am Yixin Liu, a research fellow at the School of Information and Communication Technology (ICT), Griffith University, Australia. Previous to that, I obtained my Ph.D. degree from the Faculty of Information Technology, Monash University, Australia in 2024, and obtained my B.S.&M.E. degree from Beihang University, China in 2017 and 2020, respectively. My research interests are in graph neural networks, large language models, agentic AI, and anomaly detection. I am a recipient of the [Google Ph.D. Fellowship](https://research.google/outreach/phd-fellowship) in 2022.
+Hi there! I am Yixin Liu, a Lecturer and ARC DECRA Fellow at the School of Information and Communication Technology (ICT), Griffith University, Australia. Before taking up this role, I worked as a Research Fellow (Postdoc) at Griffith University starting from 2024. I received my Ph.D. from the Faculty of Information Technology, Monash University, in 2024, and obtained my B.S. and M.E. degrees from Beihang University, China, in 2017 and 2020, respectively. My research interests lie in graph neural networks, large language models, agentic AI, and anomaly detection.
 
 News
 ------
+* 2026/01: Honored and excited to be appointed as a Lecturer (Assistant Professor equivalent) at Griffith University!
 * 2025/12: Our survey on [domain generalization/adaptation](https://arxiv.org/pdf/2504.14280) has been accepted by TPAMI.
 * 2025/11: Honored and thrilled to receive [ARC DECRA Fellowship 2026](https://rms.arc.gov.au/RMS/Report/Download/Report/a3f6be6e-33f7-4fb5-98a6-7526aaa184cf/285) (AU$496,368) for supporting my research on graph anomaly detection!
 * 2025/11: Our paper on [LLM multi-agent system design](https://arxiv.org/pdf/2507.18224) has been accepted by AAAI 2026.
