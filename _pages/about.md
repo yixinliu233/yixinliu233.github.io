@@ -7,15 +7,16 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hi there! I am Yixin Liu, an ARC DECRA Fellow and Lecturer (Assistant Professor equivalent in the US system) at the School of Information and Communication Technology (ICT), Griffith University, Australia. Before taking up this role, I worked as a Research Fellow at Griffith University starting from 2024. I received my Ph.D. from the Faculty of Information Technology, Monash University, in 2024, and obtained my B.S. and M.E. degrees from Beihang University, China, in 2017 and 2020, respectively. My research interests lie in graph neural networks, large language models, agentic AI, and anomaly detection.
+Hi there! I am Yixin Liu, an ARC DECRA Fellow and Lecturer (Assistant Professor equivalent in the US system) at the School of Information and Communication Technology (ICT), Griffith University, Australia. Before taking up this role, I worked as a Research Fellow at Griffith University starting from 2024. I am a core member of the TrustAGI Lab led by [Prof. Shirui Pan](https://shiruipan.github.io/) and [Prof. Alan Liew](https://experts.griffith.edu.au/7401-alan-weechung-liew). I received my Ph.D. from the Faculty of Information Technology, Monash University, in 2024, and obtained my B.S. and M.E. degrees from Beihang University, China, in 2017 and 2020, respectively. My research interests lie in anomaly detection, graph neural networks, large language models, and agentic AI.
 
 News
 ------
+* 2026/01: Our paper on [LLM multi-agent system design]() has been accepted by WWW 2026.
 * 2026/01: Honored and excited to be appointed as a Lecturer (Assistant Professor equivalent) at Griffith University!
 * 2025/12: Our survey on [domain generalization/adaptation](https://arxiv.org/pdf/2504.14280) has been accepted by TPAMI.
 * 2025/11: Honored and thrilled to receive [ARC DECRA Fellowship 2026](https://rms.arc.gov.au/RMS/Report/Download/Report/a3f6be6e-33f7-4fb5-98a6-7526aaa184cf/285) (AU$496,368) for supporting my research on graph anomaly detection!
 * 2025/11: Our paper on [LLM multi-agent system design](https://arxiv.org/pdf/2507.18224) has been accepted by AAAI 2026.
-* 2025/11: Our paper on [graph anomaly detection]() has been accepted by AAAI 2026.
+* 2025/11: Our paper on [graph anomaly detection](https://arxiv.org/pdf/2511.07023) has been accepted by AAAI 2026.
 * 2025/10: Our position paper on [graph-augmented LLM agents](https://arxiv.org/pdf/2507.21407) has been accepted by IEEE Intelligent Systems.
 * 2025/09: Honored to be named in the list of [the World's Top 2% Scientists 2025](https://topresearcherslist.com/Home/Profile/1103860) by Stanford University/Elsevier.
 * 2025/09: Our survey on [generalizable graph anomaly detection](https://arxiv.org/pdf/2509.06609) has been accepted by ICKG 2025.
