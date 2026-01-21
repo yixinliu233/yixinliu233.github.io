@@ -11,7 +11,7 @@ Hi there! I am Yixin Liu, an ARC DECRA Fellow and Lecturer (Assistant Professor 
 
 News
 ------
-* 2026/01: Our paper on [LLM multi-agent system design]() has been accepted by WWW 2026.
+* 2026/01: Our paper on [LLM multi-agent system design](https://arxiv.org/pdf/2601.12996) has been accepted by WWW 2026.
 * 2026/01: Honored and excited to be appointed as a Lecturer (Assistant Professor equivalent) at Griffith University!
 * 2025/12: Our survey on [domain generalization/adaptation](https://arxiv.org/pdf/2504.14280) has been accepted by TPAMI.
 * 2025/11: Honored and thrilled to receive [ARC DECRA Fellowship 2026](https://rms.arc.gov.au/RMS/Report/Download/Report/a3f6be6e-33f7-4fb5-98a6-7526aaa184cf/285) (AU$496,368) for supporting my research on graph anomaly detection!
