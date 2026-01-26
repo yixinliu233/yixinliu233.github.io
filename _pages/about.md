@@ -7,7 +7,14 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hi there! I am Yixin Liu, an ARC DECRA Fellow and Lecturer (Assistant Professor equivalent in the US system) at the School of Information and Communication Technology (ICT), Griffith University, Australia. Before taking up this role, I worked as a Research Fellow at Griffith University starting from 2024. I am a core member of the TrustAGI Lab led by [Prof. Shirui Pan](https://shiruipan.github.io/) and [Prof. Alan Liew](https://experts.griffith.edu.au/7401-alan-weechung-liew). I received my Ph.D. from the Faculty of Information Technology, Monash University, in 2024, and obtained my B.S. and M.E. degrees from Beihang University, China, in 2017 and 2020, respectively. My research interests lie in anomaly detection, graph neural networks, large language models, and agentic AI.
+Hi there! I am Yixin Liu, an ARC DECRA Fellow and Lecturer (Assistant Professor equivalent in the US system) at the School of Information and Communication Technology (ICT), Griffith University, Australia. Before taking up this role, I worked as a Research Fellow at Griffith University starting in 2024. I am a core member of the TrustAGI Lab led by [Prof. Shirui Pan](https://shiruipan.github.io/). I received my Ph.D. from the Faculty of Information Technology, Monash University, in 2024, and obtained my B.S. and M.E. degrees from Beihang University, China, in 2017 and 2020, respectively. My research interests lie in anomaly detection, graph neural networks, large language models, and agentic AI.
+
+<details>
+<summary>[Details]</summary>
+- Graph Anomaly Detection: 
+- Graph Out-of-Distribution Detection:
+- Graph Out-of-Distribution Generalization:
+</details>
 
 News
 ------
