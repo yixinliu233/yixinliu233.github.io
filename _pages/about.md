@@ -11,12 +11,12 @@ Hi there! I am Yixin Liu, an ARC DECRA Fellow and Lecturer (Tenure-Track Assista
 
 My research aims to build intelligent systems that can act (Agentic AI), understand structured worlds (Structural AI), and remain reliable under uncertainty and distribution shifts (Truthworthy AI). Research areas of particular interest include:
 
-🛡️Truthworthy AI
+🛡️ Truthworthy AI
 
 <details>
 <summary>Anomaly Detection</summary>
   
-- Anomaly Detection on Graph Data: [CoLA (TNNLS'21)](https://arxiv.org/pdf/2103.00113.pdf), [TADDY (TKDE'21)](https://arxiv.org/pdf/2106.09876.pdf), 
+- Anomaly Detection on Graph Data: [CoLA (TNNLS'21)](https://arxiv.org/pdf/2103.00113.pdf), [TADDY (TKDE'21)](https://arxiv.org/pdf/2106.09876.pdf), [SL-GAD (TKDE'21)](https://arxiv.org/pdf/2108.09896), [ANEMONE (CIKM'21)](https://dl.acm.org/doi/10.1145/3459637.3482057), [PREM (ICDM'23)](https://arxiv.org/pdf/2310.11676)
 
 - Anomaly Detection on Text Data: [MCA$^2$ (arXiv'26)]()
 
@@ -26,7 +26,7 @@ My research aims to build intelligent systems that can act (Agentic AI), underst
 <details>
 <summary>Learning with Distribution Shift</summary>
   
-- Graph Out-of-Distribution Detection:
+- Graph Out-of-Distribution Detection: [GOOD-D (WSDM'23)](https://arxiv.org/pdf/2211.04208.pdf), 
 
 - Graph Out-of-Distribution Generalization: [MPHIL (arXiv'25)](https://arxiv.org/pdf/2502.10706)
 
@@ -38,17 +38,17 @@ My research aims to build intelligent systems that can act (Agentic AI), underst
   
 - General Federated Learning: 
   
-- Federated Graph Learning: 
+- Federated Graph Learning: [FedSTAR (AAAI'23)](https://arxiv.org/pdf/2211.13009.pdf)
 </details>
 
-🕸️Structural AI
+🕸️ Structural AI
 
 <details>
 <summary>Learning on Graphs</summary>
 
-- Graph Neural Networks: [Heterophily GNN Survey (arXiv'22)](https://arxiv.org/pdf/2202.07082)
+- Graph Neural Networks: [SUBLIME (WWW'22)](https://dl.acm.org/doi/10.1145/3485447.3512186), [Heterophily GNN Survey (arXiv'22)](https://arxiv.org/pdf/2202.07082), [CycProp (WWWJ'22)](https://link.springer.com/article/10.1007/s11280-021-00906-2), [D$^2$PT (KDD'23)](https://arxiv.org/pdf/2305.18457.pdf)
 
-- Graph Self-Supervised Learning:
+- Graph Self-Supervised Learning: [GSSL Survey (TKDE'22)](https://ieeexplore.ieee.org/document/9770382), [GREET (AAAI'23)](https://arxiv.org/pdf/2211.14065.pdf)
 
 - Data-Centric Graph Learning: [Data-Centric Survey (arXiv'23)](https://arxiv.org/pdf/2309.10979)
   
@@ -59,7 +59,7 @@ My research aims to build intelligent systems that can act (Agentic AI), underst
 - Tabular Data Imputation: 
 </details>
 
-🤖Agentic AI
+🤖 Agentic AI
 
 <details>
 <summary>General Agentic AI</summary>
