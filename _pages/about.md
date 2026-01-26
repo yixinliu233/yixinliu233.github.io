@@ -11,14 +11,47 @@ Hi there! I am Yixin Liu, an ARC DECRA Fellow and Lecturer (Tenure-Track Assista
 
 My research aims to build intelligent systems that can act (Agentic AI), understand structured worlds (Structural AI), and remain reliable under uncertainty and distribution shifts (Truthworthy AI). Research areas ofparticular interest include:
 
-- <details>
-<summary>[Truthworthy AI]</summary>
-- Graph Anomaly Detection: 
+- Truthworthy AI
+
+<details>
+<summary>[Anomaly Detection]</summary>
+- Anomaly Detection for Graphs: 
+- Anomaly Detection for Text:
+- Anomaly Detection for Tabular Data:
+</details>
+
+<details>
+<summary>[Learning with Distribution Shift]</summary>
 - Graph Out-of-Distribution Detection:
 - Graph Out-of-Distribution Generalization:
+- Domain Adaptation/Generalization: 
+</details>
+
+<details>
+<summary>[Federated Learning]</summary>
+- General Federated Learning: 
+  
+- Federated Graph Learning: 
 </details>
 
 - Structural AI
+
+<details>
+<summary>[Learning on Graphs]</summary>
+- Graph Self-Supervised Learning: 
+  
+- Graph Semi-Supervised Learning:
+
+- Graph Structure Learning:
+
+- Graph Foundation Models:
+
+</details>
+
+<details>
+<summary>[Learning on Tabular Data]</summary>
+- Tabular Data Imputation: 
+</details>
 
 - Agentic AI
 
