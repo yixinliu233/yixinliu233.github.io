@@ -36,7 +36,7 @@ My research aims to build intelligent systems that can act (Agentic AI), underst
 <details>
 <summary>Federated Learning</summary>
   
-- General Federated Learning: [Survey (ICMLC'24)](https://link.springer.com/article/10.1007/s13042-024-02119-1)
+- General Federated Learning: <a href="https://link.springer.com/article/10.1007/s13042-024-02119-1">Survey (ICMLC'24)</a>
   
 - Federated Graph Learning: [FedSTAR (AAAI'23)](https://arxiv.org/pdf/2211.13009.pdf)
 </details>
