@@ -11,7 +11,7 @@ Hi there! I am Yixin Liu, an ARC DECRA Fellow and Lecturer (Tenure-Track Assista
 
 My research aims to build intelligent systems that can act (Agentic AI), understand structured worlds (Structural AI), and remain reliable under uncertainty and distribution shifts (Truthworthy AI). Research areas of particular interest include:
 
-- Truthworthy AI
+Truthworthy AI
 
 <details>
 <summary>Anomaly Detection</summary>
@@ -28,7 +28,7 @@ My research aims to build intelligent systems that can act (Agentic AI), underst
   
 - Graph Out-of-Distribution Detection:
 
-- Graph Out-of-Distribution Generalization:
+- Graph Out-of-Distribution Generalization: [MPHIL (arXiv'25)](https://arxiv.org/pdf/2502.10706)
 
 - Domain Adaptation/Generalization: 
 </details>
@@ -41,18 +41,17 @@ My research aims to build intelligent systems that can act (Agentic AI), underst
 - Federated Graph Learning: 
 </details>
 
-- Structural AI
+Structural AI
 
 <details>
 <summary>Learning on Graphs</summary>
-- Graph Self-Supervised Learning: 
+
+- Graph Neural Networks: [Heterophily GNN Survey (arXiv'22)](https://arxiv.org/pdf/2202.07082)
+
+- Graph Self-Supervised Learning:
+
+- Data-Centric Graph Learning: [Data-Centric Survey (arXiv'23)](https://arxiv.org/pdf/2309.10979)
   
-- Graph Semi-Supervised Learning:
-
-- Graph Structure Learning:
-
-- Graph Foundation Models:
-
 </details>
 
 <details>
@@ -60,7 +59,25 @@ My research aims to build intelligent systems that can act (Agentic AI), underst
 - Tabular Data Imputation: 
 </details>
 
-- Agentic AI
+Agentic AI
+
+<details>
+<summary>General Agentic AI</summary>
+  
+- Graph-Augmented Agentic System:
+
+- Agentic Memory: 
+</details>
+
+<details>
+<summary>LLM-based Multi-Agent System</summary>
+  
+- Multi-Agent System Design:
+
+- Safeguarding Multi-Agent System: [BlindGuard (arXiv'25)](https://arxiv.org/pdf/2508.08127), [XG-Guard (arXiv'25)](https://arxiv.org/pdf/2512.18733)
+</details>
+
+
 
 News
 ------
