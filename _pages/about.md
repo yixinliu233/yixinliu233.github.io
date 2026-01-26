@@ -9,14 +9,14 @@ redirect_from:
 ---
 Hi there! I am Yixin Liu, an ARC DECRA Fellow and Lecturer (Tenure-Track Assistant Professor equivalent in the US system) at the School of Information and Communication Technology (ICT), Griffith University, Australia. Before taking up this role, I worked as a Research Fellow at Griffith University starting in 2024. I am a core member of the TrustAGI Lab led by [Prof. Shirui Pan](https://shiruipan.github.io/). I received my Ph.D. from the Faculty of Information Technology, Monash University, in 2024, and obtained my B.S. and M.E. degrees from Beihang University, China, in 2017 and 2020, respectively. 
 
-My research aims to build intelligent systems that can act (Agentic AI), understand structured worlds (Structural AI), and remain reliable under uncertainty and distribution shifts (Truthworthy AI). Research areas ofparticular interest include:
+My research aims to build intelligent systems that can act (Agentic AI), understand structured worlds (Structural AI), and remain reliable under uncertainty and distribution shifts (Truthworthy AI). Research areas of particular interest include:
 
 - Truthworthy AI
 
 <details>
 <summary>Anomaly Detection</summary>
   
-- Anomaly Detection on Graph Data: [CoLA (TNNLS'21)](https://arxiv.org/pdf/2103.00113.pdf), 
+- Anomaly Detection on Graph Data: [CoLA (TNNLS'21)](https://arxiv.org/pdf/2103.00113.pdf), [TADDY (TKDE'21)](https://arxiv.org/pdf/2106.09876.pdf), 
 
 - Anomaly Detection on Text Data: [MCA$^2$ (arXiv'26)]()
 
@@ -25,13 +25,17 @@ My research aims to build intelligent systems that can act (Agentic AI), underst
 
 <details>
 <summary>Learning with Distribution Shift</summary>
+  
 - Graph Out-of-Distribution Detection:
+
 - Graph Out-of-Distribution Generalization:
+
 - Domain Adaptation/Generalization: 
 </details>
 
 <details>
 <summary>Federated Learning</summary>
+  
 - General Federated Learning: 
   
 - Federated Graph Learning: 
