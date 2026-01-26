@@ -23,7 +23,7 @@ My research aims to build intelligent systems that can act (Agentic AI), underst
 - Anomaly Detection on Tabular Data: [OFA-TAD (arXiv'26)]()
 </details>
 
-<details>
+<details  class="mm-collapse" markdown="1">
 <summary>Learning with Distribution Shift</summary>
   
 - Graph Out-of-Distribution Detection: [GOOD-D (WSDM'23)](https://arxiv.org/pdf/2211.04208.pdf), [GOODAT (AAAI'24)](https://arxiv.org/pdf/2401.06176v1)
@@ -33,17 +33,17 @@ My research aims to build intelligent systems that can act (Agentic AI), underst
 - Domain Adaptation/Generalization: [CLIP4DADG Survey (TPAMI'26)](https://arxiv.org/pdf/2504.14280)
 </details>
 
-<details>
+<details  class="mm-collapse" markdown="1">
 <summary>Federated Learning</summary>
   
-- General Federated Learning: <a href="https://link.springer.com/article/10.1007/s13042-024-02119-1">Survey (ICMLC'24)</a>
+- General Federated Learning: [Survey (ICMLC'24)](https://link.springer.com/article/10.1007/s13042-024-02119-1)
   
 - Federated Graph Learning: [FedSTAR (AAAI'23)](https://arxiv.org/pdf/2211.13009.pdf)
 </details>
 
 🕸️ Structural AI
 
-<details>
+<details  class="mm-collapse" markdown="1">
 <summary>Learning on Graphs</summary>
 
 - Graph Neural Networks: [SUBLIME (WWW'22)](https://dl.acm.org/doi/10.1145/3485447.3512186), [Heterophily GNN Survey (arXiv'22)](https://arxiv.org/pdf/2202.07082), [CycProp (WWWJ'22)](https://link.springer.com/article/10.1007/s11280-021-00906-2), [D2PT (KDD'23)](https://arxiv.org/pdf/2305.18457.pdf), [DND-NET (KDD'24)](https://dl.acm.org/doi/pdf/10.1145/3637528.3671798), [SpecG (PAKDD'25)](https://link.springer.com/chapter/10.1007/978-981-96-8173-0_18), [EFGNN (TNNLS'25)](https://arxiv.org/pdf/2506.13083)
@@ -56,7 +56,7 @@ My research aims to build intelligent systems that can act (Agentic AI), underst
   
 </details>
 
-<details>
+<details  class="mm-collapse" markdown="1">
 <summary>Learning on Tabular Data</summary>
   
 - Tabular Data Imputation: [SimpDM (CIKM'24)](https://dl.acm.org/doi/pdf/10.1145/3627673.3679829)
@@ -64,7 +64,7 @@ My research aims to build intelligent systems that can act (Agentic AI), underst
 
 🤖 Agentic AI
 
-<details>
+<details  class="mm-collapse" markdown="1">
 <summary>LLM-based Multi-Agent System</summary>
   
 - Multi-Agent System Design: [EIB-Learner (EMNLP'25)](https://arxiv.org/pdf/2505.23352), [ARG-Designer (AAAI'26)](https://arxiv.org/pdf/2507.18224), [OFA-MAS (WWW'26)](https://arxiv.org/pdf/2601.12996)
@@ -72,7 +72,7 @@ My research aims to build intelligent systems that can act (Agentic AI), underst
 - Safeguarding Multi-Agent System: [BlindGuard (arXiv'25)](https://arxiv.org/pdf/2508.08127), [XG-Guard (arXiv'25)](https://arxiv.org/pdf/2512.18733)
 </details>
 
-<details>
+<details  class="mm-collapse" markdown="1">
 <summary>LLM-based Agents</summary>
   
 - Graph-Augmented Agentic System: [Survey (IntellSyst'26)](https://arxiv.org/pdf/2507.21407)
