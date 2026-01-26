@@ -15,11 +15,12 @@ My research aims to build intelligent systems that can act (Agentic AI), underst
 
 <details>
 <summary>Anomaly Detection</summary>
-- Anomaly Detection on Graphs: [CoLA (TNNLS'21)](https://arxiv.org/pdf/2103.00113.pdf), [TADDY (TKDE'21)](https://arxiv.org/pdf/2106.09876.pdf)
   
-- Anomaly Detection on Textual Data: [CoLA (TNNLS'21)](https://arxiv.org/pdf/2103.00113.pdf), 
+- Anomaly Detection on Graph Data: [CoLA (TNNLS'21)](https://arxiv.org/pdf/2103.00113.pdf), 
 
-- Anomaly Detection on Tabular Data:
+- Anomaly Detection on Text Data: [MCA$^2$ (arXiv'26)]()
+
+- Anomaly Detection on Tabular Data: [OFA-TAD (arXiv'26)]()
 </details>
 
 <details>
