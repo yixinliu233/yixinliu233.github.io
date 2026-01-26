@@ -14,21 +14,23 @@ My research aims to build intelligent systems that can act (Agentic AI), underst
 - Truthworthy AI
 
 <details>
-<summary>[Anomaly Detection]</summary>
-- Anomaly Detection for Graphs: 
-- Anomaly Detection for Text:
-- Anomaly Detection for Tabular Data:
+<summary>Anomaly Detection</summary>
+- Anomaly Detection on Graphs: [CoLA (TNNLS'21)](https://arxiv.org/pdf/2103.00113.pdf), [TADDY (TKDE'21)](https://arxiv.org/pdf/2106.09876.pdf)
+  
+- Anomaly Detection on Textual Data: 
+
+- Anomaly Detection on Tabular Data:
 </details>
 
 <details>
-<summary>[Learning with Distribution Shift]</summary>
+<summary>Learning with Distribution Shift</summary>
 - Graph Out-of-Distribution Detection:
 - Graph Out-of-Distribution Generalization:
 - Domain Adaptation/Generalization: 
 </details>
 
 <details>
-<summary>[Federated Learning]</summary>
+<summary>Federated Learning</summary>
 - General Federated Learning: 
   
 - Federated Graph Learning: 
@@ -37,7 +39,7 @@ My research aims to build intelligent systems that can act (Agentic AI), underst
 - Structural AI
 
 <details>
-<summary>[Learning on Graphs]</summary>
+<summary>Learning on Graphs</summary>
 - Graph Self-Supervised Learning: 
   
 - Graph Semi-Supervised Learning:
@@ -49,7 +51,7 @@ My research aims to build intelligent systems that can act (Agentic AI), underst
 </details>
 
 <details>
-<summary>[Learning on Tabular Data]</summary>
+<summary>Learning on Tabular Data</summary>
 - Tabular Data Imputation: 
 </details>
 
