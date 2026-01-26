@@ -7,14 +7,20 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hi there! I am Yixin Liu, an ARC DECRA Fellow and Lecturer (Assistant Professor equivalent in the US system) at the School of Information and Communication Technology (ICT), Griffith University, Australia. Before taking up this role, I worked as a Research Fellow at Griffith University starting in 2024. I am a core member of the TrustAGI Lab led by [Prof. Shirui Pan](https://shiruipan.github.io/). I received my Ph.D. from the Faculty of Information Technology, Monash University, in 2024, and obtained my B.S. and M.E. degrees from Beihang University, China, in 2017 and 2020, respectively. My research interests lie in anomaly detection, graph neural networks, large language models, and agentic AI.
+Hi there! I am Yixin Liu, an ARC DECRA Fellow and Lecturer (Tenure-Track Assistant Professor equivalent in the US system) at the School of Information and Communication Technology (ICT), Griffith University, Australia. Before taking up this role, I worked as a Research Fellow at Griffith University starting in 2024. I am a core member of the TrustAGI Lab led by [Prof. Shirui Pan](https://shiruipan.github.io/). I received my Ph.D. from the Faculty of Information Technology, Monash University, in 2024, and obtained my B.S. and M.E. degrees from Beihang University, China, in 2017 and 2020, respectively. 
 
-<details>
-<summary>[Details]</summary>
+My research aims to build intelligent systems that can act (Agentic AI), understand structured worlds (Structural AI), and remain reliable under uncertainty and distribution shifts (Truthworthy AI). Research areas ofparticular interest include:
+
+- <details>
+<summary>[Truthworthy AI]</summary>
 - Graph Anomaly Detection: 
 - Graph Out-of-Distribution Detection:
 - Graph Out-of-Distribution Generalization:
 </details>
+
+- Structural AI
+
+- Agentic AI
 
 News
 ------
@@ -241,15 +247,17 @@ Selected Papers (first-author/co-first-author)
 
 Education 
 ------
-* Ph.D. (2021-2024) in Monash University
+* Ph.D. (2021-2024) at Monash University
 
-* M.S. (2017-2020) in Beihang University
+* M.S. (2017-2020) at Beihang University
 
-* B.S. (2013-2017) in Beihang University
+* B.S. (2013-2017) at Beihang University
 
 Experience 
 ------
-* **Griffith University**, ARC Research Fellow, 2024-present.
+* **Griffith University**, Lecturer and ARC DECRA Fellow, 2026-present.
+
+* **Griffith University**, Postdoctoral Research Fellow, 2024-2026.
 
 * **Amazon**, Applied Scientist Intern, 2023.
 
@@ -261,4 +269,4 @@ Contact
 ------
 * Email: yixin.liu\[at\]griffith\[dot\]edu\[dot\]au
 
-* Office: G23 2.38, 1 Parkland Dr, Southport, QLD 4215
+* Office: N44 1.23, 170 Kessels Road, Nathan, QLD 4111
