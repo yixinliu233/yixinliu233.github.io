@@ -11,13 +11,13 @@ Hi there! I am Yixin Liu, an ARC DECRA Fellow and Lecturer (Tenure-Track Assista
 
 My research aims to build intelligent systems that can act (Agentic AI), understand structured worlds (Structural AI), and remain reliable under uncertainty and distribution shifts (Truthworthy AI). Research areas of particular interest include:
 
-🛡️ Truthworthy AI
+🛡️ **Truthworthy AI** 
 <details  class="mm-collapse" markdown="1">
 <summary>Anomaly Detection</summary>
   
 - Anomaly/Fraud Detection on Graph Data: [CoLA (TNNLS'21)](https://arxiv.org/pdf/2103.00113.pdf), [TADDY (TKDE'21)](https://arxiv.org/pdf/2106.09876.pdf), [SL-GAD (TKDE'21)](https://arxiv.org/pdf/2108.09896), [ANEMONE (CIKM'21)](https://dl.acm.org/doi/10.1145/3459637.3482057), [PREM (ICDM'23)](https://arxiv.org/pdf/2310.11676), [SIGNET (NeurIPS'23)](https://arxiv.org/pdf/2310.16520.pdf), [ARC (NeurIPS'24)](https://arxiv.org/pdf/2405.16771), [FM4GAD Survey (ICKG'25)](https://arxiv.org/pdf/2509.06609), [HUGE (AAAI'25)](https://arxiv.org/pdf/2502.13308), [FreeGAD (CIKM'25)](https://arxiv.org/pdf/2508.10594), [UB-GOLD (ICLR'25)](https://arxiv.org/pdf/2406.15523), [TUNE (AAAI'26)](https://arxiv.org/pdf/2511.07023)
 
-- Anomaly Detection on Text Data: [MCA2 (arXiv'26)]()
+- Anomaly Detection on Text Data: [MCA2 (arXiv'26)](https://arxiv.org/pdf/2601.17786)
 
 - Anomaly Detection on Tabular Data: [OFA-TAD (arXiv'26)]()
 </details>
@@ -40,7 +40,7 @@ My research aims to build intelligent systems that can act (Agentic AI), underst
 - Federated Graph Learning: [FedSTAR (AAAI'23)](https://arxiv.org/pdf/2211.13009.pdf)
 </details>
 
-🕸️ Structural AI
+🕸️ **Structural AI**
 <details  class="mm-collapse" markdown="1">
 <summary>Learning on Graphs</summary>
 
@@ -60,7 +60,9 @@ My research aims to build intelligent systems that can act (Agentic AI), underst
 - Tabular Data Imputation: [SimpDM (CIKM'24)](https://dl.acm.org/doi/pdf/10.1145/3627673.3679829)
 </details>
 
-🤖 Agentic AI
+
+
+🤖 **Agentic AI**
 <details  class="mm-collapse" markdown="1">
 <summary>LLM-based Multi-Agent System</summary>
   
