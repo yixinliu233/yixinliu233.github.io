@@ -40,6 +40,8 @@ My research aims to build intelligent systems that can act (Agentic AI), underst
 - Federated Graph Learning: [FedSTAR (AAAI'23)](https://arxiv.org/pdf/2211.13009.pdf)
 </details>
 
+<div style="height:1em"></div>
+
 🕸️ **Structural AI**
 <details  class="mm-collapse" markdown="1">
 <summary>Learning on Graphs</summary>
@@ -60,7 +62,7 @@ My research aims to build intelligent systems that can act (Agentic AI), underst
 - Tabular Data Imputation: [SimpDM (CIKM'24)](https://dl.acm.org/doi/pdf/10.1145/3627673.3679829)
 </details>
 
-
+<div style="height:1em"></div>
 
 🤖 **Agentic AI**
 <details  class="mm-collapse" markdown="1">
