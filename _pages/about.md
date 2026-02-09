@@ -13,7 +13,7 @@ My research aims to build intelligent systems that can act (Agentic AI), underst
 
 🛡️ **Truthworthy AI** 
 
-<div style="height:-1em"></div>
+<div style="height:-2em"></div>
 
 <details  class="mm-collapse" markdown="1">
 <summary>Anomaly Detection</summary>
@@ -43,11 +43,11 @@ My research aims to build intelligent systems that can act (Agentic AI), underst
 - Federated Graph Learning: [FedSTAR (AAAI'23)](https://arxiv.org/pdf/2211.13009.pdf)
 </details>
 
-<div style="height:1em"></div>
+<div style="height:1.5em"></div>
 
 🕸️ **Structural AI**
 
-<div style="height:-1em"></div>
+<div style="height:-2em"></div>
 
 <details  class="mm-collapse" markdown="1">
 <summary>Learning on Graphs</summary>
@@ -68,11 +68,11 @@ My research aims to build intelligent systems that can act (Agentic AI), underst
 - Tabular Data Imputation: [SimpDM (CIKM'24)](https://dl.acm.org/doi/pdf/10.1145/3627673.3679829)
 </details>
 
-<div style="height:1em"></div>
+<div style="height:1.5em"></div>
 
 🤖 **Agentic AI**
 
-<div style="height:-1em"></div>
+<div style="height:-2em"></div>
 
 <details  class="mm-collapse" markdown="1">
 <summary>LLM-based Multi-Agent System</summary>
@@ -93,6 +93,7 @@ My research aims to build intelligent systems that can act (Agentic AI), underst
 
 News
 ------
+* 2026/02: Our paper on [Multimodal Recommendation]() has been accepted by PAKDD 2026.
 * 2026/01: Our paper on [LLM multi-agent system design](https://arxiv.org/pdf/2601.12996) has been accepted by WWW 2026.
 * 2026/01: Honored and excited to be appointed as a Lecturer (Assistant Professor equivalent) at Griffith University!
 * 2025/12: Our survey on [domain generalization/adaptation](https://arxiv.org/pdf/2504.14280) has been accepted by TPAMI.
