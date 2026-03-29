@@ -93,6 +93,7 @@ My research aims to build intelligent systems that can act (Agentic AI), underst
 
 News
 ------
+* 2026/03: Our survey on [heterophilic graph neural networks](https://arxiv.org/pdf/2202.07082) has been accepted by TKDE.
 * 2026/02: Our paper on [Multimodal Recommendation]() has been accepted by PAKDD 2026.
 * 2026/01: Our paper on [LLM multi-agent system design](https://arxiv.org/pdf/2601.12996) has been accepted by WWW 2026.
 * 2026/01: Honored and excited to be appointed as a Lecturer (Assistant Professor equivalent) at Griffith University!
