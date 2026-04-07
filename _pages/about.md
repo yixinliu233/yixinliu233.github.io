@@ -52,7 +52,7 @@ My research aims to build intelligent systems that can act (Agentic AI), underst
 <details  class="mm-collapse" markdown="1">
 <summary>Learning on Graphs</summary>
 
-- Graph Neural Networks: [SUBLIME (WWW'22)](https://dl.acm.org/doi/10.1145/3485447.3512186), [Heterophily GNN Survey (arXiv'22)](https://arxiv.org/pdf/2202.07082), [CycProp (WWWJ'22)](https://link.springer.com/article/10.1007/s11280-021-00906-2), [D2PT (KDD'23)](https://arxiv.org/pdf/2305.18457.pdf), [DND-NET (KDD'24)](https://dl.acm.org/doi/pdf/10.1145/3637528.3671798), [SpecG (PAKDD'25)](https://link.springer.com/chapter/10.1007/978-981-96-8173-0_18), [EFGNN (TNNLS'25)](https://arxiv.org/pdf/2506.13083)
+- Graph Neural Networks: [SUBLIME (WWW'22)](https://dl.acm.org/doi/10.1145/3485447.3512186), [CycProp (WWWJ'22)](https://link.springer.com/article/10.1007/s11280-021-00906-2), [D2PT (KDD'23)](https://arxiv.org/pdf/2305.18457.pdf), [DND-NET (KDD'24)](https://dl.acm.org/doi/pdf/10.1145/3637528.3671798), [SpecG (PAKDD'25)](https://link.springer.com/chapter/10.1007/978-981-96-8173-0_18), [EFGNN (TNNLS'25)](https://arxiv.org/pdf/2506.13083), [Heterophily GNN Survey (TKDE'26)](https://arxiv.org/pdf/2202.07082)
 
 - Graph Self-Supervised Learning: [GSSL Survey (TKDE'22)](https://ieeexplore.ieee.org/document/9770382), [GREET (AAAI'23)](https://arxiv.org/pdf/2211.14065.pdf), [MQE (CIKM'24)](https://arxiv.org/pdf/2407.19944) , [Position (AI Magazine'24)](https://onlinelibrary.wiley.com/doi/full/10.1002/aaai.12200)
 
@@ -79,7 +79,7 @@ My research aims to build intelligent systems that can act (Agentic AI), underst
   
 - Multi-Agent System Design: [EIB-Learner (EMNLP'25)](https://arxiv.org/pdf/2505.23352), [ARG-Designer (AAAI'26)](https://arxiv.org/pdf/2507.18224), [OFA-MAS (WWW'26)](https://arxiv.org/pdf/2601.12996)
 
-- Safeguarding Multi-Agent System: [BlindGuard (arXiv'25)](https://arxiv.org/pdf/2508.08127), [XG-Guard (arXiv'25)](https://arxiv.org/pdf/2512.18733)
+- Safeguarding Multi-Agent System: [BlindGuard (ACL'26)](https://arxiv.org/pdf/2508.08127), [XG-Guard (ACL'26)](https://arxiv.org/pdf/2512.18733)
 </details>
 
 <details  class="mm-collapse" markdown="1">
@@ -93,6 +93,8 @@ My research aims to build intelligent systems that can act (Agentic AI), underst
 
 News
 ------
+* 2026/04: Our paper on [explainable multi-agent system safeguarding](https://arxiv.org/pdf/2512.18733) has been accepted by ACL 2026 (main conf).
+* 2026/04: Our paper on [multi-agent system safeguarding](https://arxiv.org/pdf/2508.08127) has been accepted by ACL 2026 (main conf).
 * 2026/03: Our survey on [heterophilic graph neural networks](https://arxiv.org/pdf/2202.07082) has been accepted by TKDE.
 * 2026/02: Our paper on [multimodal recommendation]() has been accepted by PAKDD 2026.
 * 2026/01: Our paper on [LLM multi-agent system design](https://arxiv.org/pdf/2601.12996) has been accepted by WWW 2026.
@@ -104,7 +106,7 @@ News
 * 2025/10: Our position paper on [graph-augmented LLM agents](https://arxiv.org/pdf/2507.21407) has been accepted by IEEE Intelligent Systems.
 * 2025/09: Honored to be named in the list of [the World's Top 2% Scientists 2025](https://topresearcherslist.com/Home/Profile/1103860) by Stanford University/Elsevier.
 * 2025/09: Our survey on [generalizable graph anomaly detection](https://arxiv.org/pdf/2509.06609) has been accepted by ICKG 2025.
-* 2025/08: Our paper on [LLM multi-agent system design](https://arxiv.org/pdf/2505.23352) has been accepted by EMNLP 2025.
+* 2025/08: Our paper on [LLM multi-agent system design](https://arxiv.org/pdf/2505.23352) has been accepted by EMNLP 2025 (main conf).
 * 2025/08: Our paper on [graph anomaly detection](https://arxiv.org/pdf/2508.10594) has been accepted by CIKM 2025.
 * 2025/06: Our paper on [graph neural network](https://arxiv.org/pdf/2506.13083) has been accepted by TNNLS.
 * 2025/02: Our paper on [graph foundation model](https://link.springer.com/chapter/10.1007/978-981-96-8173-0_18) has been accepted by PAKDD 2025.
