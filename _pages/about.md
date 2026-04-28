@@ -93,8 +93,9 @@ My research aims to build intelligent systems that can act (Agentic AI), underst
 
 News
 ------
-* 2026/04: Our paper on [explainable multi-agent system safeguarding](https://arxiv.org/pdf/2512.18733) has been accepted by ACL 2026 (main conf).
-* 2026/04: Our paper on [multi-agent system safeguarding](https://arxiv.org/pdf/2508.08127) has been accepted by ACL 2026 (main conf).
+* 2026/04: Our paper on [generalist graph anomaly detection](https://arxiv.org/pdf/2602.18793) has been accepted by TKDE.
+* 2026/04: Our paper on [explainable multi-agent system safeguarding](https://arxiv.org/pdf/2512.18733) has been accepted by ACL 2026 (Main Conference).
+* 2026/04: Our paper on [multi-agent system safeguarding](https://arxiv.org/pdf/2508.08127) has been accepted by ACL 2026 (Main Conference).
 * 2026/03: Our survey on [heterophilic graph neural networks](https://arxiv.org/pdf/2202.07082) has been accepted by TKDE.
 * 2026/02: Our paper on [multimodal recommendation]() has been accepted by PAKDD 2026.
 * 2026/01: Our paper on [LLM multi-agent system design](https://arxiv.org/pdf/2601.12996) has been accepted by WWW 2026.
@@ -106,7 +107,7 @@ News
 * 2025/10: Our position paper on [graph-augmented LLM agents](https://arxiv.org/pdf/2507.21407) has been accepted by IEEE Intelligent Systems.
 * 2025/09: Honored to be named in the list of [the World's Top 2% Scientists 2025](https://topresearcherslist.com/Home/Profile/1103860) by Stanford University/Elsevier.
 * 2025/09: Our survey on [generalizable graph anomaly detection](https://arxiv.org/pdf/2509.06609) has been accepted by ICKG 2025.
-* 2025/08: Our paper on [LLM multi-agent system design](https://arxiv.org/pdf/2505.23352) has been accepted by EMNLP 2025 (main conf).
+* 2025/08: Our paper on [LLM multi-agent system design](https://arxiv.org/pdf/2505.23352) has been accepted by EMNLP 2025 (Main Conference).
 * 2025/08: Our paper on [graph anomaly detection](https://arxiv.org/pdf/2508.10594) has been accepted by CIKM 2025.
 * 2025/06: Our paper on [graph neural network](https://arxiv.org/pdf/2506.13083) has been accepted by TNNLS.
 * 2025/02: Our paper on [graph foundation model](https://link.springer.com/chapter/10.1007/978-981-96-8173-0_18) has been accepted by PAKDD 2025.
