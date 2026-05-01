@@ -65,7 +65,9 @@ My research aims to build intelligent systems that can act (Agentic AI), underst
 <details  class="mm-collapse" markdown="1">
 <summary>Learning on Tabular Data</summary>
   
-- Tabular Data Imputation: [SimpDM (CIKM'24)](https://dl.acm.org/doi/pdf/10.1145/3627673.3679829), [OFA-TAD (ICML'26)](https://arxiv.org/pdf/2603.14407)
+- Tabular Data Imputation: [SimpDM (CIKM'24)](https://dl.acm.org/doi/pdf/10.1145/3627673.3679829)
+
+- Tabular Data Anomaly Detection: [OFA-TAD (ICML'26)](https://arxiv.org/pdf/2603.14407)
 </details>
 
 <div style="height:1.5em"></div>
