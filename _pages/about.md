@@ -22,7 +22,7 @@ My research aims to build intelligent systems that can act (Agentic AI), underst
 
 - Anomaly Detection on Text Data: [MCA2 (arXiv'26)](https://arxiv.org/pdf/2601.17786)
 
-- Anomaly Detection on Tabular Data: [OFA-TAD (arXiv'26)]()
+- Anomaly Detection on Tabular Data: [OFA-TAD (ICML'26)](https://arxiv.org/pdf/2603.14407)
 </details>
 
 <details  class="mm-collapse" markdown="1">
@@ -54,7 +54,7 @@ My research aims to build intelligent systems that can act (Agentic AI), underst
 
 - Graph Neural Networks: [SUBLIME (WWW'22)](https://dl.acm.org/doi/10.1145/3485447.3512186), [CycProp (WWWJ'22)](https://link.springer.com/article/10.1007/s11280-021-00906-2), [D2PT (KDD'23)](https://arxiv.org/pdf/2305.18457.pdf), [DND-NET (KDD'24)](https://dl.acm.org/doi/pdf/10.1145/3637528.3671798), [SpecG (PAKDD'25)](https://link.springer.com/chapter/10.1007/978-981-96-8173-0_18), [EFGNN (TNNLS'25)](https://arxiv.org/pdf/2506.13083), [Heterophily GNN Survey (TKDE'26)](https://arxiv.org/pdf/2202.07082)
 
-- Graph Self-Supervised Learning: [GSSL Survey (TKDE'22)](https://ieeexplore.ieee.org/document/9770382), [GREET (AAAI'23)](https://arxiv.org/pdf/2211.14065.pdf), [MQE (CIKM'24)](https://arxiv.org/pdf/2407.19944) , [Position (AI Magazine'24)](https://onlinelibrary.wiley.com/doi/full/10.1002/aaai.12200)
+- Graph Self-Supervised Learning: [GSSL Survey (TKDE'22)](https://ieeexplore.ieee.org/document/9770382), [GREET (AAAI'23)](https://arxiv.org/pdf/2211.14065.pdf), [MQE (CIKM'24)](https://arxiv.org/pdf/2407.19944), [Position (AI Magazine'24)](https://onlinelibrary.wiley.com/doi/full/10.1002/aaai.12200)
 
 - Data-Centric Graph Learning: [Data-Centric Survey (arXiv'23)](https://arxiv.org/pdf/2309.10979)
 
@@ -65,7 +65,7 @@ My research aims to build intelligent systems that can act (Agentic AI), underst
 <details  class="mm-collapse" markdown="1">
 <summary>Learning on Tabular Data</summary>
   
-- Tabular Data Imputation: [SimpDM (CIKM'24)](https://dl.acm.org/doi/pdf/10.1145/3627673.3679829)
+- Tabular Data Imputation: [SimpDM (CIKM'24)](https://dl.acm.org/doi/pdf/10.1145/3627673.3679829), [OFA-TAD (ICML'26)](https://arxiv.org/pdf/2603.14407)
 </details>
 
 <div style="height:1.5em"></div>
