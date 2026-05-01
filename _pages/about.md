@@ -95,10 +95,10 @@ My research aims to build intelligent systems that can act (Agentic AI), underst
 
 News
 ------
-* 2026/05: Our paper on [generalist graph anomaly detection]() has been accepted by ICML 2026.
+* 2026/05: Our paper on [graph anomaly detection]() has been accepted by ICML 2026.
 * 2026/05: Our paper on [one-for-all tabular data anomaly detection](https://arxiv.org/pdf/2603.14407) has been accepted by ICML 2026.
-* 2026/05: Our paper on [text-attributed graph fraud detection]() has been accepted by IJCAI 2026.
-* 2026/05: Our paper on [federated graph anomaly detection]() has been accepted by IJCAI 2026.
+* 2026/05: Our paper on [graph fraud detection]() has been accepted by IJCAI 2026.
+* 2026/05: Our paper on [federated anomaly detection]() has been accepted by IJCAI 2026.
 * 2026/04: Our paper on [generalist graph anomaly detection](https://arxiv.org/pdf/2602.18793) has been accepted by TKDE.
 * 2026/04: Our paper on [explainable multi-agent system safeguarding](https://arxiv.org/pdf/2512.18733) has been accepted by ACL 2026 (Main Conference).
 * 2026/04: Our paper on [multi-agent system safeguarding](https://arxiv.org/pdf/2508.08127) has been accepted by ACL 2026 (Main Conference).
