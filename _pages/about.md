@@ -9,6 +9,10 @@ redirect_from:
 ---
 Hi there! I am Yixin Liu, an ARC DECRA Fellow and Lecturer (Tenure-Track Assistant Professor equivalent in the US system) at the School of Information and Communication Technology (ICT), Griffith University, Australia. Before taking up this role, I worked as a Research Fellow at Griffith University starting in 2024. I am a core member of the TrustAGI Lab led by [Prof. Shirui Pan](https://shiruipan.github.io/). I received my Ph.D. from the Faculty of Information Technology, Monash University, in 2024, and obtained my B.S. and M.E. degrees from Beihang University, China, in 2017 and 2020, respectively. 
 
+<div class="announcement">
+<p><strong>I am looking for self-motivated PhD students and interns!</strong> If you are interested in working with me, please fill out <a href="https://forms.gle/gJ2AiJnd2RzBt1F86">this form</a>. You are also welcome to follow up by email after submission. I will review all forms and emails carefully, but I do apologize that I may not be able to reply to every inquiry individually.</p>
+</div>
+
 My research aims to build intelligent systems that can act (Agentic AI), understand structured worlds (Structural AI), and remain reliable under uncertainty and distribution shifts (Truthworthy AI). Research areas of particular interest include:
 
 🛡️ **Truthworthy AI** 
