@@ -17,7 +17,6 @@ My research aims to build intelligent systems that can act (Agentic AI), underst
 
 🛡️ **Truthworthy AI** 
 
-<!-- <div style="height:-2em"></div> -->
 <div style="margin-top: -0.8em;"></div>
 
 <details  class="mm-collapse" markdown="1">
@@ -52,7 +51,7 @@ My research aims to build intelligent systems that can act (Agentic AI), underst
 
 🕸️ **Structural AI**
 
-<div style="height:-2em"></div>
+<div style="margin-top: -0.8em;"></div>
 
 <details  class="mm-collapse" markdown="1">
 <summary>Learning on Graphs</summary>
@@ -79,7 +78,7 @@ My research aims to build intelligent systems that can act (Agentic AI), underst
 
 🤖 **Agentic AI**
 
-<div style="height:-2em"></div>
+<div style="margin-top: -0.8em;"></div>
 
 <details  class="mm-collapse" markdown="1">
 <summary>LLM-based Multi-Agent System</summary>
