@@ -17,7 +17,8 @@ My research aims to build intelligent systems that can act (Agentic AI), underst
 
 🛡️ **Truthworthy AI** 
 
-<div style="height:-2em"></div>
+<!-- <div style="height:-2em"></div> -->
+<div style="margin-top: -0.8em;"></div>
 
 <details  class="mm-collapse" markdown="1">
 <summary>Anomaly Detection</summary>
