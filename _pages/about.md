@@ -153,6 +153,27 @@ News
 
 Selected Papers (first-author/co-first-author)
 ------
+<div style="display: flex; align-items: flex-start; gap: 16px; margin-bottom: 20px;">
+  <img width="200" src="/images/ubgold.png">
+  <div>
+    <strong>Unifying Unsupervised Graph-Level Anomaly Detection and Out-of-Distribution Detection: A Benchmark</strong><br>
+    Yili Wang*, <strong>Yixin Liu</strong>*, Xu Shen*, Chenyu Li*, Kaize Ding, Rui Miao, Ying Wang, Shirui Pan, Xin Wang<br>
+    International Conference on Learning Representations (<strong>ICLR</strong>), 2025<br>
+    <a href="https://arxiv.org/pdf/2406.15523.pdf">[Paper]</a>
+    <a href="https://github.com/UB-GOLD/UB-GOLD">[Code]</a>
+  </div>
+</div>
+
+<div style="display: flex; align-items: flex-start; gap: 16px; margin-bottom: 20px;">
+  <img width="200" src="/images/arc.png">
+  <div>
+    <strong>ARC: A Generalist Graph Anomaly Detector with in-Context Learning</strong><br>
+    <strong>Yixin Liu</strong>, Shiyuan Li, Yu Zheng, Qingfeng Chen, Chengqi Zhang, Shirui Pan<br>
+    Advances in Neural Information Processing Systems (<strong>NeurIPS</strong>), 2024<br>
+    <a href="https://arxiv.org/pdf/2405.16771.pdf">[Paper]</a>
+    <a href="https://github.com/yixinliu233/ARC">[Code]</a>
+  </div>
+</div>
 
 <dl>
   <dt><img align="left" width="200" hspace="10"  wspace="20" src="/images/ubgold.png"></dt>
