@@ -48,7 +48,7 @@ My research aims to build intelligent systems that can act (Agentic AI), underst
 
 - General Federated Learning: [Survey (ICMLC'24)](https://link.springer.com/article/10.1007/s13042-024-02119-1)
 
-- Federated Graph Learning: [FedSTAR (AAAI'23)](https://arxiv.org/pdf/2211.13009.pdf)
+- Federated Graph Learning: [FedSTAR (AAAI'23)](https://arxiv.org/pdf/2211.13009.pdf), [FedCIGAR (IJCAI'26)](https://arxiv.org/pdf/2605.09428), 
 
 </details>
 
@@ -112,10 +112,10 @@ My research aims to build intelligent systems that can act (Agentic AI), underst
 News
 ------
 * 2026/05: Our paper on [text anomaly detection](https://arxiv.org/pdf/2601.17786) has been accepted by ECML-PKDD 2026.
-* 2026/05: Our paper on [graph anomaly detection](https://arxiv.org/pdf/2605.25429) has been accepted by ICML 2026.
+* 2026/05: Our paper on [generalist graph anomaly detection](https://arxiv.org/pdf/2605.25429) has been accepted by ICML 2026.
 * 2026/05: Our paper on [one-for-all tabular data anomaly detection](https://arxiv.org/pdf/2603.14407) has been accepted by ICML 2026.
-* 2026/05: Our paper on [graph fraud detection](https://arxiv.org/pdf/2605.20032) has been accepted by IJCAI 2026.
-* 2026/05: Our paper on [federated anomaly detection](https://arxiv.org/pdf/2605.09428) has been accepted by IJCAI 2026.
+* 2026/05: Our paper on [text-attibuted graph fraud detection](https://arxiv.org/pdf/2605.20032) has been accepted by IJCAI 2026.
+* 2026/05: Our paper on [federated graph anomaly detection](https://arxiv.org/pdf/2605.09428) has been accepted by IJCAI 2026.
 * 2026/04: Our paper on [generalist graph anomaly detection](https://arxiv.org/pdf/2602.18793) has been accepted by TKDE.
 * 2026/04: Our paper on [explainable multi-agent system safeguarding](https://arxiv.org/pdf/2512.18733) has been accepted by ACL 2026 (Main Conference).
 * 2026/04: Our paper on [multi-agent system safeguarding](https://arxiv.org/pdf/2508.08127) has been accepted by ACL 2026 (Main Conference).
