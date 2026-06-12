@@ -15,50 +15,86 @@ Hi there! I am Yixin Liu, an ARC DECRA Fellow and Lecturer (Tenure-Track Assista
 
 My research aims to build intelligent systems that can act (Agentic AI), understand structured worlds (Structural AI), and remain reliable under uncertainty and distribution shifts (Truthworthy AI). Research areas of particular interest include:
 
-<div class="research-grid">
+🛡️ **Truthworthy AI** 
 
-  <div class="research-card">
-    <h3>🛡️ Truthworthy AI</h3>
-    <h4>Anomaly Detection</h4>
-    <p><strong>Graph Data:</strong> CoLA, TADDY, SL-GAD, ANEMONE, PREM, SIGNET, ARC, HUGE, FreeGAD, UB-GOLD, TUNE</p>
-    <p><strong>Text Data:</strong> MCA2</p>
-    <p><strong>Tabular Data:</strong> OFA-TAD</p>
+<div style="margin-top: -0.6em;"></div>
 
-    <h4>Learning with Distribution Shift</h4>
-    <p><strong>Graph OOD Detection:</strong> GOOD-D, GOODAT</p>
-    <p><strong>Graph OOD Generalization:</strong> MPHIL</p>
-    <p><strong>Domain Adaptation/Generalization:</strong> CLIP4DADG Survey</p>
+<details  class="mm-collapse" markdown="1">
+<summary>Anomaly Detection</summary>
+  
+- Anomaly/Fraud Detection on Graph Data: [CoLA (TNNLS'21)](https://arxiv.org/pdf/2103.00113.pdf), [TADDY (TKDE'21)](https://arxiv.org/pdf/2106.09876.pdf), [SL-GAD (TKDE'21)](https://arxiv.org/pdf/2108.09896), [ANEMONE (CIKM'21)](https://dl.acm.org/doi/10.1145/3459637.3482057), [PREM (ICDM'23)](https://arxiv.org/pdf/2310.11676), [SIGNET (NeurIPS'23)](https://arxiv.org/pdf/2310.16520.pdf), [ARC (NeurIPS'24)](https://arxiv.org/pdf/2405.16771), [FM4GAD Survey (ICKG'25)](https://arxiv.org/pdf/2509.06609), [HUGE (AAAI'25)](https://arxiv.org/pdf/2502.13308), [FreeGAD (CIKM'25)](https://arxiv.org/pdf/2508.10594), [UB-GOLD (ICLR'25)](https://arxiv.org/pdf/2406.15523), [TUNE (AAAI'26)](https://arxiv.org/pdf/2511.07023)
 
-    <h4>Federated Learning</h4>
-    <p><strong>General FL:</strong> Survey</p>
-    <p><strong>Federated Graph Learning:</strong> FedSTAR</p>
-  </div>
+- Anomaly Detection on Text Data: [MCA2 (ECML-PKDD'26)](https://arxiv.org/pdf/2601.17786)
 
-  <div class="research-card">
-    <h3>🕸️ Structural AI</h3>
-    <h4>Learning on Graphs</h4>
-    <p><strong>GNNs:</strong> SUBLIME, CycProp, D2PT, DND-NET, SpecG, EFGNN, Heterophily GNN Survey</p>
-    <p><strong>GSSL:</strong> GSSL Survey, GREET, MQE, Position</p>
-    <p><strong>Data-Centric Graph Learning:</strong> Data-Centric Survey</p>
-    <p><strong>Graphs for LLM:</strong> Position</p>
+- Anomaly Detection on Tabular Data: [OFA-TAD (ICML'26)](https://arxiv.org/pdf/2603.14407)
+</details>
 
-    <h4>Learning on Tabular Data</h4>
-    <p><strong>Imputation:</strong> SimpDM</p>
-    <p><strong>Anomaly Detection:</strong> OFA-TAD</p>
-  </div>
+<details  class="mm-collapse" markdown="1">
+<summary>Learning with Distribution Shift</summary>
+  
+- Graph Out-of-Distribution Detection: [GOOD-D (WSDM'23)](https://arxiv.org/pdf/2211.04208.pdf), [GOODAT (AAAI'24)](https://arxiv.org/pdf/2401.06176v1)
 
-  <div class="research-card">
-    <h3>🤖 Agentic AI</h3>
-    <h4>LLM-based Multi-Agent System</h4>
-    <p><strong>System Design:</strong> EIB-Learner, ARG-Designer, OFA-MAS</p>
-    <p><strong>Safeguarding:</strong> BlindGuard, XG-Guard</p>
+- Graph Out-of-Distribution Generalization: [MPHIL (arXiv'25)](https://arxiv.org/pdf/2502.10706)
 
-    <h4>LLM-based Agents</h4>
-    <p><strong>Graph-Augmented Agentic System:</strong> Survey</p>
-    <p><strong>Agentic Memory:</strong> Survey</p>
-  </div>
+- Domain Adaptation/Generalization: [CLIP4DADG Survey (TPAMI'26)](https://arxiv.org/pdf/2504.14280)
+</details>
 
-</div>
+<details  class="mm-collapse" markdown="1">
+<summary>Federated Learning</summary>
+  
+- General Federated Learning: [Survey (ICMLC'24)](https://link.springer.com/article/10.1007/s13042-024-02119-1)
+  
+- Federated Graph Learning: [FedSTAR (AAAI'23)](https://arxiv.org/pdf/2211.13009.pdf)
+</details>
+
+<div style="height:1em"></div>
+
+🕸️ **Structural AI**
+
+<div style="margin-top: -0.6em;"></div>
+
+<details  class="mm-collapse" markdown="1">
+<summary>Learning on Graphs</summary>
+
+- Graph Neural Networks: [SUBLIME (WWW'22)](https://dl.acm.org/doi/10.1145/3485447.3512186), [CycProp (WWWJ'22)](https://link.springer.com/article/10.1007/s11280-021-00906-2), [D2PT (KDD'23)](https://arxiv.org/pdf/2305.18457.pdf), [DND-NET (KDD'24)](https://dl.acm.org/doi/pdf/10.1145/3637528.3671798), [SpecG (PAKDD'25)](https://link.springer.com/chapter/10.1007/978-981-96-8173-0_18), [EFGNN (TNNLS'25)](https://arxiv.org/pdf/2506.13083), [Heterophily GNN Survey (TKDE'26)](https://arxiv.org/pdf/2202.07082)
+
+- Graph Self-Supervised Learning: [GSSL Survey (TKDE'22)](https://ieeexplore.ieee.org/document/9770382), [GREET (AAAI'23)](https://arxiv.org/pdf/2211.14065.pdf), [MQE (CIKM'24)](https://arxiv.org/pdf/2407.19944), [Position (AI Magazine'24)](https://onlinelibrary.wiley.com/doi/full/10.1002/aaai.12200)
+
+- Data-Centric Graph Learning: [Data-Centric Survey (arXiv'23)](https://arxiv.org/pdf/2309.10979)
+
+- Graphs for LLM: [Position (IntellSyst'24)](https://arxiv.org/abs/2310.05499)
+  
+</details>
+
+<details  class="mm-collapse" markdown="1">
+<summary>Learning on Tabular Data</summary>
+  
+- Tabular Data Imputation: [SimpDM (CIKM'24)](https://dl.acm.org/doi/pdf/10.1145/3627673.3679829)
+
+- Tabular Data Anomaly Detection: [OFA-TAD (ICML'26)](https://arxiv.org/pdf/2603.14407)
+</details>
+
+<div style="height:1em"></div>
+
+🤖 **Agentic AI**
+
+<div style="margin-top: -0.6em;"></div>
+
+<details  class="mm-collapse" markdown="1">
+<summary>LLM-based Multi-Agent System</summary>
+  
+- Multi-Agent System Design: [EIB-Learner (EMNLP'25)](https://arxiv.org/pdf/2505.23352), [ARG-Designer (AAAI'26)](https://arxiv.org/pdf/2507.18224), [OFA-MAS (WWW'26)](https://arxiv.org/pdf/2601.12996)
+
+- Safeguarding Multi-Agent System: [BlindGuard (ACL'26)](https://arxiv.org/pdf/2508.08127), [XG-Guard (ACL'26)](https://arxiv.org/pdf/2512.18733)
+</details>
+
+<details  class="mm-collapse" markdown="1">
+<summary>LLM-based Agents</summary>
+  
+- Graph-Augmented Agentic System: [Survey (IntellSyst'26)](https://arxiv.org/pdf/2507.21407)
+
+- Agentic Memory: [Survey (arXiv'25)](https://arxiv.org/pdf/2512.13564)
+</details>
 
 
 News
