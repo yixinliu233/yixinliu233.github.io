@@ -68,3 +68,41 @@
 .sidebar {
   font-size: 1em !important;
 }
+
+.research-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 18px;
+  margin-top: 1em;
+}
+
+.research-card {
+  padding: 16px 18px;
+  border: 1px solid #e5e5e5;
+  border-radius: 12px;
+  background: #fafafa;
+  font-size: 0.9em;
+  line-height: 1.5;
+}
+
+.research-card h3 {
+  margin-top: 0;
+  margin-bottom: 0.6em;
+  font-size: 1.08em;
+}
+
+.research-card h4 {
+  margin-top: 0.9em;
+  margin-bottom: 0.3em;
+  font-size: 0.98em;
+}
+
+.research-card p {
+  margin: 0.35em 0;
+}
+
+@media (max-width: 1100px) {
+  .research-grid {
+    grid-template-columns: 1fr;
+  }
+}
