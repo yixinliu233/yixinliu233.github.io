@@ -17,6 +17,34 @@ author_profile: true
 
 ## Conference
 -----
+* Rethinking Feature Alignment in Generalist Graph Anomaly Detection: A Relational Fingerprint-based Approach  
+Yujing Liu, **Yixin Liu**, Yu Zheng, Alan Wee-Chung Liew, Xiaofeng Cao, Shirui Pan.  
+Proceedings of the International Conference on Machine Learning (**ICML**), 2026.
+
+* Towards One-for-All Anomaly Detection for Tabular Data  
+Shiyuan Li, **Yixin Liu**, Yu Zheng, Xiaofeng Cao, Shirui Pan, Heng Tao Shen.  
+Proceedings of the International Conference on Machine Learning (**ICML**), 2026.
+
+* OFA-MAS: One-for-All Multi-Agent System Topology Design based on Mixture-of-Experts Graph Generative Models \[[PDF](https://arxiv.org/pdf/2601.12996)\]  
+Shiyuan Li*, **Yixin Liu**\*, Yu Zheng, Mei Li, Quoc Viet Hung Nguyen, Shirui Pan.  
+ACM Web Conference (**WWW**), 2026.
+
+* BlindGuard: Safeguarding LLM-based Multi-Agent Systems under Unknown Attacks  
+Rui Miao*, **Yixin Liu**\*, Yili Wang, Xu Shen, Yue Tan, Yiwei Dai, Shirui Pan, Xin Wang.  
+Annual Meeting of the Association for Computational Linguistics (**ACL**), 2026.
+
+* Explainable and Fine-Grained Safeguarding of LLM Multi-Agent Systems via Bi-Level Graph Anomaly Detection  
+Junjun Pan, **Yixin Liu†**, Rui Miao, Kaize Ding, Yu Zheng, Quoc Viet Hung Nguyen, Alan Wee-Chung Liew, Shirui Pan.  
+Annual Meeting of the Association for Computational Linguistics (**ACL**), 2026.
+
+* FedCIGAR: A Personalized Reconstruction Approach for Federated Graph-level Anomaly Detection  
+Yunfeng Zhao*, **Yixin Liu**\*, Qingfeng Chen, Shiyuan Li, Yue Tan, Shirui Pan.  
+International Joint Conference on Artificial Intelligence (**IJCAI**), 2026.
+
+* CAMERA: Adapting to Semantic Camouflage in Unsupervised Text-Attributed Graph Fraud Detection  
+Junjun Pan, **Yixin Liu†**, Yu Zheng†, Lianhua Chi, Alan Wee-Chung Liew, Shirui Pan.  
+International Joint Conference on Artificial Intelligence (**IJCAI**), 2026.
+
 * Assemble Your Crew: Automatic Multi-Agent Communication Topology Design via Autoregressive Graph Generation  \[[PDF](https://arxiv.org/pdf/2507.18224)\]  \[[Code](https://github.com/Shiy-Li/ARG-Designer)\]  
 Shiyuan Li, **Yixin Liu**, Qingsong Wen, Chengqi Zhang, Shirui Pan.  
 AAAI Conference on Artificial Intelligence (**AAAI**), 2026.
@@ -24,6 +52,14 @@ AAAI Conference on Artificial Intelligence (**AAAI**), 2026.
 * Correcting False Alarms from Unseen: Adapting Graph Anomaly Detectors at Test Time  \[[PDF]()\]  \[[Code]()\]  
 Junjun Pan, **Yixin Liu**, Chuan Zhou, Fei Xiong, Alan Wee-Chung Liew, Shirui Pan.  
 AAAI Conference on Artificial Intelligence (**AAAI**), 2026.
+
+* Beyond a Single Perspective: Text Anomaly Detection with Multi-View Language Representations  
+**Yixin Liu**, Kehan Yan, Shiyuan Li, Qingfeng Chen, Shirui Pan.  
+European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (**ECML-PKDD**), 2026.
+
+* IAMRec: Intent-Adaptive Multimodal Recommendation with Collaborative--Modality Disentanglement  
+Jiayi Chen, Xin Zheng, **Yixin Liu**, Yi Li, Yanqing Guo, Shirui Pan.  
+Pacific-Asia Conference on Knowledge Discovery and Data Mining (**PAKDD**), 2026.
 
 * A Survey of Generalization of Graph Anomaly Detection: From Transfer Learning to Foundation Models  \[[PDF](https://arxiv.org/pdf/2509.06609)\]  
 Junjun Pan, Yu Zheng, Yue Tan, **Yixin Liu†**.  
@@ -110,10 +146,26 @@ ACM International Conference on Information and Knowledge Management (**CIKM**),
 
 ## Journal
 -----
+* From Few-Shot to Zero-Shot: Towards Generalist Graph Anomaly Detection  
+**Yixin Liu**, Shiyuan Li, Yu Zheng, Qingfeng Chen, Chengqi Zhang, Philip S. Yu, Shirui Pan.  
+IEEE Transactions on Knowledge and Data Engineering (**TKDE**), 2026.
+
+* MPHIL: Multi-Prototype Hyperspherical Invariant Learning for Graph Out-of-Distribution Generalization  
+Xu Shen*, **Yixin Liu**\*, Yili Wang, Rui Miao, Yiwei Dai, Shirui Pan, Xin Wang.  
+IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**), 2026.
+
+* CLIP-Powered Domain Generalization and Domain Adaptation: A Comprehensive Survey  
+Jindong Li, Yongguang Li, Yali Fu, Jiahong Liu, **Yixin Liu**, Menglin Yang, Irwin King.  
+IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**), 2026.
+
+* Graph Neural Networks for Graphs with Heterophily: A Survey  
+Xin Zheng, Yi Wang, **Yixin Liu**, Ming Li, Miao Zhang, Di Jin, Philip S. Yu, Shirui Pan.  
+IEEE Transactions on Knowledge and Data Engineering (**TKDE**), 2026.
+
 * Graph-Augmented Large Language Model Agents: Current Progress and Future Prospects  
 \[[PDF](https://arxiv.org/pdf/2507.21407)\]  
 **Yixin Liu**, Guibin Zhang, Kun Wang, Shiyuan Li, Shirui Pan.  
-IEEE Intelligent Systems, 2025.
+IEEE Intelligent Systems, 2026.
 
 * Uncertainty-Aware Graph Neural Networks: A Multi-Hop Evidence Fusion Approach  
 \[[PDF](https://arxiv.org/pdf/2506.13083)\]  \[[Code](https://github.com/Shiy-Li/EFGNN)\]    
@@ -123,6 +175,10 @@ IEEE Transactions on Neural Networks and Learning Systems (**TNNLS**), 2025.
 * Data‐efficient Graph Learning: Problems, Progress, and Prospects \[[PDF](https://onlinelibrary.wiley.com/doi/full/10.1002/aaai.12200)\]  
 Kaize Ding, **Yixin Liu**, Chuxu Zhang, Jianling Wang.  
 AI Magazine, 2024.  
+
+* Emerging Trends in Federated Learning: From Model Fusion to Federated X Learning \[[PDF](https://link.springer.com/article/10.1007/s13042-024-02119-1)\]  
+Shaoxiong Ji†, Yue Tan, Teemu Saravirta, Zhiqin Yang, **Yixin Liu†**, Lauri Vasankari, Shirui Pan, Guodong Long, Anwar Walid.  
+International Journal of Machine Learning and Cybernetics, 2024.
 
 * Integrating Graphs with Large Language Models: Methods and Prospects \[[PDF](https://arxiv.org/abs/2310.05499)\]  
 Shirui Pan, Yizhen Zheng, **Yixin Liu**.  
@@ -170,9 +226,6 @@ IEEE International Joint Conference on Neural Networks (**IJCNN**), 2023.
 Xin Zheng, **Yixin Liu**, Zhifeng Bao, Meng Fang, Xia Hu, Alan Wee-Chung Liew, Shirui Pan.  
 2023.
 
-* Graph Neural Networks for Graphs with Heterophily: A Survey \[[PDF](https://arxiv.org/abs/2202.07082)\]  
-Xin Zheng, **Yixin Liu**, Shirui Pan, Miao Zhang, Di Jin, Philip S. Yu.  
-2022.
 
 * From Unsupervised to Few-shot Graph Anomaly Detection: A Multi-scale Contrastive Learning Approach \[[PDF](https://arxiv.org/abs/2202.05525)\]  
 Yu Zheng, Ming Jin, **Yixin Liu**, Lianhua Chi, Khoa T Phan, Shirui Pan, Yi-Ping Phoebe Chen.  
