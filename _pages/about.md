@@ -37,7 +37,7 @@ My research aims to build intelligent systems that can act (Agentic AI), underst
 
 - Graph Out-of-Distribution Detection: [GOOD-D (WSDM'23)](https://arxiv.org/pdf/2211.04208.pdf), [GOODAT (AAAI'24)](https://arxiv.org/pdf/2401.06176v1)
 
-- Graph Out-of-Distribution Generalization: [MPHIL (arXiv'25)](https://arxiv.org/pdf/2502.10706)
+- Graph Out-of-Distribution Generalization: [MPHIL (TPAMI'26)](https://arxiv.org/pdf/2502.10706)
 
 - Domain Adaptation/Generalization: [CLIP4DADG Survey (TPAMI'26)](https://arxiv.org/pdf/2504.14280)
 
@@ -111,6 +111,7 @@ My research aims to build intelligent systems that can act (Agentic AI), underst
 
 News
 ------
+* 2026/06: Our paper on [graph OOD generalization](https://arxiv.org/pdf/2502.10706) has been accepted by TPAMI.
 * 2026/05: Our paper on [text anomaly detection](https://arxiv.org/pdf/2601.17786) has been accepted by ECML-PKDD 2026.
 * 2026/05: Our paper on [generalist graph anomaly detection](https://arxiv.org/pdf/2605.25429) has been accepted by ICML 2026.
 * 2026/05: Our paper on [one-for-all tabular data anomaly detection](https://arxiv.org/pdf/2603.14407) has been accepted by ICML 2026.
