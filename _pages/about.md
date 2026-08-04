@@ -176,14 +176,13 @@ Selected Papers (first-author/co-first-author)
 
 <div id="pub-list">
 
-
 <div class="pub-card" data-topic="graph">
   <span class="badge-venue">ICLR 2025</span>
   <span class="pub-title">Unifying Unsupervised Graph-Level Anomaly Detection and Out-of-Distribution Detection: A Benchmark</span>
   <span class="pub-links"><a href="https://arxiv.org/pdf/2406.15523.pdf">Paper</a> <a href="https://github.com/UB-GOLD/UB-GOLD">Code</a></span>
   <span class="pub-authors">Yili Wang*, <span class="me">Yixin Liu</span>*, Xu Shen*, Chenyu Li*, Kaize Ding, Rui Miao, Ying Wang, Shirui Pan, Xin Wang</span>
 </div>
-
+</div>
 
 
 <div style="display: flex; align-items: flex-start; gap: 16px; margin-bottom: 20px;">
