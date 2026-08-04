@@ -164,20 +164,104 @@ News
 * 2021/06: Our paper on [label propagation](https://link.springer.com/content/pdf/10.1007/s11280-021-00906-2.pdf) has been accepted by World Wide Web. 
 * 2021/03: Our paper on [graph anomaly detection](https://arxiv.org/pdf/2103.00113.pdf) has been accepted by IEEE TNNLS. 
 
-Selected Papers (first-author/co-first-author)
+Selected Papers
 ------
 
 <div class="pub-filter">
   <button class="active" data-filter="all">All</button>
-  <button data-filter="gad">🕸️ Graph Learning</button>
-  <button data-filter="ssl">🤖 SSL</button>
-  <button data-filter="gsl">🛡️ GSL</button>
-  <button data-filter="fl">🛡️ Federated Learning</button>
-  <button data-filter="tabular">🛡️ tabular AI</button>
+  <button data-filter="gad">Graph Anomaly Detection</button>
+  <button data-filter="ad">Anomaly Detection</button>
+  <button data-filter="agent">LLM Agent</button>
+  <button data-filter="fl">Federated Learning</button>
+  <button data-filter="tabular">Learning on Tabular Data</button>
+  <button data-filter="gnn">Learning on Graphs</button>
 </div>
 
 <div id="pub-list">
 
+<div class="pub-card" data-topic="gad">
+  <span class="badge-venue">ICML 2026</span>
+  <span class="pub-title">Rethinking Feature Alignment in Generalist Graph Anomaly Detection: A Relational Fingerprint-based Approach</span>
+  <span class="pub-authors">Yujing Liu, <span class="me">Yixin Liu</span>, Yu Zheng, Alan Wee-Chung Liew, Xiaofeng Cao, Shirui Pan</span>
+</div>
+
+<div class="pub-card" data-topic="ad tabular">
+  <span class="badge-venue">ICML 2026</span>
+  <span class="pub-title">Towards One-for-All Anomaly Detection for Tabular Data</span>
+  <span class="pub-authors">Shiyuan Li, <span class="me">Yixin Liu</span>, Yu Zheng, Xiaofeng Cao, Shirui Pan, Heng Tao Shen</span>
+</div>
+
+<div class="pub-card" data-topic="gnn">
+  <span class="badge-venue">TPAMI 2026</span>
+  <span class="pub-title">MPHIL: Multi-Prototype Hyperspherical Invariant Learning for Graph Out-of-Distribution Generalization</span>
+  <span class="pub-authors">Xu Shen*, <span class="me">Yixin Liu*</span>, Yili Wang, Rui Miao, Yiwei Dai, Shirui Pan, Xin Wang</span>
+</div>
+
+<div class="pub-card" data-topic="gnn">
+  <span class="badge-venue">WWW 2026</span>
+  <span class="pub-title">OFA-MAS: One-for-All Multi-Agent System Topology Design based on Mixture-of-Experts Graph Generative Models</span>
+  <span class="pub-links">
+    <a href="https://arxiv.org/pdf/2601.12996">Paper</a>
+  </span>
+  <span class="pub-authors">Shiyuan Li*, <span class="me">Yixin Liu*</span>, Yu Zheng, Mei Li, Quoc Viet Hung Nguyen, Shirui Pan</span>
+</div>
+
+<div class="pub-card" data-topic="agent">
+  <span class="badge-venue">ACL 2026</span>
+  <span class="pub-title">BlindGuard: Safeguarding LLM-based Multi-Agent Systems under Unknown Attacks</span>
+  <span class="pub-authors">Rui Miao*, <span class="me">Yixin Liu*</span>, Yili Wang, Xu Shen, Yue Tan, Yiwei Dai, Shirui Pan, Xin Wang</span>
+</div>
+
+<div class="pub-card" data-topic="agent">
+  <span class="badge-venue">ACL 2026</span>
+  <span class="pub-title">Explainable and Fine-Grained Safeguarding of LLM Multi-Agent Systems via Bi-Level Graph Anomaly Detection</span>
+  <span class="pub-authors">Junjun Pan, <span class="me">Yixin Liu<sup>✉</sup></span>, Rui Miao, Kaize Ding, Yu Zheng, Quoc Viet Hung Nguyen, Alan Wee-Chung Liew, Shirui Pan</span>
+</div>
+
+<div class="pub-card" data-topic="fl">
+  <span class="badge-venue">IJCAI 2026</span>
+  <span class="pub-title">FedCIGAR: A Personalized Reconstruction Approach for Federated Graph-level Anomaly Detection</span>
+  <span class="pub-authors">Yunfeng Zhao*, <span class="me">Yixin Liu*</span>, Qingfeng Chen, Shiyuan Li, Yue Tan, Shirui Pan</span>
+</div>
+
+<div class="pub-card" data-topic="gad">
+  <span class="badge-venue">IJCAI 2026</span>
+  <span class="pub-title">CAMERA: Adapting to Semantic Camouflage in Unsupervised Text-Attributed Graph Fraud Detection</span>
+  <span class="pub-authors">Junjun Pan, <span class="me">Yixin Liu<sup>✉</sup></span>, Yu Zheng<sup>✉</sup>, Lianhua Chi, Alan Wee-Chung Liew, Shirui Pan</span>
+</div>
+
+<div class="pub-card" data-topic="gnn">
+  <span class="badge-venue">AAAI 2026</span>
+  <span class="pub-title">Assemble Your Crew: Automatic Multi-Agent Communication Topology Design via Autoregressive Graph Generation</span>
+  <span class="pub-links">
+    <a href="https://arxiv.org/pdf/2507.18224">Paper</a>
+  </span>
+  <span class="pub-authors">Shiyuan Li, <span class="me">Yixin Liu</span>, Qingsong Wen, Chengqi Zhang, Shirui Pan</span>
+</div>
+
+<div class="pub-card" data-topic="gad">
+  <span class="badge-venue">AAAI 2026</span>
+  <span class="pub-title">Correcting False Alarms from Unseen: Adapting Graph Anomaly Detectors at Test Time</span>
+  <span class="pub-authors">Junjun Pan, <span class="me">Yixin Liu</span>, Chuan Zhou, Fei Xiong, Alan Wee-Chung Liew, Shirui Pan</span>
+</div>
+
+<div class="pub-card" data-topic="gnn">
+  <span class="badge-venue">TKDE 2026</span>
+  <span class="pub-title">Graph Neural Networks for Graphs with Heterophily: A Survey</span>
+  <span class="pub-authors">Xin Zheng, Yi Wang, <span class="me">Yixin Liu</span>, Ming Li, Miao Zhang, Di Jin, Philip S. Yu, Shirui Pan</span>
+</div>
+
+<div class="pub-card" data-topic="gad">
+  <span class="badge-venue">TKDE 2026</span>
+  <span class="pub-title">From Few-Shot to Zero-Shot: Towards Generalist Graph Anomaly Detection</span>
+  <span class="pub-authors"><span class="me">Yixin Liu</span>, Shiyuan Li, Yu Zheng, Qingfeng Chen, Chengqi Zhang, Philip S. Yu, Shirui Pan</span>
+</div>
+
+<div class="pub-card" data-topic="ad">
+  <span class="badge-venue">ECML-PKDD 2026</span>
+  <span class="pub-title">Beyond a Single Perspective: Text Anomaly Detection with Multi-View Language Representations</span>
+  <span class="pub-authors"><span class="me">Yixin Liu</span>, Kehan Yan, Shiyuan Li, Qingfeng Chen, Shirui Pan</span>
+</div>
 
 <div class="pub-card" data-topic="gad">
   <span class="badge-venue">ICLR 2025</span>
@@ -187,6 +271,51 @@ Selected Papers (first-author/co-first-author)
     <a href="https://github.com/UB-GOLD/UB-GOLD">Code</a>
   </span>
   <span class="pub-authors">Yili Wang*, <span class="me">Yixin Liu</span>*, Xu Shen*, Chenyu Li*, Kaize Ding, Rui Miao, Ying Wang, Shirui Pan, Xin Wang</span>
+</div>
+
+<div class="pub-card" data-topic="agent">
+  <span class="badge-venue">IEEE Intelligent Systems 2025</span>
+  <span class="pub-title">Graph-Augmented Large Language Model Agents: Current Progress and Future Prospects</span>
+  <span class="pub-links">
+    <a href="https://arxiv.org/pdf/2507.21407">Paper</a>
+  </span>
+  <span class="pub-authors"><span class="me">Yixin Liu</span>, Guibin Zhang, Kun Wang, Shiyuan Li, Shirui Pan</span>
+</div>
+
+<div class="pub-card" data-topic="agent">
+  <span class="badge-venue">EMNLP 2025</span>
+  <span class="pub-title">Understanding the Information Propagation Effects of Communication Topologies in LLM-based Multi-Agent Systems</span>
+  <span class="pub-links">
+    <a href="https://arxiv.org/pdf/2505.23352">Paper</a>
+  </span>
+  <span class="pub-authors">Xu Shen*, <span class="me">Yixin Liu*</span>, Yiwei Dai, Yili Wang, Rui Miao, Yue Tan, Shirui Pan, Xin Wang</span>
+</div>
+
+<div class="pub-card" data-topic="gad">
+  <span class="badge-venue">CIKM 2025</span>
+  <span class="pub-title">FreeGAD: A Training-Free yet Effective Approach for Graph Anomaly Detection</span>
+  <span class="pub-links">
+    <a href="https://arxiv.org/pdf/2508.10594">Paper</a>
+  </span>
+  <span class="pub-authors">Yunfeng Zhao*, <span class="me">Yixin Liu*</span>, Shiyuan Li*, Qingfeng Chen, Yu Zheng, Shirui Pan</span>
+</div>
+
+<div class="pub-card" data-topic="gad">
+  <span class="badge-venue">AAAI 2025</span>
+  <span class="pub-title">A Label-free Heterophily-guided Approach for Unsupervised Graph Fraud Detection</span>
+  <span class="pub-links">
+    <a href="https://arxiv.org/pdf/2502.13308">Paper</a>
+  </span>
+  <span class="pub-authors">Junjun Pan, <span class="me">Yixin Liu</span>, Xin Zheng, Yizhen Zheng, Alan Wee-Chung Liew, Fuyi Li, Shirui Pan</span>
+</div>
+
+<div class="pub-card" data-topic="gnn">
+  <span class="badge-venue">TNNLS 2025</span>
+  <span class="pub-title">Uncertainty-Aware Graph Neural Networks: A Multi-Hop Evidence Fusion Approach</span>
+  <span class="pub-links">
+    <a href="https://arxiv.org/pdf/2506.13083">Paper</a>
+  </span>
+  <span class="pub-authors">Qingfeng Chen, Shiyuan Li, <span class="me">Yixin Liu</span>, Shirui Pan, Geoffrey Webb, Shichao Zhang</span>
 </div>
 
 <div class="pub-card" data-topic="gad">
@@ -209,7 +338,7 @@ Selected Papers (first-author/co-first-author)
   <span class="pub-authors"><span class="me">Yixin Liu</span>, Thalaiyasingam Ajanthan, Hisham Husain, Vu Nguyen</span>
 </div>
 
-<div class="pub-card" data-topic="ssl">
+<div class="pub-card" data-topic="gnn">
   <span class="badge-venue">CIKM 2024</span>
   <span class="pub-title">Noise-Resilient Unsupervised Graph Representation Learning via Multi-Hop Feature Quality Estimation</span>
   <span class="pub-links">
@@ -229,7 +358,7 @@ Selected Papers (first-author/co-first-author)
   <span class="pub-authors"><span class="me">Yixin Liu</span>, Kaize Ding, Qinghua Lu, Fuyi Li, Leo Yu Zhang, Shirui Pan</span>
 </div>
 
-<div class="pub-card" data-topic="ssl">
+<div class="pub-card" data-topic="gnn">
   <span class="badge-venue">KDD 2023</span>
   <span class="pub-title">Learning Strong Graph Neural Networks with Weak Information</span>
   <span class="pub-links">
@@ -239,7 +368,7 @@ Selected Papers (first-author/co-first-author)
   <span class="pub-authors"><span class="me">Yixin Liu</span>, Kaize Ding, Jianling Wang, Vincent Lee, Huan Liu, Shirui Pan</span>
 </div>
 
-<div class="pub-card" data-topic="ssl">
+<div class="pub-card" data-topic="gnn">
   <span class="badge-venue">AAAI 2023</span>
   <span class="badge-honor">Oral</span>
   <span class="pub-title">Beyond Smoothing: Unsupervised Graph Representation Learning with Edge Heterophily Discriminating</span>
@@ -261,7 +390,7 @@ Selected Papers (first-author/co-first-author)
   <span class="pub-authors">Yue Tan*, <span class="me">Yixin Liu</span>*, Guodong Long, Jing Jiang, Qinghua Lu, Chengqi Zhang</span>
 </div>
 
-<div class="pub-card" data-topic="ood">
+<div class="pub-card" data-topic="gad">
   <span class="badge-venue">WSDM 2023</span>
   <span class="badge-honor">Oral</span>
   <span class="pub-title">GOOD-D: On Unsupervised Graph Out-Of-Distribution Detection</span>
@@ -272,7 +401,7 @@ Selected Papers (first-author/co-first-author)
   <span class="pub-authors"><span class="me">Yixin Liu</span>, Kaize Ding, Huan Liu, Shirui Pan</span>
 </div>
 
-<div class="pub-card" data-topic="ssl">
+<div class="pub-card" data-topic="gnn">
   <span class="badge-venue">TKDE 2022</span>
   <span class="pub-title">Graph Self-Supervised Learning: A Survey</span>
   <span class="pub-links">
@@ -281,7 +410,7 @@ Selected Papers (first-author/co-first-author)
   <span class="pub-authors"><span class="me">Yixin Liu</span>, Ming Jin, Shirui Pan, Chuan Zhou, Yu Zheng, Feng Xia, Philip S. Yu</span>
 </div>
 
-<div class="pub-card" data-topic="gsl">
+<div class="pub-card" data-topic="gnn">
   <span class="badge-venue">WWW 2022</span>
   <span class="badge-honor">Best Paper Award Candidate</span>
   <span class="pub-title">Towards Unsupervised Deep Graph Structure Learning</span>
