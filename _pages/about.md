@@ -169,9 +169,11 @@ Selected Papers (first-author/co-first-author)
 
 <div class="pub-filter">
   <button class="active" data-filter="all">All</button>
-  <button data-filter="graph">🕸️ Graph Learning</button>
-  <button data-filter="mas">🤖 Multi-Agent Systems</button>
-  <button data-filter="trust">🛡️ Trustworthy AI</button>
+  <button data-filter="gad">🕸️ Graph Learning</button>
+  <button data-filter="ssl">🤖 SSL</button>
+  <button data-filter="gsl">🛡️ GSL</button>
+  <button data-filter="fl">🛡️ Federated Learning</button>
+  <button data-filter="tabular">🛡️ tabular AI</button>
 </div>
 
 <div id="pub-list">
