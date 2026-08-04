@@ -176,26 +176,140 @@ Selected Papers (first-author/co-first-author)
 
 <div id="pub-list">
 
-<div class="pub-card" data-topic="graph">
+
+<div class="pub-card" data-topic="gad">
   <span class="badge-venue">ICLR 2025</span>
   <span class="pub-title">Unifying Unsupervised Graph-Level Anomaly Detection and Out-of-Distribution Detection: A Benchmark</span>
-  <span class="pub-links"><a href="https://arxiv.org/pdf/2406.15523.pdf">Paper</a> <a href="https://github.com/UB-GOLD/UB-GOLD">Code</a></span>
+  <span class="pub-links">
+    <a href="https://arxiv.org/pdf/2406.15523.pdf">Paper</a>
+    <a href="https://github.com/UB-GOLD/UB-GOLD">Code</a>
+  </span>
   <span class="pub-authors">Yili Wang*, <span class="me">Yixin Liu</span>*, Xu Shen*, Chenyu Li*, Kaize Ding, Rui Miao, Ying Wang, Shirui Pan, Xin Wang</span>
 </div>
 
-<div class="pub-card" data-topic="mas">
-  <span class="badge-venue">ICLR 2025</span>
-  <span class="pub-title">bbb</span>
-  <span class="pub-links"><a href="https://arxiv.org/pdf/2406.15523.pdf">Paper</a> <a href="https://github.com/UB-GOLD/UB-GOLD">Code</a></span>
-  <span class="pub-authors">Yili Wang*, <span class="me">Yixin Liu</span>*, Xu Shen*, Chenyu Li*, Kaize Ding, Rui Miao, Ying Wang, Shirui Pan, Xin Wang</span>
+<div class="pub-card" data-topic="gad">
+  <span class="badge-venue">NeurIPS 2024</span>
+  <span class="pub-title">ARC: A Generalist Graph Anomaly Detector with in-Context Learning</span>
+  <span class="pub-links">
+    <a href="https://arxiv.org/pdf/2405.16771.pdf">Paper</a>
+    <a href="https://github.com/yixinliu233/ARC">Code</a>
+  </span>
+  <span class="pub-authors"><span class="me">Yixin Liu</span>, Shiyuan Li, Yu Zheng, Qingfeng Chen, Chengqi Zhang, Shirui Pan</span>
 </div>
 
-<div class="pub-card" data-topic="trust">
-  <span class="badge-venue">ICLR 2025</span>
-  <span class="pub-title">aaa</span>
-  <span class="pub-links"><a href="https://arxiv.org/pdf/2406.15523.pdf">Paper</a> <a href="https://github.com/UB-GOLD/UB-GOLD">Code</a></span>
-  <span class="pub-authors">Yili Wang*, <span class="me">Yixin Liu</span>*, Xu Shen*, Chenyu Li*, Kaize Ding, Rui Miao, Ying Wang, Shirui Pan, Xin Wang</span>
+<div class="pub-card" data-topic="tabular">
+  <span class="badge-venue">CIKM 2024</span>
+  <span class="pub-title">Self-supervision Improves Diffusion Models for Tabular Data Imputation</span>
+  <span class="pub-links">
+    <a href="https://arxiv.org/pdf/2407.18013.pdf">Paper</a>
+    <a href="https://github.com/yixinliu233/SimpDM">Code</a>
+  </span>
+  <span class="pub-authors"><span class="me">Yixin Liu</span>, Thalaiyasingam Ajanthan, Hisham Husain, Vu Nguyen</span>
 </div>
+
+<div class="pub-card" data-topic="ssl">
+  <span class="badge-venue">CIKM 2024</span>
+  <span class="pub-title">Noise-Resilient Unsupervised Graph Representation Learning via Multi-Hop Feature Quality Estimation</span>
+  <span class="pub-links">
+    <a href="https://arxiv.org/pdf/2407.19944.pdf">Paper</a>
+    <a href="https://github.com/Shiy-Li/MQE">Code</a>
+  </span>
+  <span class="pub-authors">Shiyuan Li*, <span class="me">Yixin Liu</span>*, Qingfeng Chen, Geoffrey I Webb, Shirui Pan</span>
+</div>
+
+<div class="pub-card" data-topic="gad">
+  <span class="badge-venue">NeurIPS 2023</span>
+  <span class="pub-title">Towards Self-Interpretable Graph-Level Anomaly Detection</span>
+  <span class="pub-links">
+    <a href="https://arxiv.org/pdf/2310.16520.pdf">Paper</a>
+    <a href="https://github.com/yixinliu233/SIGNET">Code</a>
+  </span>
+  <span class="pub-authors"><span class="me">Yixin Liu</span>, Kaize Ding, Qinghua Lu, Fuyi Li, Leo Yu Zhang, Shirui Pan</span>
+</div>
+
+<div class="pub-card" data-topic="ssl">
+  <span class="badge-venue">KDD 2023</span>
+  <span class="pub-title">Learning Strong Graph Neural Networks with Weak Information</span>
+  <span class="pub-links">
+    <a href="https://arxiv.org/pdf/2305.18457.pdf">Paper</a>
+    <a href="https://github.com/yixinliu233/D2PT">Code</a>
+  </span>
+  <span class="pub-authors"><span class="me">Yixin Liu</span>, Kaize Ding, Jianling Wang, Vincent Lee, Huan Liu, Shirui Pan</span>
+</div>
+
+<div class="pub-card" data-topic="ssl">
+  <span class="badge-venue">AAAI 2023</span>
+  <span class="badge-honor">Oral</span>
+  <span class="pub-title">Beyond Smoothing: Unsupervised Graph Representation Learning with Edge Heterophily Discriminating</span>
+  <span class="pub-links">
+    <a href="https://arxiv.org/pdf/2211.14065.pdf">Paper</a>
+    <a href="https://github.com/yixinliu233/GREET">Code</a>
+  </span>
+  <span class="pub-authors"><span class="me">Yixin Liu</span>, Yizhen Zheng, Daokun Zhang, Vincent Lee, Shirui Pan</span>
+</div>
+
+<div class="pub-card" data-topic="fl">
+  <span class="badge-venue">AAAI 2023</span>
+  <span class="badge-honor">Oral</span>
+  <span class="pub-title">Federated Learning on Non-IID Graphs via Structural Knowledge Sharing</span>
+  <span class="pub-links">
+    <a href="https://arxiv.org/pdf/2211.13009.pdf">Paper</a>
+    <a href="https://github.com/yuetan031/FedStar">Code</a>
+  </span>
+  <span class="pub-authors">Yue Tan*, <span class="me">Yixin Liu</span>*, Guodong Long, Jing Jiang, Qinghua Lu, Chengqi Zhang</span>
+</div>
+
+<div class="pub-card" data-topic="ood">
+  <span class="badge-venue">WSDM 2023</span>
+  <span class="badge-honor">Oral</span>
+  <span class="pub-title">GOOD-D: On Unsupervised Graph Out-Of-Distribution Detection</span>
+  <span class="pub-links">
+    <a href="https://arxiv.org/pdf/2211.04208.pdf">Paper</a>
+    <a href="https://github.com/yixinliu233/G-OOD-D">Code</a>
+  </span>
+  <span class="pub-authors"><span class="me">Yixin Liu</span>, Kaize Ding, Huan Liu, Shirui Pan</span>
+</div>
+
+<div class="pub-card" data-topic="ssl">
+  <span class="badge-venue">TKDE 2022</span>
+  <span class="pub-title">Graph Self-Supervised Learning: A Survey</span>
+  <span class="pub-links">
+    <a href="https://arxiv.org/pdf/2103.00111.pdf">Paper</a>
+  </span>
+  <span class="pub-authors"><span class="me">Yixin Liu</span>, Ming Jin, Shirui Pan, Chuan Zhou, Yu Zheng, Feng Xia, Philip S. Yu</span>
+</div>
+
+<div class="pub-card" data-topic="gsl">
+  <span class="badge-venue">WWW 2022</span>
+  <span class="badge-honor">Best Paper Award Candidate</span>
+  <span class="pub-title">Towards Unsupervised Deep Graph Structure Learning</span>
+  <span class="pub-links">
+    <a href="https://arxiv.org/pdf/2201.06367.pdf">Paper</a>
+    <a href="https://github.com/GRAND-LAB/SUBLIME">Code</a>
+  </span>
+  <span class="pub-authors"><span class="me">Yixin Liu</span>, Yu Zheng, Daokun Zhang, Hongxu Chen, Hao Peng, Shirui Pan</span>
+</div>
+
+<div class="pub-card" data-topic="gad">
+  <span class="badge-venue">TKDE 2021</span>
+  <span class="pub-title">Anomaly Detection in Dynamic Graphs via Transformer</span>
+  <span class="pub-links">
+    <a href="https://arxiv.org/pdf/2106.09876.pdf">Paper</a>
+    <a href="https://github.com/yixinliu233/TADDY_pytorch">Code</a>
+  </span>
+  <span class="pub-authors"><span class="me">Yixin Liu</span>, Shirui Pan, Yu Guang Wang, Fei Xiong, Liang Wang, Qingfeng Chen, Vincent Lee</span>
+</div>
+
+<div class="pub-card" data-topic="gad">
+  <span class="badge-venue">TNNLS 2021</span>
+  <span class="pub-title">Anomaly Detection on Attributed Networks via Contrastive Self-Supervised Learning</span>
+  <span class="pub-links">
+    <a href="https://arxiv.org/pdf/2103.00113.pdf">Paper</a>
+    <a href="https://github.com/GRAND-LAB/CoLA">Code</a>
+  </span>
+  <span class="pub-authors"><span class="me">Yixin Liu</span>, Zhao Li, Shirui Pan, Chen Gong, Chuan Zhou, George Karypis</span>
+</div>
+
 
 </div>
 
@@ -242,171 +356,7 @@ Selected Papers (first-author/co-first-author)
 </script>
 
 
-<div style="display: flex; align-items: flex-start; gap: 16px; margin-bottom: 20px;">
-  <img width="200" src="/images/ubgold.png">
-  <div>
-    <strong>Unifying Unsupervised Graph-Level Anomaly Detection and Out-of-Distribution Detection: A Benchmark</strong><br>
-    Yili Wang*, <strong>Yixin Liu</strong>*, Xu Shen*, Chenyu Li*, Kaize Ding, Rui Miao, Ying Wang, Shirui Pan, Xin Wang<br>
-    International Conference on Learning Representations (<strong>ICLR</strong>), 2025<br>
-    <a href="https://arxiv.org/pdf/2406.15523.pdf">[Paper]</a>
-    <a href="https://github.com/UB-GOLD/UB-GOLD">[Code]</a>
-  </div>
-</div>
 
----
-
-<div style="display: flex; align-items: flex-start; gap: 16px; margin-bottom: 20px;">
-  <img width="200" src="/images/arc.png">
-  <div>
-    <strong>ARC: A Generalist Graph Anomaly Detector with in-Context Learning</strong><br>
-    <strong>Yixin Liu</strong>, Shiyuan Li, Yu Zheng, Qingfeng Chen, Chengqi Zhang, Shirui Pan<br>
-    Advances in Neural Information Processing Systems (<strong>NeurIPS</strong>), 2024<br>
-    <a href="https://arxiv.org/pdf/2405.16771.pdf">[Paper]</a>
-    <a href="https://github.com/yixinliu233/ARC">[Code]</a>
-  </div>
-</div>
-
----
-
-<div style="display: flex; align-items: flex-start; gap: 16px; margin-bottom: 20px;">
-  <img width="200" src="/images/simpdm.png">
-  <div>
-    <strong>Self-supervision Improves Diffusion Models for Tabular Data Imputation</strong><br>
-    <strong>Yixin Liu</strong>, Thalaiyasingam Ajanthan, Hisham Husain, Vu Nguyen<br>
-    ACM International Conference on Information & Knowledge Management (<strong>CIKM</strong>), 2024<br>
-    <a href="https://arxiv.org/pdf/2407.18013.pdf">[Paper]</a>
-    <a href="https://github.com/yixinliu233/SimpDM">[Code]</a>
-  </div>
-</div>
-
----
-
-<div style="display: flex; align-items: flex-start; gap: 16px; margin-bottom: 20px;">
-  <img width="200" src="/images/mqe.png">
-  <div>
-    <strong>Noise-Resilient Unsupervised Graph Representation Learning via Multi-Hop Feature Quality Estimation</strong><br>
-    Shiyuan Li*, <strong>Yixin Liu</strong>*, Qingfeng Chen, Geoffrey I Webb, Shirui Pan<br>
-    ACM International Conference on Information & Knowledge Management (<strong>CIKM</strong>), 2024<br>
-    <a href="https://arxiv.org/pdf/2407.19944.pdf">[Paper]</a>
-    <a href="https://github.com/Shiy-Li/MQE">[Code]</a>
-  </div>
-</div>
-
----
-
-<div style="display: flex; align-items: flex-start; gap: 16px; margin-bottom: 20px;">
-  <img width="200" src="/images/signet.png">
-  <div>
-    <strong>Towards Self-Interpretable Graph-Level Anomaly Detection</strong><br>
-    <strong>Yixin Liu</strong>, Kaize Ding, Qinghua Lu, Fuyi Li, Leo Yu Zhang, Shirui Pan<br>
-    Advances in Neural Information Processing Systems (<strong>NeurIPS</strong>), 2023<br>
-    <a href="https://arxiv.org/pdf/2310.16520.pdf">[Paper]</a>
-    <a href="https://github.com/yixinliu233/SIGNET">[Code]</a>
-  </div>
-</div>
-
----
-
-<div style="display: flex; align-items: flex-start; gap: 16px; margin-bottom: 20px;">
-  <img width="200" src="/images/ddpt.png">
-  <div>
-    <strong>Learning Strong Graph Neural Networks with Weak Information</strong><br>
-    <strong>Yixin Liu</strong>, Kaize Ding, Jianling Wang, Vincent Lee, Huan Liu, Shirui Pan<br>
-    ACM SIGKDD Conference on Knowledge Discovery and Data Mining (<strong>KDD</strong>), 2023<br>
-    <a href="https://arxiv.org/pdf/2305.18457.pdf">[Paper]</a>
-    <a href="https://github.com/yixinliu233/D2PT">[Code]</a>
-  </div>
-</div>
-
----
-
-<div style="display: flex; align-items: flex-start; gap: 16px; margin-bottom: 20px;">
-  <img width="200" src="/images/greet.png">
-  <div>
-    <strong>Beyond Smoothing: Unsupervised Graph Representation Learning with Edge Heterophily Discriminating</strong><br>
-    <strong>Yixin Liu</strong>, Yizhen Zheng, Daokun Zhang, Vincent Lee, Shirui Pan<br>
-    AAAI Conference on Artificial Intelligence (<strong>AAAI</strong>), 2023 <font color="#872349">(Oral)</font><br>
-    <a href="https://arxiv.org/pdf/2211.14065.pdf">[Paper]</a>
-    <a href="https://github.com/yixinliu233/GREET">[Code]</a>
-  </div>
-</div>
-
----
-
-<div style="display: flex; align-items: flex-start; gap: 16px; margin-bottom: 20px;">
-  <img width="200" src="/images/fedstar.png">
-  <div>
-    <strong>Federated Learning on Non-IID Graphs via Structural Knowledge Sharing</strong><br>
-    Yue Tan*, <strong>Yixin Liu</strong>*, Guodong Long, Jing Jiang, Qinghua Lu, Chengqi Zhang<br>
-    AAAI Conference on Artificial Intelligence (<strong>AAAI</strong>), 2023 <font color="#872349">(Oral)</font><br>
-    <a href="https://arxiv.org/pdf/2211.13009.pdf">[Paper]</a>
-    <a href="https://github.com/yuetan031/FedStar">[Code]</a>
-  </div>
-</div>
-
----
-
-<div style="display: flex; align-items: flex-start; gap: 16px; margin-bottom: 20px;">
-  <img width="200" src="/images/goodd.png">
-  <div>
-    <strong>GOOD-D: On Unsupervised Graph Out-Of-Distribution Detection</strong><br>
-    <strong>Yixin Liu</strong>, Kaize Ding, Huan Liu, Shirui Pan<br>
-    ACM International Conference on Web Search and Data Mining (<strong>WSDM</strong>), 2023 <font color="#872349">(Oral)</font><br>
-    <a href="https://arxiv.org/pdf/2211.04208.pdf">[Paper]</a>
-    <a href="https://github.com/yixinliu233/G-OOD-D">[Code]</a>
-  </div>
-</div>
-
----
-
-<div style="display: flex; align-items: flex-start; gap: 16px; margin-bottom: 20px;">
-  <img width="200" src="/images/ssl_survey.png">
-  <div>
-    <strong>Graph Self-Supervised Learning: A Survey</strong><br>
-    <strong>Yixin Liu</strong>, Ming Jin, Shirui Pan, Chuan Zhou, Yu Zheng, Feng Xia, Philip S. Yu<br>
-    IEEE Transactions on Knowledge and Data Engineering (<strong>TKDE</strong>), 2022<br>
-    <a href="https://arxiv.org/pdf/2103.00111.pdf">[Paper]</a>
-  </div>
-</div>
-
----
-
-<div style="display: flex; align-items: flex-start; gap: 16px; margin-bottom: 20px;">
-  <img width="200" src="/images/sublime.png">
-  <div>
-    <strong>Towards Unsupervised Deep Graph Structure Learning</strong><br>
-    <strong>Yixin Liu</strong>, Yu Zheng, Daokun Zhang, Hongxu Chen, Hao Peng, Shirui Pan<br>
-    The Web Conference (<strong>WWW</strong>), 2022 <font color="#872349">(Best Paper Award candidate)</font><br>
-    <a href="https://arxiv.org/pdf/2201.06367.pdf">[Paper]</a>
-    <a href="https://github.com/GRAND-LAB/SUBLIME">[Code]</a>
-  </div>
-</div>
-
----
-
-<div style="display: flex; align-items: flex-start; gap: 16px; margin-bottom: 20px;">
-  <img width="200" src="/images/taddy.png">
-  <div>
-    <strong>Anomaly Detection in Dynamic Graphs via Transformer</strong><br>
-    <strong>Yixin Liu</strong>, Shirui Pan, Yu Guang Wang, Fei Xiong, Liang Wang, Qingfeng Chen, Vincent Lee<br>
-    IEEE Transactions on Knowledge and Data Engineering (<strong>TKDE</strong>), 2021<br>
-    <a href="https://arxiv.org/pdf/2106.09876.pdf">[Paper]</a>
-    <a href="https://github.com/yixinliu233/TADDY_pytorch">[Code]</a>
-  </div>
-</div>
-
----
-
-<div style="display: flex; align-items: flex-start; gap: 16px; margin-bottom: 20px;">
-  <img width="200" src="/images/CoLA.png">
-  <div>
-    <strong>Anomaly Detection on Attributed Networks via Contrastive Self-Supervised Learning</strong><br>
-    <strong>Yixin Liu</strong>, Zhao Li, Shirui Pan, Chen Gong, Chuan Zhou, George Karypis<br>
-    IEEE Transactions on Neural Networks and Learning Systems (<strong>TNNLS</strong>), 2021<br>
-    <a href="https://arxiv.org/pdf/2103.00113.pdf">[Paper]</a>
-    <a href="https://github.com/GRAND-LAB/CoLA">[Code]</a>
-  </div>
-</div>
 
 ---
 
