@@ -183,6 +183,20 @@ Selected Papers (first-author/co-first-author)
   <span class="pub-authors">Yili Wang*, <span class="me">Yixin Liu</span>*, Xu Shen*, Chenyu Li*, Kaize Ding, Rui Miao, Ying Wang, Shirui Pan, Xin Wang</span>
 </div>
 
+<div class="pub-card" data-topic="mas">
+  <span class="badge-venue">ICLR 2025</span>
+  <span class="pub-title">bbb</span>
+  <span class="pub-links"><a href="https://arxiv.org/pdf/2406.15523.pdf">Paper</a> <a href="https://github.com/UB-GOLD/UB-GOLD">Code</a></span>
+  <span class="pub-authors">Yili Wang*, <span class="me">Yixin Liu</span>*, Xu Shen*, Chenyu Li*, Kaize Ding, Rui Miao, Ying Wang, Shirui Pan, Xin Wang</span>
+</div>
+
+<div class="pub-card" data-topic="trust">
+  <span class="badge-venue">ICLR 2025</span>
+  <span class="pub-title">aaa</span>
+  <span class="pub-links"><a href="https://arxiv.org/pdf/2406.15523.pdf">Paper</a> <a href="https://github.com/UB-GOLD/UB-GOLD">Code</a></span>
+  <span class="pub-authors">Yili Wang*, <span class="me">Yixin Liu</span>*, Xu Shen*, Chenyu Li*, Kaize Ding, Rui Miao, Ying Wang, Shirui Pan, Xin Wang</span>
+</div>
+
 </div>
 
 <script>
