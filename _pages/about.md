@@ -170,9 +170,9 @@ Selected Papers
 <div class="pub-filter">
   <button class="active" data-filter="all">All</button>
   <button data-filter="gad">Graph Anomaly Detection</button>
-  <button data-filter="ad">Anomaly Detection</button>
   <button data-filter="agent">LLM Agent</button>
   <button data-filter="fl">Federated Learning</button>
+  <button data-filter="ad">Anomaly Detection</button>
   <button data-filter="tabular">Learning on Tabular Data</button>
   <button data-filter="gnn">Learning on Graphs</button>
 </div>
@@ -218,7 +218,7 @@ Selected Papers
   <span class="pub-authors">Junjun Pan, <span class="me">Yixin Liu<sup>✉</sup></span>, Rui Miao, Kaize Ding, Yu Zheng, Quoc Viet Hung Nguyen, Alan Wee-Chung Liew, Shirui Pan</span>
 </div>
 
-<div class="pub-card" data-topic="fl">
+<div class="pub-card" data-topic="fl gad">
   <span class="badge-venue">IJCAI 2026</span>
   <span class="pub-title">FedCIGAR: A Personalized Reconstruction Approach for Federated Graph-level Anomaly Detection</span>
   <span class="pub-authors">Yunfeng Zhao*, <span class="me">Yixin Liu*</span>, Qingfeng Chen, Shiyuan Li, Yue Tan, Shirui Pan</span>
@@ -289,15 +289,6 @@ Selected Papers
     <a href="https://arxiv.org/pdf/2505.23352">Paper</a>
   </span>
   <span class="pub-authors">Xu Shen*, <span class="me">Yixin Liu*</span>, Yiwei Dai, Yili Wang, Rui Miao, Yue Tan, Shirui Pan, Xin Wang</span>
-</div>
-
-<div class="pub-card" data-topic="gad">
-  <span class="badge-venue">CIKM 2025</span>
-  <span class="pub-title">FreeGAD: A Training-Free yet Effective Approach for Graph Anomaly Detection</span>
-  <span class="pub-links">
-    <a href="https://arxiv.org/pdf/2508.10594">Paper</a>
-  </span>
-  <span class="pub-authors">Yunfeng Zhao*, <span class="me">Yixin Liu*</span>, Shiyuan Li*, Qingfeng Chen, Yu Zheng, Shirui Pan</span>
 </div>
 
 <div class="pub-card" data-topic="gad">
