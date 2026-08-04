@@ -120,3 +120,116 @@
   font-size: 1em !important;
   line-height: 1.25 !important;
 }
+
+.pub-topic {
+    font-size: 1.06em;
+    font-weight: 700;
+    color: $qw-accent;
+    margin: 1.6em 0 0.8em;
+    letter-spacing: 0.01em;
+}
+
+.pub-filter {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.45em;
+    margin: 1em 0 1.3em;
+
+    button {
+        border: 1px solid #e0c7cf;
+        background: #fff;
+        color: $qw-accent;
+        border-radius: 999px;
+        padding: 0.28em 0.95em;
+        font-size: 0.84em;
+        font-weight: 600;
+        cursor: pointer;
+        transition: background 0.15s ease, color 0.15s ease, border-color 0.15s ease;
+
+        &:hover {
+            background: #f7eef0;
+        }
+
+        &.active {
+            background: $qw-accent;
+            color: #fff;
+            border-color: $qw-accent;
+        }
+    }
+}
+
+.pub-card {
+    border: 1px solid #e8e8e8;
+    border-left: 4px solid $qw-accent;
+    border-radius: 6px;
+    padding: 0.6em 1em;
+    margin-bottom: 0.7em;
+    line-height: 1.6;
+    transition: box-shadow 0.2s ease, transform 0.2s ease;
+
+    &:hover {
+        box-shadow: 0 4px 14px rgba(0, 0, 0, 0.1);
+        transform: translateY(-2px);
+    }
+
+    .pub-title {
+        font-weight: 700;
+        font-size: 1.02em;
+        margin-right: 0.35em;
+    }
+
+    .pub-authors {
+        display: block;
+        font-size: 0.85em;
+        color: #777;
+        margin-top: 0.2em;
+
+        .me {
+            font-weight: 700;
+            color: #444;
+        }
+    }
+}
+
+.badge-venue {
+    display: inline-block;
+    background: $qw-accent;
+    color: #fff;
+    border-radius: 4px;
+    padding: 0.12em 0.6em;
+    font-size: 0.78em;
+    font-weight: 700;
+    margin-right: 0.35em;
+    vertical-align: middle;
+}
+
+.badge-honor {
+    display: inline-block;
+    background: #fff;
+    color: $qw-honor;
+    border: 1px solid $qw-honor;
+    border-radius: 4px;
+    padding: 0.1em 0.55em;
+    font-size: 0.78em;
+    font-weight: 700;
+    margin-right: 0.35em;
+    vertical-align: middle;
+}
+
+.pub-links a {
+    display: inline-block;
+    border: 1px solid $qw-accent;
+    color: $qw-accent;
+    border-radius: 999px;
+    padding: 0.02em 0.85em;
+    font-size: 0.82em;
+    font-weight: 600;
+    margin-right: 0.4em;
+    text-decoration: none;
+
+    &:hover {
+        background: $qw-accent;
+        color: #fff;
+        text-decoration: none;
+    }
+}
