@@ -182,7 +182,50 @@ Selected Papers (first-author/co-first-author)
   <span class="pub-links"><a href="https://arxiv.org/pdf/2406.15523.pdf">Paper</a> <a href="https://github.com/UB-GOLD/UB-GOLD">Code</a></span>
   <span class="pub-authors">Yili Wang*, <span class="me">Yixin Liu</span>*, Xu Shen*, Chenyu Li*, Kaize Ding, Rui Miao, Ying Wang, Shirui Pan, Xin Wang</span>
 </div>
+
 </div>
+
+<script>
+(function () {
+  function initPubFilter() {
+    var bar = document.querySelector('.pub-filter');
+    var list = document.getElementById('pub-list');
+
+    if (!bar || !list) return;
+
+    var buttons = bar.querySelectorAll('button');
+    var cards = list.querySelectorAll('.pub-card');
+
+    bar.addEventListener('click', function (e) {
+      var btn = e.target.closest('button');
+
+      if (!btn) return;
+
+      var topic = btn.getAttribute('data-filter');
+
+      buttons.forEach(function (button) {
+        button.classList.remove('active');
+      });
+
+      btn.classList.add('active');
+
+      cards.forEach(function (card) {
+        var show =
+          topic === 'all' ||
+          card.getAttribute('data-topic') === topic;
+
+        card.style.display = show ? '' : 'none';
+      });
+    });
+  }
+
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', initPubFilter);
+  } else {
+    initPubFilter();
+  }
+})();
+</script>
 
 
 <div style="display: flex; align-items: flex-start; gap: 16px; margin-bottom: 20px;">
