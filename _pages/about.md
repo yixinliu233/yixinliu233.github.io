@@ -182,18 +182,30 @@ Selected Papers
 <div class="pub-card" data-topic="gad">
   <span class="badge-venue">ICML 2026</span>
   <span class="pub-title">Rethinking Feature Alignment in Generalist Graph Anomaly Detection: A Relational Fingerprint-based Approach</span>
+  <span class="pub-links">
+    <a href="https://arxiv.org/pdf/2605.25429.pdf">Paper</a>
+    <a href="https://github.com/Yujingcn/REFI-GAD-code">Code</a>
+  </span>
   <span class="pub-authors">Yujing Liu, <span class="me">Yixin Liu</span>, Yu Zheng, Alan Wee-Chung Liew, Xiaofeng Cao, Shirui Pan</span>
 </div>
 
 <div class="pub-card" data-topic="ad tabular">
   <span class="badge-venue">ICML 2026</span>
   <span class="pub-title">Towards One-for-All Anomaly Detection for Tabular Data</span>
+  <span class="pub-links">
+    <a href="https://arxiv.org/pdf/2603.14407">Paper</a>
+    <a href="https://github.com/Shiy-Li/OFA-TAD">Code</a>
+  </span>
   <span class="pub-authors">Shiyuan Li, <span class="me">Yixin Liu</span>, Yu Zheng, Xiaofeng Cao, Shirui Pan, Heng Tao Shen</span>
 </div>
 
 <div class="pub-card" data-topic="gnn">
   <span class="badge-venue">TPAMI 2026</span>
   <span class="pub-title">MPHIL: Multi-Prototype Hyperspherical Invariant Learning for Graph Out-of-Distribution Generalization</span>
+  <span class="pub-links">
+    <a href="https://arxiv.org/pdf/2502.10706">Paper</a>
+    <a href="https://anonymous.4open.science/r/MPHIL-23C0/">Code</a>
+  </span>
   <span class="pub-authors">Xu Shen*, <span class="me">Yixin Liu*</span>, Yili Wang, Rui Miao, Yiwei Dai, Shirui Pan, Xin Wang</span>
 </div>
 
@@ -202,6 +214,7 @@ Selected Papers
   <span class="pub-title">OFA-MAS: One-for-All Multi-Agent System Topology Design based on Mixture-of-Experts Graph Generative Models</span>
   <span class="pub-links">
     <a href="https://arxiv.org/pdf/2601.12996">Paper</a>
+    <a href="https://github.com/Shiy-Li/OFA-MAS">Code</a>
   </span>
   <span class="pub-authors">Shiyuan Li*, <span class="me">Yixin Liu*</span>, Yu Zheng, Mei Li, Quoc Viet Hung Nguyen, Shirui Pan</span>
 </div>
@@ -209,24 +222,40 @@ Selected Papers
 <div class="pub-card" data-topic="agent">
   <span class="badge-venue">ACL 2026</span>
   <span class="pub-title">BlindGuard: Safeguarding LLM-based Multi-Agent Systems under Unknown Attacks</span>
+  <span class="pub-links">
+    <a href="https://arxiv.org/pdf/2508.08127">Paper</a>
+    <a href="https://github.com/MR9812/BlindGuard">Code</a>
+  </span>
   <span class="pub-authors">Rui Miao*, <span class="me">Yixin Liu*</span>, Yili Wang, Xu Shen, Yue Tan, Yiwei Dai, Shirui Pan, Xin Wang</span>
 </div>
 
 <div class="pub-card" data-topic="agent">
   <span class="badge-venue">ACL 2026</span>
   <span class="pub-title">Explainable and Fine-Grained Safeguarding of LLM Multi-Agent Systems via Bi-Level Graph Anomaly Detection</span>
+  <span class="pub-links">
+    <a href="https://aclanthology.org/2026.acl-long.1407.pdf">Paper</a>
+    <a href="https://github.com/XG-Guard/XG-Guard">Code</a>
+  </span>
   <span class="pub-authors">Junjun Pan, <span class="me">Yixin Liu<sup>✉</sup></span>, Rui Miao, Kaize Ding, Yu Zheng, Quoc Viet Hung Nguyen, Alan Wee-Chung Liew, Shirui Pan</span>
 </div>
 
 <div class="pub-card" data-topic="fl gad">
   <span class="badge-venue">IJCAI 2026</span>
   <span class="pub-title">FedCIGAR: A Personalized Reconstruction Approach for Federated Graph-level Anomaly Detection</span>
+  <span class="pub-links">
+    <a href="https://arxiv.org/pdf/2605.09428">Paper</a>
+    <a href="https://github.com/yunf-zhao/FedCIGAR">Code</a>
+  </span>
   <span class="pub-authors">Yunfeng Zhao*, <span class="me">Yixin Liu*</span>, Qingfeng Chen, Shiyuan Li, Yue Tan, Shirui Pan</span>
 </div>
 
 <div class="pub-card" data-topic="gad">
   <span class="badge-venue">IJCAI 2026</span>
   <span class="pub-title">CAMERA: Adapting to Semantic Camouflage in Unsupervised Text-Attributed Graph Fraud Detection</span>
+  <span class="pub-links">
+    <a href="https://arxiv.org/pdf/2605.20032">Paper</a>
+    <a href="https://github.com/CampanulaBells/CAMERA">Code</a>
+  </span>
   <span class="pub-authors">Junjun Pan, <span class="me">Yixin Liu<sup>✉</sup></span>, Yu Zheng<sup>✉</sup>, Lianhua Chi, Alan Wee-Chung Liew, Shirui Pan</span>
 </div>
 
@@ -235,6 +264,7 @@ Selected Papers
   <span class="pub-title">Assemble Your Crew: Automatic Multi-Agent Communication Topology Design via Autoregressive Graph Generation</span>
   <span class="pub-links">
     <a href="https://arxiv.org/pdf/2507.18224">Paper</a>
+    <a href="https://github.com/Shiy-Li/ARG-Designer">Code</a>
   </span>
   <span class="pub-authors">Shiyuan Li, <span class="me">Yixin Liu</span>, Qingsong Wen, Chengqi Zhang, Shirui Pan</span>
 </div>
@@ -242,24 +272,40 @@ Selected Papers
 <div class="pub-card" data-topic="gad">
   <span class="badge-venue">AAAI 2026</span>
   <span class="pub-title">Correcting False Alarms from Unseen: Adapting Graph Anomaly Detectors at Test Time</span>
+  <span class="pub-links">
+    <a href="https://arxiv.org/pdf/2511.07023">Paper</a>
+    <a href="https://github.com/CampanulaBells/TUNE">Code</a>
+  </span>
   <span class="pub-authors">Junjun Pan, <span class="me">Yixin Liu</span>, Chuan Zhou, Fei Xiong, Alan Wee-Chung Liew, Shirui Pan</span>
 </div>
 
 <div class="pub-card" data-topic="gnn">
   <span class="badge-venue">TKDE 2026</span>
   <span class="pub-title">Graph Neural Networks for Graphs with Heterophily: A Survey</span>
+  <span class="pub-links">
+    <a href="https://arxiv.org/pdf/2202.07082">Paper</a>
+    <a href="https://github.com/alexfanjn/Graph-Neural-Networks-With-Heterophily">Code</a>
+  </span>
   <span class="pub-authors">Xin Zheng, Yi Wang, <span class="me">Yixin Liu</span>, Ming Li, Miao Zhang, Di Jin, Philip S. Yu, Shirui Pan</span>
 </div>
 
 <div class="pub-card" data-topic="gad">
   <span class="badge-venue">TKDE 2026</span>
   <span class="pub-title">From Few-Shot to Zero-Shot: Towards Generalist Graph Anomaly Detection</span>
+  <span class="pub-links">
+    <a href="https://arxiv.org/pdf/2602.18793">Paper</a>
+    <a href="https://github.com/yixinliu233/ARC">Code</a>
+  </span>
   <span class="pub-authors"><span class="me">Yixin Liu</span>, Shiyuan Li, Yu Zheng, Qingfeng Chen, Chengqi Zhang, Philip S. Yu, Shirui Pan</span>
 </div>
 
 <div class="pub-card" data-topic="ad">
   <span class="badge-venue">ECML-PKDD 2026</span>
   <span class="pub-title">Beyond a Single Perspective: Text Anomaly Detection with Multi-View Language Representations</span>
+  <span class="pub-links">
+    <a href="https://arxiv.org/pdf/2601.17786">Paper</a>
+    <a href="https://github.com/yankehan/MCA2">Code</a>
+  </span>
   <span class="pub-authors"><span class="me">Yixin Liu</span>, Kehan Yan, Shiyuan Li, Qingfeng Chen, Shirui Pan</span>
 </div>
 
