@@ -111,6 +111,8 @@ My research aims to build intelligent systems that can act (Agentic AI), underst
 
 News
 ------
+
+<div id="news-list" markdown="1">
 * 2026/06: Our paper on [graph OOD generalization](https://arxiv.org/pdf/2502.10706) has been accepted by TPAMI.
 * 2026/05: Our paper on [text anomaly detection](https://arxiv.org/pdf/2601.17786) has been accepted by ECML-PKDD 2026.
 * 2026/05: Our paper on [generalist graph anomaly detection](https://arxiv.org/pdf/2605.25429) has been accepted by ICML 2026.
@@ -164,6 +166,57 @@ News
 * 2021/06: Our paper on [label propagation](https://link.springer.com/content/pdf/10.1007/s11280-021-00906-2.pdf) has been accepted by World Wide Web. 
 * 2021/03: Our paper on [graph anomaly detection](https://arxiv.org/pdf/2103.00113.pdf) has been accepted by IEEE TNNLS. 
 
+</div>
+
+<button id="news-toggle" class="news-toggle" type="button">
+  Click to see more
+</button>
+
+<script>
+(function () {
+  function initNewsToggle() {
+    var newsList = document.getElementById('news-list');
+    var toggleButton = document.getElementById('news-toggle');
+
+    if (!newsList || !toggleButton) return;
+
+    var visibleCount = 8;
+    var newsItems = newsList.querySelectorAll('li');
+
+    if (newsItems.length <= visibleCount) {
+      toggleButton.style.display = 'none';
+      return;
+    }
+
+    var expanded = false;
+
+    function updateNewsList() {
+      newsItems.forEach(function (item, index) {
+        item.style.display =
+          expanded || index < visibleCount ? '' : 'none';
+      });
+
+      toggleButton.textContent = expanded
+        ? 'Click to see less'
+        : 'Click to see more';
+    }
+
+    toggleButton.addEventListener('click', function () {
+      expanded = !expanded;
+      updateNewsList();
+    });
+
+    updateNewsList();
+  }
+
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', initNewsToggle);
+  } else {
+    initNewsToggle();
+  }
+})();
+</script>
+
 Selected Papers
 ------
 
@@ -171,10 +224,10 @@ Selected Papers
   <button class="active" data-filter="all">All</button>
   <button data-filter="gad">Graph Anomaly Detection</button>
   <button data-filter="agent">LLM Agent</button>
-  <button data-filter="fl">Federated Learning</button>
-  <button data-filter="ad">Anomaly Detection</button>
-  <button data-filter="tabular">Learning on Tabular Data</button>
   <button data-filter="gnn">Learning on Graphs</button>
+  <button data-filter="ad">Anomaly Detection</button>
+  <button data-filter="fl">Federated Learning</button>
+  <button data-filter="tabular">Learning on Tabular Data</button>
 </div>
 
 <div id="pub-list">
