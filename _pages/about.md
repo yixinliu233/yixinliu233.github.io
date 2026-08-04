@@ -197,7 +197,7 @@ Selected Papers
   <span class="pub-authors">Xu Shen*, <span class="me">Yixin Liu*</span>, Yili Wang, Rui Miao, Yiwei Dai, Shirui Pan, Xin Wang</span>
 </div>
 
-<div class="pub-card" data-topic="gnn">
+<div class="pub-card" data-topic="agent">
   <span class="badge-venue">WWW 2026</span>
   <span class="pub-title">OFA-MAS: One-for-All Multi-Agent System Topology Design based on Mixture-of-Experts Graph Generative Models</span>
   <span class="pub-links">
@@ -230,7 +230,7 @@ Selected Papers
   <span class="pub-authors">Junjun Pan, <span class="me">Yixin Liu<sup>✉</sup></span>, Yu Zheng<sup>✉</sup>, Lianhua Chi, Alan Wee-Chung Liew, Shirui Pan</span>
 </div>
 
-<div class="pub-card" data-topic="gnn">
+<div class="pub-card" data-topic="agent">
   <span class="badge-venue">AAAI 2026</span>
   <span class="pub-title">Assemble Your Crew: Automatic Multi-Agent Communication Topology Design via Autoregressive Graph Generation</span>
   <span class="pub-links">
@@ -469,9 +469,13 @@ Selected Papers
       btn.classList.add('active');
 
       cards.forEach(function (card) {
+        var topics = (card.getAttribute('data-topic') || '')
+          .trim()
+          .split(/\s+/);
+
         var show =
           topic === 'all' ||
-          card.getAttribute('data-topic') === topic;
+          topics.includes(topic);
 
         card.style.display = show ? '' : 'none';
       });
