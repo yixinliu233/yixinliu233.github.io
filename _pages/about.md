@@ -308,6 +308,7 @@ Selected Papers
 
 <div class="pub-card" data-topic="agent">
   <span class="badge-venue">AAAI 2026</span>
+  <span class="badge-honor">Oral</span>
   <span class="pub-title">Assemble Your Crew: Automatic Multi-Agent Communication Topology Design via Autoregressive Graph Generation</span>
   <span class="pub-links">
     <a href="https://arxiv.org/pdf/2507.18224">Paper</a>
@@ -387,6 +388,7 @@ Selected Papers
 
 <div class="pub-card" data-topic="gad">
   <span class="badge-venue">AAAI 2025</span>
+  <span class="badge-honor">Oral</span>
   <span class="pub-title">A Label-free Heterophily-guided Approach for Unsupervised Graph Fraud Detection</span>
   <span class="pub-links">
     <a href="https://arxiv.org/pdf/2502.13308">Paper</a>
