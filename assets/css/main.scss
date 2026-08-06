@@ -141,7 +141,8 @@ $qw-honor: #8FB7D2;
     margin: 1em 0 1.3em;
 
     button {
-        border: 1px solid #e0c7cf;
+        // border: 1px solid #e0c7cf;
+        border: 1px solid #8FB7D2;
         background: #fff;
         color: $qw-accent;
         border-radius: 999px;
@@ -152,7 +153,8 @@ $qw-honor: #8FB7D2;
         transition: background 0.15s ease, color 0.15s ease, border-color 0.15s ease;
 
         &:hover {
-            background: #f7eef0;
+            // background: #f7eef0;
+          background: #8FB7D2;
         }
 
         &.active {
@@ -164,7 +166,8 @@ $qw-honor: #8FB7D2;
 }
 
 .pub-card {
-    border: 1px solid #e8e8e8;
+    // border: 1px solid #e8e8e8;
+    border: 1px solid #8FB7D2;
     border-left: 4px solid $qw-accent;
     border-radius: 6px;
     padding: 0.6em 1em;
