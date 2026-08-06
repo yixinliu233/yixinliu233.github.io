@@ -134,40 +134,73 @@ $qw-honor: #8FB7D2;
     letter-spacing: 0.01em;
 }
 
+// .pub-filter {
+//     display: flex;
+//     flex-wrap: wrap;
+//     gap: 0.45em;
+//     margin: 1em 0 1.3em;
+
+//     button {
+//         // border: 1px solid #e0c7cf;
+//         border: 1px solid #8FB7D2;
+//         background: #fff;
+//         color: $qw-accent;
+//         border-radius: 999px;
+//         padding: 0.28em 0.95em;
+//         font-size: 0.84em;
+//         font-weight: 600;
+//         cursor: pointer;
+//         transition: background 0.15s ease, color 0.15s ease, border-color 0.15s ease;
+
+//         &:hover {
+//             // background: #f7eef0;
+//           background: #8FB7D2;
+//         }
+
+//         &.active {
+//             background: $qw-accent;
+//             color: #fff;
+//             border-color: $qw-accent;
+//         }
+//     }
+// }
+
 .pub-filter {
     display: flex;
     flex-wrap: wrap;
     gap: 0.45em;
     margin: 1em 0 1.3em;
+}
 
-    button {
-        // border: 1px solid #e0c7cf;
-        border: 1px solid #8FB7D2;
-        background: #fff;
-        color: $qw-accent;
-        border-radius: 999px;
-        padding: 0.28em 0.95em;
-        font-size: 0.84em;
-        font-weight: 600;
-        cursor: pointer;
-        transition: background 0.15s ease, color 0.15s ease, border-color 0.15s ease;
+.pub-filter button,
+.news-toggle {
+    border: 1px solid #8FB7D2;
+    background: #fff;
+    color: $qw-accent;
+    border-radius: 999px;
+    padding: 0.28em 0.95em;
+    font-size: 0.84em;
+    font-weight: 600;
+    font-family: inherit;
+    cursor: pointer;
+    transition:
+        background 0.15s ease,
+        color 0.15s ease,
+        border-color 0.15s ease;
 
-        &:hover {
-            // background: #f7eef0;
-          background: #8FB7D2;
-        }
-
-        &.active {
-            background: $qw-accent;
-            color: #fff;
-            border-color: $qw-accent;
-        }
+    &:hover {
+        background: #8FB7D2;
     }
 }
 
+.pub-filter button.active {
+    background: $qw-accent;
+    color: #fff;
+    border-color: $qw-accent;
+}
+
 .news-toggle {
-    @extend .pub-filter button;
-    font-family: inherit;
+    display: inline-block;
     margin-top: 0.4em;
 }
 
