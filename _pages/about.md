@@ -380,6 +380,7 @@ Selected Papers
   <span class="pub-title">Understanding the Information Propagation Effects of Communication Topologies in LLM-based Multi-Agent Systems</span>
   <span class="pub-links">
     <a href="https://arxiv.org/pdf/2505.23352">Paper</a>
+    <a href="https://github.com/se7esx/EIB_learner">Code</a>
   </span>
   <span class="pub-authors">Xu Shen*, <span class="me">Yixin Liu*</span>, Yiwei Dai, Yili Wang, Rui Miao, Yue Tan, Shirui Pan, Xin Wang</span>
 </div>
@@ -389,6 +390,7 @@ Selected Papers
   <span class="pub-title">A Label-free Heterophily-guided Approach for Unsupervised Graph Fraud Detection</span>
   <span class="pub-links">
     <a href="https://arxiv.org/pdf/2502.13308">Paper</a>
+    <a href="https://github.com/CampanulaBells/HUGE-GAD">Code</a>
   </span>
   <span class="pub-authors">Junjun Pan, <span class="me">Yixin Liu</span>, Xin Zheng, Yizhen Zheng, Alan Wee-Chung Liew, Fuyi Li, Shirui Pan</span>
 </div>
