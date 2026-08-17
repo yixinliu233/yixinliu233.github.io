@@ -116,17 +116,17 @@ News
 * 🎓 2026/01: Honored and excited to be appointed as a Lecturer (Assistant Professor equivalent) at Griffith University!
 * 🏆 2025/11: Honored and thrilled to receive [ARC DECRA Fellowship 2026](https://rms.arc.gov.au/RMS/Report/Download/Report/a3f6be6e-33f7-4fb5-98a6-7526aaa184cf/285) (AU$500,386) for supporting my research on graph anomaly detection!
 * 🌟 2025/09: Honored to be named in the list of [the World's Top 2% Scientists 2025](https://topresearcherslist.com/Home/Profile/1103860) by Stanford University/Elsevier.
+* 2026/08: Our papers on text anomaly detection ([DiFA]() and [SIM]()), graph learning ([PaSta]() and [HOPE]()), and cryptocurrency anti-money laundering ([FlowShield]()) have been accepted by ICDM 2026 (x5). See you in Shenyang❄️!
 * 2026/06: Our paper on [graph OOD generalization](https://arxiv.org/pdf/2502.10706) has been accepted by TPAMI.
-* 2026/05: Our papers on [generalist graph anomaly detection](https://arxiv.org/pdf/2605.25429) and [one-for-all tabular data anomaly detection](https://arxiv.org/pdf/2603.14407) have been accepted by ICML 2026 (x2).
+* 2026/05: Our papers on [generalist graph anomaly detection](https://arxiv.org/pdf/2605.25429) and [one-for-all tabular data anomaly detection](https://arxiv.org/pdf/2603.14407) have been accepted by ICML 2026 (x2). See you in Seoul🇰🇷!
 * 2026/05: Our papers on [text-attributed graph fraud detection](https://arxiv.org/pdf/2605.20032) and [federated graph anomaly detection](https://arxiv.org/pdf/2605.09428) have been accepted by IJCAI 2026 (x2).
 * 2026/04: Our paper on [generalist graph anomaly detection](https://arxiv.org/pdf/2602.18793) has been accepted by TKDE.
 * 2026/04: Our papers on multi-agent system safeguarding [BlindGuard](https://arxiv.org/pdf/2508.08127) and [XG-Guard](https://arxiv.org/pdf/2512.18733) have been accepted by ACL 2026 Main Conference (x2).
-* 2026/05: Our paper on [text anomaly detection](https://arxiv.org/pdf/2601.17786) has been accepted by ECML-PKDD 2026.
 * 2026/03: Our survey on [heterophilic graph neural networks](https://arxiv.org/pdf/2202.07082) has been accepted by TKDE.
 * 2026/02: Our paper on [multimodal recommendation]() has been accepted by PAKDD 2026.
 * 2026/01: Our paper on [LLM multi-agent system design](https://arxiv.org/pdf/2601.12996) has been accepted by WWW 2026.
 * 2025/12: Our survey on [domain generalization/adaptation](https://arxiv.org/pdf/2504.14280) has been accepted by TPAMI.
-* 2025/11: Our papers on [LLM multi-agent system design](https://arxiv.org/pdf/2507.18224) and [graph anomaly detection](https://arxiv.org/pdf/2511.07023) have been accepted by AAAI 2026 (x2).
+* 2025/11: Our papers on [LLM multi-agent system design](https://arxiv.org/pdf/2507.18224) and [graph anomaly detection](https://arxiv.org/pdf/2511.07023) have been accepted by AAAI 2026 (x2). 
 * 2025/10: Our position paper on [graph-augmented LLM agents](https://arxiv.org/pdf/2507.21407) has been accepted by IEEE Intelligent Systems.
 * 2025/09: Our survey on [generalizable graph anomaly detection](https://arxiv.org/pdf/2509.06609) has been accepted by ICKG 2025.
 * 2025/08: Our paper on [LLM multi-agent system design](https://arxiv.org/pdf/2505.23352) has been accepted by EMNLP 2025 (Main Conference).
@@ -135,7 +135,7 @@ News
 * 2025/02: Our paper on [graph foundation model](https://link.springer.com/chapter/10.1007/978-981-96-8173-0_18) has been accepted by PAKDD 2025.
 * 2025/01: Our benchmark on [graph-level anomaly/OOD detection](https://arxiv.org/pdf/2406.15523) has been accepted by ICLR 2025.
 * 2024/12: Our paper on [graph fraud detection](https://arxiv.org/pdf/2502.13308) has been accepted by AAAI 2025.
-* 2024/09: Our paper on [generalist graph anomaly detection with in-context learning](https://arxiv.org/pdf/2405.16771) has been accepted by NeurIPS 2024.
+* 2024/09: Our paper on [generalist graph anomaly detection with in-context learning](https://arxiv.org/pdf/2405.16771) has been accepted by NeurIPS 2024. See you in Vancouver🏔️!
 * 2024/08: Our paper on [data-efficient graph learning](https://arxiv.org/pdf/2405.16771) has been accepted by AI Magazine.
 * 2024/07: Our papers on [graph representation learning](https://arxiv.org/pdf/2407.19944) and [data imputation](https://arxiv.org/pdf/2407.18013) have been accepted by CIKM 2024 (x2).
 * 2024/05: Our paper on [GNN against label noise](https://dl.acm.org/doi/pdf/10.1145/3637528.3671798) has been accepted by KDD 2024.
@@ -149,7 +149,7 @@ News
 * 2023/09: Our paper on [graph anomaly detection](https://arxiv.org/pdf/2310.11676.pdf) has been accepted by ICDM 2023.
 * 2023/06: We present a tutorial on [graph self-supervised learning](https://shiruipan.github.io/post/GSSL_tutorial.pdf) at IJCNN 2023.
 * 2023/05: Our paper on [weak information graph learning](https://arxiv.org/pdf/2305.18457.pdf) has been accepted by KDD 2023.
-* 2022/11: Our papers on [graph representation learning](https://arxiv.org/pdf/2211.14065.pdf) and [federated graph learning](https://arxiv.org/pdf/2211.13009.pdf) have been accepted by AAAI 2023 (x2).
+* 2022/11: Our papers on [graph representation learning](https://arxiv.org/pdf/2211.14065.pdf) and [federated graph learning](https://arxiv.org/pdf/2211.13009.pdf) have been accepted by AAAI 2023 (x2). See you in Washington DC🏛️!
 * 2022/10: Our paper on [graph OOD detection](https://arxiv.org/pdf/2211.04208.pdf) has been accepted by WSDM 2023.
 * 2022/08: I am honored to receive the [Google Ph.D. Fellowship](https://research.google/outreach/phd-fellowship) in 2022.
 * 2022/05: Our survey on [graph self-supervised learning](https://arxiv.org/pdf/2103.00111.pdf) has been accepted by IEEE TKDE.
@@ -174,7 +174,7 @@ News
 
     if (!newsList || !toggleButton) return;
 
-    var visibleCount = 8;
+    var visibleCount = 10;
     var newsItems = newsList.querySelectorAll('li');
 
     if (newsItems.length <= visibleCount) {
