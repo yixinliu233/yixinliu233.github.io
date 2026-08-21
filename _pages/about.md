@@ -116,12 +116,13 @@ News
 * 🎓 2026/01: Honored and excited to be appointed as a Lecturer (Assistant Professor equivalent) at Griffith University!
 * 🏆 2025/11: Honored and thrilled to receive [ARC DECRA Fellowship 2026](https://rms.arc.gov.au/RMS/Report/Download/Report/a3f6be6e-33f7-4fb5-98a6-7526aaa184cf/285) (AU$500,386) for supporting my research on graph anomaly detection!
 * 🌟 2025/09: Honored to be named in the list of [the World's Top 2% Scientists 2025](https://topresearcherslist.com/Home/Profile/1103860) by Stanford University/Elsevier.
+* 2025/08: Our papers on [diffusion LM hallucination detection](https://arxiv.org/pdf/2603.16459) and [multi-agent system safeguarding](https://arxiv.org/pdf/2606.12474) have been accepted by EMNLP 2026 Findings.
 * 2026/08: Our papers on text anomaly detection ([DiFA]() and [SIM]()), graph learning ([PaSta]() and [HOPE]()), and cryptocurrency anti-money laundering ([FlowShield]()) have been accepted by ICDM 2026 (x5). See you in Shenyang❄️!
 * 2026/06: Our paper on [graph OOD generalization](https://arxiv.org/pdf/2502.10706) has been accepted by TPAMI.
 * 2026/05: Our papers on generalist[graph](https://arxiv.org/pdf/2605.25429) and [tabular data](https://arxiv.org/pdf/2603.14407) anomaly detection have been accepted by ICML 2026 (x2). See you in Seoul🇰🇷!
 * 2026/05: Our papers on [text-attributed graph fraud detection](https://arxiv.org/pdf/2605.20032) and [federated graph anomaly detection](https://arxiv.org/pdf/2605.09428) have been accepted by IJCAI 2026 (x2).
 * 2026/04: Our paper on [generalist graph anomaly detection](https://arxiv.org/pdf/2602.18793) has been accepted by TKDE.
-* 2026/04: Our papers on multi-agent system safeguarding [BlindGuard](https://arxiv.org/pdf/2508.08127) and [XG-Guard](https://arxiv.org/pdf/2512.18733) have been accepted by ACL 2026 Main Conference (x2).
+* 2026/04: Our papers on multi-agent system safeguarding ([BlindGuard](https://arxiv.org/pdf/2508.08127) and [XG-Guard])(https://arxiv.org/pdf/2512.18733) have been accepted by ACL 2026 Main Conference (x2).
 * 2026/03: Our survey on [heterophilic graph neural networks](https://arxiv.org/pdf/2202.07082) has been accepted by TKDE.
 * 2026/02: Our paper on [multimodal recommendation]() has been accepted by PAKDD 2026.
 * 2026/01: Our paper on [LLM multi-agent system design](https://arxiv.org/pdf/2601.12996) has been accepted by WWW 2026.
@@ -129,7 +130,7 @@ News
 * 2025/11: Our papers on [LLM multi-agent system design](https://arxiv.org/pdf/2507.18224) and [graph anomaly detection](https://arxiv.org/pdf/2511.07023) have been accepted by AAAI 2026 (x2). 
 * 2025/10: Our position paper on [graph-augmented LLM agents](https://arxiv.org/pdf/2507.21407) has been accepted by IEEE Intelligent Systems.
 * 2025/09: Our survey on [generalizable graph anomaly detection](https://arxiv.org/pdf/2509.06609) has been accepted by ICKG 2025.
-* 2025/08: Our paper on [LLM multi-agent system design](https://arxiv.org/pdf/2505.23352) has been accepted by EMNLP 2025 (Main Conference).
+* 2025/08: Our paper on [LLM multi-agent system design](https://arxiv.org/pdf/2505.23352) has been accepted by EMNLP 2025 Main Conference.
 * 2025/08: Our paper on [graph anomaly detection](https://arxiv.org/pdf/2508.10594) has been accepted by CIKM 2025.
 * 2025/06: Our paper on [graph neural network](https://arxiv.org/pdf/2506.13083) has been accepted by TNNLS.
 * 2025/02: Our paper on [graph foundation model](https://link.springer.com/chapter/10.1007/978-981-96-8173-0_18) has been accepted by PAKDD 2025.
