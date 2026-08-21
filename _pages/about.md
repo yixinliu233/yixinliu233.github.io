@@ -122,7 +122,7 @@ News
 * 2026/05: Our papers on generalist[graph](https://arxiv.org/pdf/2605.25429) and [tabular data](https://arxiv.org/pdf/2603.14407) anomaly detection have been accepted by ICML 2026 (x2). See you in Seoul🇰🇷!
 * 2026/05: Our papers on [text-attributed graph fraud detection](https://arxiv.org/pdf/2605.20032) and [federated graph anomaly detection](https://arxiv.org/pdf/2605.09428) have been accepted by IJCAI 2026 (x2).
 * 2026/04: Our paper on [generalist graph anomaly detection](https://arxiv.org/pdf/2602.18793) has been accepted by TKDE.
-* 2026/04: Our papers on multi-agent system safeguarding ([BlindGuard](https://arxiv.org/pdf/2508.08127) and [XG-Guard])(https://arxiv.org/pdf/2512.18733) have been accepted by ACL 2026 Main Conference (x2).
+* 2026/04: Our papers on multi-agent system safeguarding ([BlindGuard](https://arxiv.org/pdf/2508.08127) and [XG-Guard](https://arxiv.org/pdf/2512.18733)) have been accepted by ACL 2026 Main Conference (x2).
 * 2026/03: Our survey on [heterophilic graph neural networks](https://arxiv.org/pdf/2202.07082) has been accepted by TKDE.
 * 2026/02: Our paper on [multimodal recommendation]() has been accepted by PAKDD 2026.
 * 2026/01: Our paper on [LLM multi-agent system design](https://arxiv.org/pdf/2601.12996) has been accepted by WWW 2026.
