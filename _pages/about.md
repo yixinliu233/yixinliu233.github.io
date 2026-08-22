@@ -349,6 +349,30 @@ Selected Papers
 </div>
 
 <div class="pub-card" data-topic="ad">
+  <span class="badge-venue">ICDM 2026</span>
+  <span class="pub-title">DiFA: Dual Evidence Fusion and Aggregation for Token-Level Text Anomaly Detection</span>
+  <span class="pub-authors">
+    Yanyu Qian, Pengcheng Weng, Yue Tan*, Enguang Zuo, Yu Zheng, and <span class="me">Yixin Liu*</span>
+  </span>
+</div>
+
+<div class="pub-card" data-topic="ad">
+  <span class="badge-venue">ICDM 2026</span>
+  <span class="pub-title">SIM: Subspace Interaction-based Method for Token-Level Text Anomaly Detection</span>
+  <span class="pub-authors">
+    Kehan Yan, Yue Tan, Qingfeng Chen*, Shiyuan Li, Yu Zheng, and <span class="me">Yixin Liu*</span>
+  </span>
+</div>
+
+<div class="pub-card" data-topic="gnn">
+  <span class="badge-venue">ICDM 2026</span>
+  <span class="pub-title">PaSta: Noisy Node Classification with Partial Label Learning</span>
+  <span class="pub-authors">
+    Yujing Liu, <span class="me">Yixin Liu</span>, Yu Zheng, Yue Tan, Alan Wee-Chung Liew, and Shirui Pan
+  </span>
+</div>
+
+<div class="pub-card" data-topic="ad">
   <span class="badge-venue">ECML-PKDD 2026</span>
   <span class="pub-title">Beyond a Single Perspective: Text Anomaly Detection with Multi-View Language Representations</span>
   <span class="pub-links">
