@@ -352,7 +352,7 @@ Selected Papers
   <span class="badge-venue">ICDM 2026</span>
   <span class="pub-title">DiFA: Dual Evidence Fusion and Aggregation for Token-Level Text Anomaly Detection</span>
   <span class="pub-authors">
-    Yanyu Qian, Pengcheng Weng, Yue Tan*, Enguang Zuo, Yu Zheng, and <span class="me">Yixin Liu*</span>
+    Yanyu Qian, Pengcheng Weng, Yue Tan<sup>✉</sup>, Enguang Zuo, Yu Zheng, and <span class="me">Yixin Liu<sup>✉</sup></span>
   </span>
 </div>
 
@@ -360,7 +360,7 @@ Selected Papers
   <span class="badge-venue">ICDM 2026</span>
   <span class="pub-title">SIM: Subspace Interaction-based Method for Token-Level Text Anomaly Detection</span>
   <span class="pub-authors">
-    Kehan Yan, Yue Tan, Qingfeng Chen*, Shiyuan Li, Yu Zheng, and <span class="me">Yixin Liu*</span>
+    Kehan Yan, Yue Tan, Qingfeng Chen<sup>✉</sup>, Shiyuan Li, Yu Zheng, and <span class="me">Yixin Liu<sup>✉</sup></span>
   </span>
 </div>
 
