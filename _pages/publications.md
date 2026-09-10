@@ -261,8 +261,3 @@ IEEE International Joint Conference on Neural Networks (**IJCNN**), 2023.
 * Towards Data-centric Graph Machine Learning: Review and Outlook \[[PDF](https://arxiv.org/abs/2309.10979)\]  
 Xin Zheng, **Yixin Liu**, Zhifeng Bao, Meng Fang, Xia Hu, Alan Wee-Chung Liew, Shirui Pan.  
 2023.
-
-
-* From Unsupervised to Few-shot Graph Anomaly Detection: A Multi-scale Contrastive Learning Approach \[[PDF](https://arxiv.org/abs/2202.05525)\]  
-Yu Zheng, Ming Jin, **Yixin Liu**, Lianhua Chi, Khoa T Phan, Shirui Pan, Yi-Ping Phoebe Chen.  
-2022.
