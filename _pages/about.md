@@ -120,7 +120,7 @@ News
 * 2026/08: Our papers on [diffusion LM hallucination detection](https://arxiv.org/pdf/2603.16459) and [multi-agent system safeguarding](https://arxiv.org/pdf/2606.12474) have been accepted by EMNLP 2026 Findings (x2).
 * 2026/08: Our papers on text anomaly detection ([DiFA]() and [SIM]()), graph learning ([PaSta]() and [HOPE]()), and cryptocurrency anti-money laundering ([FlowShield]()) have been accepted by ICDM 2026 (x5). See you in Shenyang❄️!
 * 2026/06: Our paper on [graph OOD generalization](https://arxiv.org/pdf/2502.10706) has been accepted by TPAMI.
-* 2026/05: Our papers on generalist[graph](https://arxiv.org/pdf/2605.25429) and [tabular data](https://arxiv.org/pdf/2603.14407) anomaly detection have been accepted by ICML 2026 (x2). See you in Seoul🇰🇷!
+* 2026/05: Our papers on generalist [graph](https://arxiv.org/pdf/2605.25429) and [tabular data](https://arxiv.org/pdf/2603.14407) anomaly detection have been accepted by ICML 2026 (x2). See you in Seoul🇰🇷!
 * 2026/05: Our papers on [text-attributed graph fraud detection](https://arxiv.org/pdf/2605.20032) and [federated graph anomaly detection](https://arxiv.org/pdf/2605.09428) have been accepted by IJCAI 2026 (x2).
 * 2026/04: Our paper on [generalist graph anomaly detection](https://arxiv.org/pdf/2602.18793) has been accepted by TKDE.
 * 2026/04: Our papers on multi-agent system safeguarding ([BlindGuard](https://arxiv.org/pdf/2508.08127) and [XG-Guard](https://arxiv.org/pdf/2512.18733)) have been accepted by ACL 2026 Main Conference (x2).
