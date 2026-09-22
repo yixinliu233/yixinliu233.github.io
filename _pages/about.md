@@ -119,7 +119,7 @@ News
 * 2026/09: Our paper on [blockchain illicit transaction detection]() has been accepted by ACM SIGMETRICS 2027.
 * 2026/08: Started serving as an Area Chair for [ICLR 2027](https://iclr.cc/).
 * 2026/08: Our papers on [diffusion LM hallucination detection](https://arxiv.org/pdf/2603.16459) and [multi-agent system safeguarding](https://arxiv.org/pdf/2606.12474) have been accepted by EMNLP 2026 Findings (x2).
-* 2026/08: Our papers on text anomaly detection ([DiFA]() and [SIM]()), graph learning ([PaSta]() and [HOPE]()), and cryptocurrency anti-money laundering ([FlowShield]()) have been accepted by ICDM 2026 (x5). See you in Shenyang❄️!
+* 2026/08: Our papers on text anomaly detection ([DiFA](https://arxiv.org/pdf/2609.22136) and [SIM](https://arxiv.org/pdf/2609.08200)), graph learning ([PaSta](https://arxiv.org/pdf/2608.25365) and [HOPE](https://arxiv.org/pdf/2609.08685)), and cryptocurrency anti-money laundering ([FlowShield](https://arxiv.org/pdf/2608.17355)) have been accepted by ICDM 2026 (x5). See you in Shenyang❄️!
 * 2026/06: Our paper on [graph OOD generalization](https://arxiv.org/pdf/2502.10706) has been accepted by TPAMI.
 * 2026/05: Our papers on generalist [graph](https://arxiv.org/pdf/2605.25429) and [tabular data](https://arxiv.org/pdf/2603.14407) anomaly detection have been accepted by ICML 2026 (x2). See you in Seoul🇰🇷!
 * 2026/05: Our papers on [text-attributed graph fraud detection](https://arxiv.org/pdf/2605.20032) and [federated graph anomaly detection](https://arxiv.org/pdf/2605.09428) have been accepted by IJCAI 2026 (x2).
@@ -352,7 +352,12 @@ Selected Papers
 
 <div class="pub-card" data-topic="ad">
   <span class="badge-venue">ICDM 2026</span>
+  <span class="badge-honor">Best-Ranked Papers</span>
   <span class="pub-title">DiFA: Dual Evidence Fusion and Aggregation for Token-Level Text Anomaly Detection</span>
+  <span class="pub-links">
+    <a href="https://arxiv.org/pdf/2609.22136">Paper</a>
+    <a href="https://github.com/qyy11-com/DiFA">Code</a> 
+  </span>
   <span class="pub-authors">
     Yanyu Qian, Pengcheng Weng, Yue Tan<sup>✉</sup>, Enguang Zuo, Yu Zheng, and <span class="me">Yixin Liu<sup>✉</sup></span>
   </span>
@@ -361,6 +366,10 @@ Selected Papers
 <div class="pub-card" data-topic="ad">
   <span class="badge-venue">ICDM 2026</span>
   <span class="pub-title">SIM: Subspace Interaction-based Method for Token-Level Text Anomaly Detection</span>
+  <span class="pub-links">
+    <a href="https://arxiv.org/pdf/2609.08200">Paper</a>
+    <a href="https://github.com/yankehan/SIM-TAD">Code</a>
+  </span>
   <span class="pub-authors">
     Kehan Yan, Yue Tan, Qingfeng Chen<sup>✉</sup>, Shiyuan Li, Yu Zheng, and <span class="me">Yixin Liu<sup>✉</sup></span>
   </span>
@@ -369,6 +378,10 @@ Selected Papers
 <div class="pub-card" data-topic="gnn">
   <span class="badge-venue">ICDM 2026</span>
   <span class="pub-title">PaSta: Noisy Node Classification with Partial Label Learning</span>
+  <span class="pub-links">
+    <a href="https://arxiv.org/pdf/2608.25365">Paper</a>
+    <a href="https://github.com/Yujingcn/PaSta-code">Code</a>
+  </span>
   <span class="pub-authors">
     Yujing Liu, <span class="me">Yixin Liu</span>, Yu Zheng, Yue Tan, Alan Wee-Chung Liew, and Shirui Pan
   </span>
