@@ -117,6 +117,7 @@ News
 * 🏆 2025/11: Honored and thrilled to receive [ARC DECRA Fellowship 2026](https://rms.arc.gov.au/RMS/Report/Download/Report/a3f6be6e-33f7-4fb5-98a6-7526aaa184cf/285) (AU$500,386) for supporting my research on graph anomaly detection!
 * 🌟 2025/09: Honored to be named in the list of [the World's Top 2% Scientists 2025](https://topresearcherslist.com/Home/Profile/1103860) by Stanford University/Elsevier.
 * 2026/09: Our paper on [blockchain illicit transaction detection]() has been accepted by ACM SIGMETRICS 2027.
+* 2026/08: Started serving as an Area Chair for [ICLR 2027](https://iclr.cc/).
 * 2026/08: Our papers on [diffusion LM hallucination detection](https://arxiv.org/pdf/2603.16459) and [multi-agent system safeguarding](https://arxiv.org/pdf/2606.12474) have been accepted by EMNLP 2026 Findings (x2).
 * 2026/08: Our papers on text anomaly detection ([DiFA]() and [SIM]()), graph learning ([PaSta]() and [HOPE]()), and cryptocurrency anti-money laundering ([FlowShield]()) have been accepted by ICDM 2026 (x5). See you in Shenyang❄️!
 * 2026/06: Our paper on [graph OOD generalization](https://arxiv.org/pdf/2502.10706) has been accepted by TPAMI.
