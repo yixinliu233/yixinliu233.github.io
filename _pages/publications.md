@@ -22,6 +22,14 @@ author_profile: true
 Qishuang Fu, Hang Zheng, Xihan Xiong, Joseph Liu, **Yixin Liu**, Shirui Pan, Qin Wang, Weiqing Wang, Zhipeng Wang, Tsz Hon Yuen.  
 ACM SIGMETRICS International Conference on Measurement and Modeling of Computer Systems (**SIGMETRICS**), 2027.
 
+* AtlasULP: Domain-aware Universal Link Prediction via Relation Atlas  
+Yujing Liu, **Yixin Liu**, Yu Zheng, Lianhua Chi, Alan Wee-Chung Liew, Heng Tao Shen, Shirui Pan.  
+Advances in Neural Information Processing Systems (**NeurIPS**), 2026.
+
+* Towards Generalist Graph-Level Anomaly Detection  
+Junjun Pan, **Yixin Liu**, Yu Zheng, Fuyi Li, Alan Wee-Chung Liew, Shirui Pan.  
+Advances in Neural Information Processing Systems (**NeurIPS**), 2026.
+
 * DynHD: Hallucination Detection for Diffusion Large Language Models via Denoising Dynamics Deviation Learning  
 Yanyu Qian, Yue Tan, **Yixin Liu†**, Wang Yu, Shirui Pan.  
 Findings of the Association for Computational Linguistics: EMNLP (**Findings of EMNLP**), 2026.
