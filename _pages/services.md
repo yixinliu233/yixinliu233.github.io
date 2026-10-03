@@ -35,19 +35,11 @@ Invited Talks
 
 * Self-supervised learning on graph neural networks, East China Normal University, Shanghai, China (Mar, 2023)
 
-Conference PC Member/Reviewer
+Conference AC/PC Member/Reviewer
 ----
-* PC Member, [AAAI Conference on Artificial Intelligence (AAAI) 2024](https://aaai.org/aaai-conference/)
-* PC Member, [SIAM International Conference on Data Mining (SDM) 2024](https://www.siam.org/conferences/cm/conference/sdm24/)
-* PC Member, [Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD) 2024](https://pakdd2024.org/)
-* PC Member, [AAAI Conference on Artificial Intelligence (AAAI) 2023](https://aaai.org/Conferences/AAAI-23/)
-* PC Member, [International Joint Conference on Artificial Intelligence (IJCAI) 2023](https://ijcai-23.org)
-* PC Member, [IEEE International Conference on Data Mining (ICDM) 2023](https://www.cloud-conf.net/icdm2023/)
-* PC Member, [IEEE International Conference on Data Mining (ICDM) 2022](https://icdm22.cse.usf.edu/)
-* PC Member, [IEEE International Conference on Advanced Learning Technologies (ICALT) 2022](https://tc.computer.org/tclt/icalt-2022/)
-* PC Member, [IEEE International Conference on Data Science and Systems (DSS) 2021](http://www.ieee-cybermatics.org/2021/dss/)
-* Reviewer, [ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD) 2023](https://kdd.org/kdd2023/)
-* Reviewer, [NeurIPS 2022 Temporal Graph Learning (TGL) Workshop](https://sites.google.com/view/tglworkshop2022/home/)
+* **Area Chair:** ICLR (2027–).
+* **PC Member:** AAAI (2023–), IJCAI (2023–), CIKM (2024–2025), ICDM (2022–), SDM (2024), PAKDD (2024–2025), ADC (2024), ICALT (2022), DSS (2021).
+* **Reviewer:** ICML (2025–), ICLR (2025–2026), NeurIPS (2023–), KDD (2023–2025), AISTATS (2025), IJCNN (2022–2024).
 
 Journal Reviewer
 ----
