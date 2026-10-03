@@ -38,8 +38,8 @@ Invited Talks
 Conference AC/PC Member/Reviewer
 ----
 * **Area Chair:** ICLR (2027–).
-* **PC Member:** AAAI (2023–), IJCAI (2023–), CIKM (2024–2025), ICDM (2022–), SDM (2024), PAKDD (2024–2025), ADC (2024), ICALT (2022), DSS (2021).
-* **Reviewer:** ICML (2025–), ICLR (2025–2026), NeurIPS (2023–), KDD (2023–2025), AISTATS (2025), IJCNN (2022–2024).
+* **PC Member:** AAAI (2023–), IJCAI (2023–), WWW (2026–), BigData (2026–), CIKM (2024–2025), ICDM (2022–), SDM (2024), PAKDD (2024–2025), ADC (2024), ICALT (2022), DSS (2021).
+* **Reviewer:** ICML (2025–), ICLR (2025–2026), NeurIPS (2023–), ACL ARR (2025–), KDD (2023–2025), AISTATS (2025), IJCNN (2022–2024).
 
 Journal Reviewer
 ----
