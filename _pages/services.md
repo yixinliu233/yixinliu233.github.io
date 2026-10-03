@@ -21,6 +21,16 @@ Conference Organization
 
 Invited Talks
 ----
+* Anomaly Detection Foundation Models for Structured Data, Institute of Information Engineering, Chinese Academy of Sciences, Beijing, China (Sep 2026)
+
+* Towards Next-Generation Graph Anomaly Detection: Explainable and Generalist Models, Monash University, Melbourne, Australia (Feb 2026)
+
+* Graph-Augmented LLM Multi-Agent System Design, Institute of Information Engineering, Chinese Academy of Sciences, Beijing, China (Dec 2025)
+
+* Next-Generation Graph Anomaly Detection: Explainable and Generalist Models, Zhejiang Normal University, Jinhua, China (Dec 2024)
+
+* One-for-All: Generalist Graph Anomaly Detection with In-Context Learning, ADMA Conference Encore Talk, Sydney, Australia (Dec 2024)
+
 * Graph neural networks for data with less information, LoG Conference Shanghai Meetup, Shanghai, China (Nov 29, 2023)
 
 * Self-supervised learning on graph neural networks, East China Normal University, Shanghai, China (Mar 23, 2023)
