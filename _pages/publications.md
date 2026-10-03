@@ -63,7 +63,7 @@ IEEE International Conference on Data Mining (**ICDM**), 2026.
 European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (**ECML-PKDD**), 2026.
 
 * BlindGuard: Safeguarding LLM-based Multi-Agent Systems under Unknown Attacks  
-Rui Miao*, **Yixin Liu***, Yili Wang, Xu Shen, Yue Tan, Yiwei Dai, Shirui Pan, Xin Wang.  
+Rui Miao&#42;, **Yixin Liu**&#42;, Yili Wang, Xu Shen, Yue Tan, Yiwei Dai, Shirui Pan, Xin Wang.  
 Annual Meeting of the Association for Computational Linguistics (**ACL**), 2026.
 
 * Explainable and Fine-Grained Safeguarding of LLM Multi-Agent Systems via Bi-Level Graph Anomaly Detection  
@@ -71,7 +71,7 @@ Junjun Pan, **Yixin Liu<sup>✉</sup>**, Rui Miao, Kaize Ding, Yu Zheng, Quoc Vi
 Annual Meeting of the Association for Computational Linguistics (**ACL**), 2026.
 
 * FedCIGAR: A Personalized Reconstruction Approach for Federated Graph-level Anomaly Detection  
-Yunfeng Zhao*, **Yixin Liu***, Qingfeng Chen, Shiyuan Li, Yue Tan, Shirui Pan.  
+Yunfeng Zhao&#42;, **Yixin Liu**&#42;, Qingfeng Chen, Shiyuan Li, Yue Tan, Shirui Pan.  
 International Joint Conference on Artificial Intelligence (**IJCAI**), 2026.
 
 * CAMERA: Adapting to Semantic Camouflage in Unsupervised Text-Attributed Graph Fraud Detection  
@@ -87,7 +87,7 @@ Shiyuan Li, **Yixin Liu**, Yu Zheng, Xiaofeng Cao, Shirui Pan, Heng Tao Shen.
 Proceedings of the International Conference on Machine Learning (**ICML**), 2026.
 
 * OFA-MAS: One-for-All Multi-Agent System Topology Design based on Mixture-of-Experts Graph Generative Models  
-Shiyuan Li*, **Yixin Liu***, Yu Zheng, Mei Li, Quoc Viet Hung Nguyen, Shirui Pan.  
+Shiyuan Li&#42;, **Yixin Liu**&#42;, Yu Zheng, Mei Li, Quoc Viet Hung Nguyen, Shirui Pan.  
 ACM Web Conference (**WWW**), 2026.
 
 * Assemble Your Crew: Automatic Multi-Agent Communication Topology Design via Autoregressive Graph Generation  
@@ -103,15 +103,15 @@ Jiayi Chen, Xin Zheng, **Yixin Liu**, Yi Li, Yanqing Guo, Shirui Pan.
 Pacific-Asia Conference on Knowledge Discovery and Data Mining (**PAKDD**), 2026.
 
 * Unifying Unsupervised Graph-level Anomaly Detection and Out-of-distribution Detection: A Benchmark  
-Yili Wang*, **Yixin Liu***, Xu Shen*, Chenyu Li, Kaize Ding, Rui Miao, Ying Wang, Shirui Pan, Xin Wang.  
+Yili Wang&#42;, **Yixin Liu**&#42;, Xu Shen&#42;, Chenyu Li, Kaize Ding, Rui Miao, Ying Wang, Shirui Pan, Xin Wang.  
 International Conference on Learning Representations (**ICLR**), 2025.
 
 * Understanding the Information Propagation Effects of Communication Topologies in LLM-based Multi-Agent Systems  
-Xu Shen*, **Yixin Liu***, Yiwei Dai, Yili Wang, Rui Miao, Yue Tan, Shirui Pan, Xin Wang.  
+Xu Shen&#42;, **Yixin Liu**&#42;, Yiwei Dai, Yili Wang, Rui Miao, Yue Tan, Shirui Pan, Xin Wang.  
 Conference on Empirical Methods in Natural Language Processing (**EMNLP**), 2025.
 
 * FreeGAD: A Training-Free yet Effective Approach for Graph Anomaly Detection  
-Yunfeng Zhao*, **Yixin Liu***, Shiyuan Li*, Qingfeng Chen, Yu Zheng, Shirui Pan.  
+Yunfeng Zhao&#42;, **Yixin Liu**&#42;, Shiyuan Li&#42;, Qingfeng Chen, Yu Zheng, Shirui Pan.  
 ACM International Conference on Information and Knowledge Management (**CIKM**), 2025.
 
 * A Label-free Heterophily-guided Approach for Unsupervised Graph Fraud Detection  
@@ -135,7 +135,7 @@ Advances in Neural Information Processing Systems (**NeurIPS**), 2024.
 ACM International Conference on Information and Knowledge Management (**CIKM**), 2024.
 
 * Noise-Resilient Unsupervised Graph Representation Learning via Multi-Hop Feature Quality Estimation  
-Shiyuan Li*, **Yixin Liu***, Qingfeng Chen, Geoffrey Webb, Shirui Pan.  
+Shiyuan Li&#42;, **Yixin Liu**&#42;, Qingfeng Chen, Geoffrey Webb, Shirui Pan.  
 ACM International Conference on Information and Knowledge Management (**CIKM**), 2024.
 
 * Divide and Denoise: Empowering Simple Models for Robust Semi-Supervised Node Classification against Label Noise  
@@ -159,7 +159,7 @@ ACM SIGKDD Conference on Knowledge Discovery and Data Mining (**KDD**), 2023.
 AAAI Conference on Artificial Intelligence (**AAAI**), 2023.
 
 * Federated Learning on Non-IID Graphs via Structural Knowledge Sharing  
-Yue Tan*, **Yixin Liu***, Guodong Long, Jing Jiang, Qinghua Lu, Chengqi Zhang.  
+Yue Tan&#42;, **Yixin Liu**&#42;, Guodong Long, Jing Jiang, Qinghua Lu, Chengqi Zhang.  
 AAAI Conference on Artificial Intelligence (**AAAI**), 2023.
 
 * GOOD-D: On Unsupervised Graph Out-Of-Distribution Detection  
@@ -167,7 +167,7 @@ AAAI Conference on Artificial Intelligence (**AAAI**), 2023.
 ACM International Conference on Web Search and Data Mining (**WSDM**), 2023.
 
 * PREM: A Simple Yet Effective Approach for Node-Level Graph Anomaly Detection  
-Junjun Pan*, **Yixin Liu***, Yizhen Zheng*, Shirui Pan.  
+Junjun Pan&#42;, **Yixin Liu**&#42;, Yizhen Zheng&#42;, Shirui Pan.  
 IEEE International Conference on Data Mining (**ICDM**), 2023.
 
 * Towards Unsupervised Deep Graph Structure Learning  
@@ -191,7 +191,7 @@ International Conference on Man-Machine-Environment System Engineering, 2018.
 IEEE Transactions on Knowledge and Data Engineering (**TKDE**), 2026.
 
 * MPHIL: Multi-Prototype Hyperspherical Invariant Learning for Graph Out-of-Distribution Generalization  
-Xu Shen*, **Yixin Liu***, Yili Wang, Rui Miao, Yiwei Dai, Shirui Pan, Xin Wang.  
+Xu Shen&#42;, **Yixin Liu**&#42;, Yili Wang, Rui Miao, Yiwei Dai, Shirui Pan, Xin Wang.  
 IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**), 2026.
 
 * CLIP-Powered Domain Generalization and Domain Adaptation: A Comprehensive Survey  
