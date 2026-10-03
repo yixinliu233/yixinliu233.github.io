@@ -31,7 +31,7 @@ Junjun Pan, **Yixin Liu**, Yu Zheng, Fuyi Li, Alan Wee-Chung Liew, Shirui Pan.
 Advances in Neural Information Processing Systems (**NeurIPS**), 2026.
 
 * DynHD: Hallucination Detection for Diffusion Large Language Models via Denoising Dynamics Deviation Learning  
-Yanyu Qian, Yue Tan, **Yixin Liu†**, Wang Yu, Shirui Pan.  
+Yanyu Qian, Yue Tan, **Yixin Liu<sup>✉</sup>**, Wang Yu, Shirui Pan.  
 Findings of the Association for Computational Linguistics: EMNLP (**Findings of EMNLP**), 2026.
 
 * SAIGuard: Communication-State Simulation for Proactive Defense of LLM Multi-Agent Systems  
@@ -39,11 +39,11 @@ Ruxue Shi, Yili Wang, Mengnan Du, Qinggang Zhang, Rui Miao, **Yixin Liu**, Xin W
 Findings of the Association for Computational Linguistics: EMNLP (**Findings of EMNLP**), 2026.
 
 * DiFA: Dual Evidence Fusion and Aggregation for Token-Level Text Anomaly Detection  
-Yanyu Qian, Pengcheng Weng, Yue Tan†, Enguang Zuo, Yu Zheng, **Yixin Liu†**.  
+Yanyu Qian, Pengcheng Weng, Yue Tan<sup>✉</sup>, Enguang Zuo, Yu Zheng, **Yixin Liu<sup>✉</sup>**.  
 IEEE International Conference on Data Mining (**ICDM**), 2026.
 
 * SIM: Subspace Interaction-based Method for Token-Level Text Anomaly Detection  
-Kehan Yan, Yue Tan, Qingfeng Chen†, Shiyuan Li, Yu Zheng, **Yixin Liu†**.  
+Kehan Yan, Yue Tan, Qingfeng Chen<sup>✉</sup>, Shiyuan Li, Yu Zheng, **Yixin Liu<sup>✉</sup>**.  
 IEEE International Conference on Data Mining (**ICDM**), 2026.
 
 * PaSta: Noisy Node Classification with Partial Label Learning  
@@ -67,7 +67,7 @@ Rui Miao*, **Yixin Liu***, Yili Wang, Xu Shen, Yue Tan, Yiwei Dai, Shirui Pan, X
 Annual Meeting of the Association for Computational Linguistics (**ACL**), 2026.
 
 * Explainable and Fine-Grained Safeguarding of LLM Multi-Agent Systems via Bi-Level Graph Anomaly Detection  
-Junjun Pan, **Yixin Liu†**, Rui Miao, Kaize Ding, Yu Zheng, Quoc Viet Hung Nguyen, Alan Wee-Chung Liew, Shirui Pan.  
+Junjun Pan, **Yixin Liu<sup>✉</sup>**, Rui Miao, Kaize Ding, Yu Zheng, Quoc Viet Hung Nguyen, Alan Wee-Chung Liew, Shirui Pan.  
 Annual Meeting of the Association for Computational Linguistics (**ACL**), 2026.
 
 * FedCIGAR: A Personalized Reconstruction Approach for Federated Graph-level Anomaly Detection  
@@ -75,7 +75,7 @@ Yunfeng Zhao*, **Yixin Liu***, Qingfeng Chen, Shiyuan Li, Yue Tan, Shirui Pan.
 International Joint Conference on Artificial Intelligence (**IJCAI**), 2026.
 
 * CAMERA: Adapting to Semantic Camouflage in Unsupervised Text-Attributed Graph Fraud Detection  
-Junjun Pan, **Yixin Liu†**, Yu Zheng†, Lianhua Chi, Alan Wee-Chung Liew, Shirui Pan.  
+Junjun Pan, **Yixin Liu<sup>✉</sup>**, Yu Zheng<sup>✉</sup>, Lianhua Chi, Alan Wee-Chung Liew, Shirui Pan.  
 International Joint Conference on Artificial Intelligence (**IJCAI**), 2026.
 
 * Rethinking Feature Alignment in Generalist Graph Anomaly Detection: A Relational Fingerprint-based Approach  
@@ -123,7 +123,7 @@ Zizhe Jin, Yizhen Zheng, Linhao Luo, **Yixin Liu**, Xin Zheng, Xuefei Yin, Vince
 Pacific-Asia Conference on Knowledge Discovery and Data Mining (**PAKDD**), 2025.
 
 * A Survey of Generalization of Graph Anomaly Detection: From Transfer Learning to Foundation Models  
-Junjun Pan, Yu Zheng, Yue Tan, **Yixin Liu†**.  
+Junjun Pan, Yu Zheng, Yue Tan, **Yixin Liu<sup>✉</sup>**.  
 International Conference on Knowledge Graph (**ICKG**), 2025.
 
 * ARC: A Generalist Graph Anomaly Detector with In-Context Learning  
@@ -211,7 +211,7 @@ Yumeng Dai, Yanyu Qian, Xiaoguang Wang, **Yixin Liu**, Chenxu Wang.
 Intelligent Computing, 2026.
 
 * From Unsupervised to Few-shot Graph Anomaly Detection: A Multi-scale Contrastive Learning Approach  
-Yu Zheng, Junjun Pan, Yue Tan, Ming Jin, **Yixin Liu†**, Lianhua Chi†, Khoa T. Phan, Shirui Pan, Yi-Ping Phoebe Chen.  
+Yu Zheng, Junjun Pan, Yue Tan, Ming Jin, **Yixin Liu<sup>✉</sup>**, Lianhua Chi<sup>✉</sup>, Khoa T. Phan, Shirui Pan, Yi-Ping Phoebe Chen.  
 Transactions on Graph Intelligence and Network Applications (**TGINA**), 2026.
 
 * Uncertainty-Aware Graph Neural Networks: A Multi-Hop Evidence Fusion Approach  
@@ -227,7 +227,7 @@ Shirui Pan, Yizhen Zheng, **Yixin Liu**.
 IEEE Intelligent Systems, 2024.
 
 * Emerging Trends in Federated Learning: From Model Fusion to Federated X Learning  
-Shaoxiong Ji†, Yue Tan, Teemu Saravirta, Zhiqin Yang, **Yixin Liu†**, Lauri Vasankari, Shirui Pan, Guodong Long, Anwar Walid.  
+Shaoxiong Ji<sup>✉</sup>, Yue Tan, Teemu Saravirta, Zhiqin Yang, **Yixin Liu<sup>✉</sup>**, Lauri Vasankari, Shirui Pan, Guodong Long, Anwar Walid.  
 International Journal of Machine Learning and Cybernetics, 2024.
 
 * Graph Self-Supervised Learning: A Survey  
