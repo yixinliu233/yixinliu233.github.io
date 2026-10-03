@@ -260,9 +260,13 @@ Applied Sciences, 2019.
 
 ## Tutorial
 -----
+* Graph Self-Supervised Learning: Taxonomy, Frontiers, and Applications  
+**Yixin Liu**, Yizhen Zheng, Shirui Pan.  
+International Conference on Advanced Data Mining and Applications (**ADMA**), Sydney, Australia, 2024.
+
 * Graph Self-Supervised Learning: Taxonomy, Frontiers, and Applications \[[Slides](https://shiruipan.github.io/post/GSSL_tutorial.pdf)\]  
 **Yixin Liu**, Yizhen Zheng, Ming Jin, Feng Xia, Shirui Pan.  
-IEEE International Joint Conference on Neural Networks (**IJCNN**), 2023.
+IEEE International Joint Conference on Neural Networks (**IJCNN**), Gold Coast, Australia, 2023.
 
 ## Preprint
 -----
