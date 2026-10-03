@@ -24,7 +24,7 @@ My research aims to build intelligent systems that can act (Agentic AI), underst
 <details class="mm-collapse" markdown="1">
 <summary>Anomaly Detection</summary>
 
-- Anomaly/Fraud Detection on Graph Data: [CoLA (TNNLS'21)](https://arxiv.org/pdf/2103.00113.pdf), [TADDY (TKDE'21)](https://arxiv.org/pdf/2106.09876.pdf), [SL-GAD (TKDE'21)](https://arxiv.org/pdf/2108.09896), [ANEMONE (CIKM'21)](https://dl.acm.org/doi/10.1145/3459637.3482057), [PREM (ICDM'23)](https://arxiv.org/pdf/2310.11676), [SIGNET (NeurIPS'23)](https://arxiv.org/pdf/2310.16520.pdf), [ARC (NeurIPS'24)](https://arxiv.org/pdf/2405.16771), [FM4GAD Survey (ICKG'25)](https://arxiv.org/pdf/2509.06609), [HUGE (AAAI'25)](https://arxiv.org/pdf/2502.13308), [FreeGAD (CIKM'25)](https://arxiv.org/pdf/2508.10594), [UB-GOLD (ICLR'25)](https://arxiv.org/pdf/2406.15523), [TUNE (AAAI'26)](https://arxiv.org/pdf/2511.07023)
+- Anomaly/Fraud Detection on Graph Data: [CoLA (TNNLS'21)](https://arxiv.org/pdf/2103.00113.pdf), [TADDY (TKDE'21)](https://arxiv.org/pdf/2106.09876.pdf), [SL-GAD (TKDE'21)](https://arxiv.org/pdf/2108.09896), [ANEMONE (CIKM'21)](https://dl.acm.org/doi/10.1145/3459637.3482057), [PREM (ICDM'23)](https://arxiv.org/pdf/2310.11676), [SIGNET (NeurIPS'23)](https://arxiv.org/pdf/2310.16520.pdf), [ARC (NeurIPS'24)](https://arxiv.org/pdf/2405.16771), [FM4GAD Survey (ICKG'25)](https://arxiv.org/pdf/2509.06609), [HUGE (AAAI'25)](https://arxiv.org/pdf/2502.13308), [FreeGAD (CIKM'25)](https://arxiv.org/pdf/2508.10594), [UB-GOLD (ICLR'25)](https://arxiv.org/pdf/2406.15523), [TUNE (AAAI'26)](https://arxiv.org/pdf/2511.07023), [Towards Generalist Graph-Level Anomaly Detection (NeurIPS'26)]()
 
 - Anomaly Detection on Text Data: [MCA2 (ECML-PKDD'26)](https://arxiv.org/pdf/2601.17786), [DiFA (ICDM'26)](), [SIM (ICDM'26)]()
 
@@ -64,6 +64,8 @@ My research aims to build intelligent systems that can act (Agentic AI), underst
 - Graph Neural Networks: [SUBLIME (WWW'22)](https://dl.acm.org/doi/10.1145/3485447.3512186), [CycProp (WWWJ'22)](https://link.springer.com/article/10.1007/s11280-021-00906-2), [D2PT (KDD'23)](https://arxiv.org/pdf/2305.18457.pdf), [DND-NET (KDD'24)](https://dl.acm.org/doi/pdf/10.1145/3637528.3671798), [SpecG (PAKDD'25)](https://link.springer.com/chapter/10.1007/978-981-96-8173-0_18), [EFGNN (TNNLS'25)](https://arxiv.org/pdf/2506.13083), [Heterophily GNN Survey (TKDE'26)](https://arxiv.org/pdf/2202.07082)
 
 - Graph Self-Supervised Learning: [GSSL Survey (TKDE'22)](https://ieeexplore.ieee.org/document/9770382), [GREET (AAAI'23)](https://arxiv.org/pdf/2211.14065.pdf), [MQE (CIKM'24)](https://arxiv.org/pdf/2407.19944), [Position (AI Magazine'24)](https://onlinelibrary.wiley.com/doi/full/10.1002/aaai.12200)
+
+- Link Prediction: [AtlasULP (NeurIPS'26)]()
 
 - Data-Centric Graph Learning: [Data-Centric Survey (arXiv'23)](https://arxiv.org/pdf/2309.10979)
 
@@ -229,6 +231,18 @@ Selected Papers
 </div>
 
 <div id="pub-list">
+
+<div class="pub-card" data-topic="gnn">
+  <span class="badge-venue">NeurIPS 2026</span>
+  <span class="pub-title">AtlasULP: Domain-aware Universal Link Prediction via Relation Atlas</span>
+  <span class="pub-authors">Yujing Liu, <span class="me">Yixin Liu</span>, Yu Zheng, Lianhua Chi, Alan Wee-Chung Liew, Heng Tao Shen, Shirui Pan</span>
+</div>
+
+<div class="pub-card" data-topic="gad">
+  <span class="badge-venue">NeurIPS 2026</span>
+  <span class="pub-title">Towards Generalist Graph-Level Anomaly Detection</span>
+  <span class="pub-authors">Junjun Pan, <span class="me">Yixin Liu</span>, Yu Zheng, Fuyi Li, Alan Wee-Chung Liew, Shirui Pan</span>
+</div>
 
 <div class="pub-card" data-topic="gad">
   <span class="badge-venue">ICML 2026</span>
