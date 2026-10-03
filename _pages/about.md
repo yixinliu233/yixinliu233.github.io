@@ -492,6 +492,15 @@ Selected Papers
   <span class="pub-authors">Shiyuan Li*, <span class="me">Yixin Liu</span>*, Qingfeng Chen, Geoffrey I Webb, Shirui Pan</span>
 </div>
 
+<div class="pub-card" data-topic="fl">
+  <span class="badge-venue">IJMLC 2024</span>
+  <span class="pub-title">Emerging Trends in Federated Learning: From Model Fusion to Federated X Learning</span>
+  <span class="pub-links">
+    <a href="https://link.springer.com/article/10.1007/s13042-024-02119-1">Paper</a>
+  </span>
+  <span class="pub-authors">Shaoxiong Ji<sup>✉</sup>, Yue Tan, Teemu Saravirta, Zhiqin Yang, <span class="me">Yixin Liu<sup>✉</sup></span>, Lauri Vasankari, Shirui Pan, Guodong Long, Anwar Walid</span>
+</div>
+
 <div class="pub-card" data-topic="gad">
   <span class="badge-venue">NeurIPS 2023</span>
   <span class="pub-title">Towards Self-Interpretable Graph-Level Anomaly Detection</span>
