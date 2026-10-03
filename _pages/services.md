@@ -23,7 +23,7 @@ Invited Talks
 ----
 * Anomaly Detection Foundation Models for Structured Data, Institute of Information Engineering, Chinese Academy of Sciences, Beijing, China (Sep 2026)
 
-* Towards Next-Generation Graph Anomaly Detection: Explainable and Generalist Models, Monash University, Melbourne, Australia (Feb 2026)
+* Next-Generation Graph Anomaly Detection: Explainable and Generalist Models, Monash University, Melbourne, Australia (Feb 2026)
 
 * Graph-Augmented LLM Multi-Agent System Design, Institute of Information Engineering, Chinese Academy of Sciences, Beijing, China (Dec 2025)
 
