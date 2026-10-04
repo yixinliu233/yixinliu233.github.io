@@ -457,7 +457,6 @@ Selected Papers
   <span class="pub-title">Uncertainty-Aware Graph Neural Networks: A Multi-Hop Evidence Fusion Approach</span>
   <span class="pub-links">
     <a href="https://arxiv.org/pdf/2506.13083">Paper</a>
-    <a href="https://github.com/Shiy-Li/EFGNN">Paper</a>
   </span>
   <span class="pub-authors">Qingfeng Chen, Shiyuan Li, <span class="me">Yixin Liu</span>, Shirui Pan, Geoffrey Webb, Shichao Zhang</span>
 </div>

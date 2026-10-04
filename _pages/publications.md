@@ -210,6 +210,10 @@ IEEE Transactions on Knowledge and Data Engineering (**TKDE**), 2026.
 **Yixin Liu**, Guibin Zhang, Kun Wang, Shiyuan Li, Shirui Pan.  
 IEEE Intelligent Systems, 2026.
 
+* Enhancing Weak Raman Spectral Fingerprints for Multi-Source Walnut Oil Adulteration Using Multi-Level Feature Fusion \[[Paper](https://doi.org/10.1016/j.saa.2026.128577)\]  
+Xinyu Bi, Zhaohui Qiao, Yuchen Ni, Feilong Yue, Min Li, Xiaoyi Lv, Enguang Zuo<sup>✉</sup>, **Yixin Liu<sup>✉</sup>**.  
+Spectrochimica Acta Part A: Molecular and Biomolecular Spectroscopy, 2026.
+
 * FSFDLLM: Financial Statement Fraud Detection Aided by Large Language Models  
 Yumeng Dai, Yanyu Qian, Xiaoguang Wang, **Yixin Liu**, Chenxu Wang.  
 Intelligent Computing, 2026.
