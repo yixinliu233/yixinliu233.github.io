@@ -8,9 +8,12 @@ author_profile: true
 <div class="team-demo">
   <p class="team-kicker">People &amp; research</p>
   <p class="team-intro">We explore how AI systems can understand structured data, collaborate effectively, and remain reliable in a changing world.</p>
-  <div class="team-section-head"><h2>Students</h2></div>
+  {% assign groups = "current,alumni" | split: "," %}
+  {% for group in groups %}
+  <div class="team-section-head"><h2>{% if group == "current" %}Current Students{% else %}Alumni{% endif %}</h2></div>
   <div class="team-grid">
-    {% for student in site.data.team %}
+    {% assign students = site.data.team | where: "group", group %}
+    {% for student in students %}
     <article class="team-person">
       <div class="team-person-top">
         <div><h3>{{ student.name }}</h3><p class="team-role">{{ student.role }}</p><p class="team-institution">{{ student.institution }}</p></div>
@@ -20,5 +23,6 @@ author_profile: true
     </article>
     {% endfor %}
   </div>
+  {% endfor %}
   <div class="team-join"><div><h2>Interested in joining us?</h2><p>We welcome motivated PhD students and research interns.</p></div><a class="team-button" href="https://forms.gle/gJ2AiJnd2RzBt1F86" target="_blank" rel="noopener">Express your interest &rarr;</a></div>
 </div>

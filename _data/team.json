@@ -17,7 +17,8 @@
       "XG-Guard (ACL 2026)": "https://arxiv.org/pdf/2512.18733",
       "CAMERA (IJCAI 2026)": "https://arxiv.org/pdf/2605.20032",
       "GAD Survey (ICKG 2025)": "https://arxiv.org/pdf/2509.06609"
-    }
+    },
+    "group": "current"
   },
   {
     "name": "Shiyuan Li",
@@ -37,7 +38,8 @@
       "ARG-Designer (AAAI 2026)": "https://arxiv.org/pdf/2507.18224",
       "OFA-MAS (WWW 2026)": "https://arxiv.org/pdf/2601.12996",
       "OFA-TAD (ICML 2026)": "https://arxiv.org/pdf/2603.14407"
-    }
+    },
+    "group": "current"
   },
   {
     "name": "Yujing Liu",
@@ -54,7 +56,8 @@
       "REFI-GAD (ICML 2026)": "https://arxiv.org/pdf/2605.25429",
       "PaSta (ICDM 2026)": "https://arxiv.org/pdf/2608.25365",
       "AtlasULP (NeurIPS 2026)": "/publications/#atlasulp"
-    }
+    },
+    "group": "current"
   },
   {
     "name": "Yumeng Dai",
@@ -70,7 +73,8 @@
     "output_links": {
       "HOPE (ICDM 2026)": "https://arxiv.org/pdf/2609.08685",
       "FSFDLLM (Intelligent Computing 2026)": "https://doi.org/10.34133/icomputing.0274"
-    }
+    },
+    "group": "current"
   },
   {
     "name": "Qishuang Fu",
@@ -86,7 +90,8 @@
     "output_links": {
       "FlowShield (ICDM 2026)": "https://arxiv.org/pdf/2608.17355",
       "MixGuard (SIGMETRICS 2027)": "/publications/#mixguard"
-    }
+    },
+    "group": "current"
   },
   {
     "name": "Rui Miao",
@@ -100,7 +105,8 @@
     "tone": "teal",
     "output_links": {
       "BlindGuard (ACL 2026)": "https://arxiv.org/pdf/2508.08127"
-    }
+    },
+    "group": "alumni"
   },
   {
     "name": "Xin Zhang",
@@ -115,7 +121,8 @@
     "tone": "blue",
     "output_links": {
       "DeMTS (Preprint 2026)": "https://arxiv.org/pdf/2608.14632"
-    }
+    },
+    "group": "current"
   },
   {
     "name": "Xinghe Cheng",
@@ -130,7 +137,8 @@
     "tone": "blue",
     "output_links": {
       "UniER (Preprint 2026)": "https://arxiv.org/pdf/2605.16750"
-    }
+    },
+    "group": "current"
   },
   {
     "name": "Yanyu Qian",
@@ -146,7 +154,8 @@
     "output_links": {
       "DynHD (Findings of EMNLP 2026)": "https://arxiv.org/pdf/2603.16459",
       "DiFA (ICDM 2026)": "https://arxiv.org/pdf/2609.22136"
-    }
+    },
+    "group": "current"
   },
   {
     "name": "Yunfeng Zhao",
@@ -162,7 +171,8 @@
     "output_links": {
       "FreeGAD (CIKM 2025)": "https://arxiv.org/pdf/2508.10594",
       "FedCIGAR (IJCAI 2026)": "https://arxiv.org/pdf/2605.09428"
-    }
+    },
+    "group": "current"
   },
   {
     "name": "Kehan Yan",
@@ -177,7 +187,8 @@
     "output_links": {
       "SIM (ICDM 2026)": "https://arxiv.org/pdf/2609.08200",
       "MCA2 (ECML-PKDD 2026)": "https://arxiv.org/pdf/2601.17786"
-    }
+    },
+    "group": "current"
   },
   {
     "name": "Xinyu Bi",
@@ -192,7 +203,8 @@
     "tone": "blue",
     "output_links": {
       "RamanFusionNet (Spectrochimica Acta Part A, 2026)": "https://doi.org/10.1016/j.saa.2026.128577"
-    }
+    },
+    "group": "current"
   },
   {
     "name": "Xu Shen",
@@ -209,7 +221,8 @@
       "MPHIL (TPAMI 2026)": "https://arxiv.org/pdf/2502.10706",
       "EIB-Learner (EMNLP 2025)": "https://arxiv.org/pdf/2505.23352",
       "UB-GOLD (ICLR 2025)": "https://arxiv.org/pdf/2406.15523"
-    }
+    },
+    "group": "alumni"
   },
   {
     "name": "Pengcheng Weng",
@@ -224,6 +237,7 @@
     "tone": "blue",
     "output_links": {
       "TRE (Preprint 2026)": "https://arxiv.org/pdf/2607.22661"
-    }
+    },
+    "group": "current"
   }
 ]
