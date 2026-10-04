@@ -18,13 +18,19 @@ author_profile: true
 ## Conference
 -----
 
+<a id="mixguard"></a>
+
 * How Attackers Launder Funds through Mixers: Characterization and Detection on Ethereum  
 Qishuang Fu, Hang Zheng, Xihan Xiong, Joseph Liu, **Yixin Liu**, Shirui Pan, Qin Wang, Weiqing Wang, Zhipeng Wang, Tsz Hon Yuen.  
 ACM SIGMETRICS International Conference on Measurement and Modeling of Computer Systems (**SIGMETRICS**), 2027.
 
+<a id="atlasulp"></a>
+
 * AtlasULP: Domain-aware Universal Link Prediction via Relation Atlas  
 Yujing Liu, **Yixin Liu**, Yu Zheng, Lianhua Chi, Alan Wee-Chung Liew, Heng Tao Shen, Shirui Pan.  
 Advances in Neural Information Processing Systems (**NeurIPS**), 2026.
+
+<a id="genglad"></a>
 
 * Towards Generalist Graph-Level Anomaly Detection  
 Junjun Pan, **Yixin Liu**, Yu Zheng, Fuyi Li, Alan Wee-Chung Liew, Shirui Pan.  

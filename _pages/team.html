@@ -1,0 +1,24 @@
+---
+layout: archive
+title: "Team"
+permalink: /team/
+author_profile: true
+---
+<link rel="stylesheet" href="{{ '/assets/css/team.css' | relative_url }}">
+<div class="team-demo">
+  <p class="team-kicker">People &amp; research</p>
+  <p class="team-intro">We explore how AI systems can understand structured data, collaborate effectively, and remain reliable in a changing world.</p>
+  <div class="team-section-head"><h2>Students</h2></div>
+  <div class="team-grid">
+    {% for student in site.data.team %}
+    <article class="team-person">
+      <div class="team-person-top">
+        <div><h3>{{ student.name }}</h3><p class="team-role">{{ student.role }}</p><p class="team-institution">{{ student.institution }}</p></div>
+      </div>
+      <div class="team-tags">{% for topic in student.topics %}<span class="team-tag">{{ topic }}</span>{% endfor %}</div>
+      <div class="team-output"><p class="team-output-label">Research highlights</p><p class="team-output-text">{% assign highlights = student.outputs | split: ' · ' %}{% for highlight in highlights %}{% unless forloop.first %} · {% endunless %}<a href="{{ student.output_links[highlight] }}" target="_blank" rel="noopener">{{ highlight }}</a>{% endfor %}</p></div>
+    </article>
+    {% endfor %}
+  </div>
+  <div class="team-join"><div><h2>Interested in joining us?</h2><p>We welcome motivated PhD students and research interns.</p></div><a class="team-button" href="https://forms.gle/gJ2AiJnd2RzBt1F86" target="_blank" rel="noopener">Express your interest &rarr;</a></div>
+</div>

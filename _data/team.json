@@ -1,0 +1,229 @@
+[
+  {
+    "name": "Junjun Pan",
+    "initials": "JP",
+    "role": "PhD Student",
+    "institution": "Griffith University, Australia",
+    "topics": [
+      "Graph Anomaly Detection",
+      "LLM Multi-Agent Systems"
+    ],
+    "outputs": "PREM (ICDM 2023) · HUGE (AAAI 2025) · GenGLAD (NeurIPS 2026) · XG-Guard (ACL 2026) · CAMERA (IJCAI 2026) · GAD Survey (ICKG 2025)",
+    "tone": "blue",
+    "output_links": {
+      "PREM (ICDM 2023)": "https://arxiv.org/pdf/2310.11676",
+      "HUGE (AAAI 2025)": "https://arxiv.org/pdf/2502.13308",
+      "GenGLAD (NeurIPS 2026)": "/publications/#genglad",
+      "XG-Guard (ACL 2026)": "https://arxiv.org/pdf/2512.18733",
+      "CAMERA (IJCAI 2026)": "https://arxiv.org/pdf/2605.20032",
+      "GAD Survey (ICKG 2025)": "https://arxiv.org/pdf/2509.06609"
+    }
+  },
+  {
+    "name": "Shiyuan Li",
+    "initials": "SL",
+    "role": "PhD Student",
+    "institution": "Griffith University, Australia",
+    "topics": [
+      "Anomaly Detection",
+      "Graph Learning",
+      "LLM Multi-Agent Systems"
+    ],
+    "outputs": "MQE (CIKM 2024) · EFGNN (TNNLS 2025) · ARG-Designer (AAAI 2026) · OFA-MAS (WWW 2026) · OFA-TAD (ICML 2026)",
+    "tone": "teal",
+    "output_links": {
+      "MQE (CIKM 2024)": "https://arxiv.org/pdf/2407.19944",
+      "EFGNN (TNNLS 2025)": "https://arxiv.org/pdf/2506.13083",
+      "ARG-Designer (AAAI 2026)": "https://arxiv.org/pdf/2507.18224",
+      "OFA-MAS (WWW 2026)": "https://arxiv.org/pdf/2601.12996",
+      "OFA-TAD (ICML 2026)": "https://arxiv.org/pdf/2603.14407"
+    }
+  },
+  {
+    "name": "Yujing Liu",
+    "initials": "YL",
+    "role": "PhD Student",
+    "institution": "Griffith University, Australia",
+    "topics": [
+      "Graph Foundation Models",
+      "Noisy-Label Learning"
+    ],
+    "outputs": "REFI-GAD (ICML 2026) · PaSta (ICDM 2026) · AtlasULP (NeurIPS 2026)",
+    "tone": "blue",
+    "output_links": {
+      "REFI-GAD (ICML 2026)": "https://arxiv.org/pdf/2605.25429",
+      "PaSta (ICDM 2026)": "https://arxiv.org/pdf/2608.25365",
+      "AtlasULP (NeurIPS 2026)": "/publications/#atlasulp"
+    }
+  },
+  {
+    "name": "Yumeng Dai",
+    "initials": "YD",
+    "role": "PhD Student",
+    "institution": "Xi’an Jiaotong University, China",
+    "topics": [
+      "Open-Set Graph Learning",
+      "Financial Fraud Detection"
+    ],
+    "outputs": "HOPE (ICDM 2026) · FSFDLLM (Intelligent Computing 2026)",
+    "tone": "blue",
+    "output_links": {
+      "HOPE (ICDM 2026)": "https://arxiv.org/pdf/2609.08685",
+      "FSFDLLM (Intelligent Computing 2026)": "https://doi.org/10.34133/icomputing.0274"
+    }
+  },
+  {
+    "name": "Qishuang Fu",
+    "initials": "QF",
+    "role": "PhD Student",
+    "institution": "Monash University, Australia",
+    "topics": [
+      "Graph Anomaly Detection",
+      "Anti-Money Laundering"
+    ],
+    "outputs": "FlowShield (ICDM 2026) · MixGuard (SIGMETRICS 2027)",
+    "tone": "teal",
+    "output_links": {
+      "FlowShield (ICDM 2026)": "https://arxiv.org/pdf/2608.17355",
+      "MixGuard (SIGMETRICS 2027)": "/publications/#mixguard"
+    }
+  },
+  {
+    "name": "Rui Miao",
+    "initials": "RM",
+    "role": "PhD Student",
+    "institution": "Jilin University, China",
+    "topics": [
+      "LLM Multi-Agent Systems"
+    ],
+    "outputs": "BlindGuard (ACL 2026)",
+    "tone": "teal",
+    "output_links": {
+      "BlindGuard (ACL 2026)": "https://arxiv.org/pdf/2508.08127"
+    }
+  },
+  {
+    "name": "Xin Zhang",
+    "initials": "XZ",
+    "role": "PhD Student",
+    "institution": "Jilin University, China",
+    "topics": [
+      "LLM Hallucination Detection",
+      "Time-Series Analysis"
+    ],
+    "outputs": "DeMTS (Preprint 2026)",
+    "tone": "blue",
+    "output_links": {
+      "DeMTS (Preprint 2026)": "https://arxiv.org/pdf/2608.14632"
+    }
+  },
+  {
+    "name": "Xinghe Cheng",
+    "initials": "XC",
+    "role": "PhD Student",
+    "institution": "Jinan University, China",
+    "topics": [
+      "Exercise Recommendation",
+      "AI for Education"
+    ],
+    "outputs": "UniER (Preprint 2026)",
+    "tone": "blue",
+    "output_links": {
+      "UniER (Preprint 2026)": "https://arxiv.org/pdf/2605.16750"
+    }
+  },
+  {
+    "name": "Yanyu Qian",
+    "initials": "YQ",
+    "role": "Master’s Student",
+    "institution": "Nanyang Technological University, Singapore",
+    "topics": [
+      "LLM Hallucination Detection",
+      "Text Anomaly Detection"
+    ],
+    "outputs": "DynHD (Findings of EMNLP 2026) · DiFA (ICDM 2026)",
+    "tone": "teal",
+    "output_links": {
+      "DynHD (Findings of EMNLP 2026)": "https://arxiv.org/pdf/2603.16459",
+      "DiFA (ICDM 2026)": "https://arxiv.org/pdf/2609.22136"
+    }
+  },
+  {
+    "name": "Yunfeng Zhao",
+    "initials": "YZ",
+    "role": "Master’s Student",
+    "institution": "Guangxi University, China",
+    "topics": [
+      "Graph Anomaly Detection",
+      "Graph Learning"
+    ],
+    "outputs": "FreeGAD (CIKM 2025) · FedCIGAR (IJCAI 2026)",
+    "tone": "blue",
+    "output_links": {
+      "FreeGAD (CIKM 2025)": "https://arxiv.org/pdf/2508.10594",
+      "FedCIGAR (IJCAI 2026)": "https://arxiv.org/pdf/2605.09428"
+    }
+  },
+  {
+    "name": "Kehan Yan",
+    "initials": "KY",
+    "role": "Master’s Student",
+    "institution": "Guangxi University, China",
+    "topics": [
+      "Text Anomaly Detection"
+    ],
+    "outputs": "SIM (ICDM 2026) · MCA2 (ECML-PKDD 2026)",
+    "tone": "teal",
+    "output_links": {
+      "SIM (ICDM 2026)": "https://arxiv.org/pdf/2609.08200",
+      "MCA2 (ECML-PKDD 2026)": "https://arxiv.org/pdf/2601.17786"
+    }
+  },
+  {
+    "name": "Xinyu Bi",
+    "initials": "XB",
+    "role": "Master’s Student",
+    "institution": "Xinjiang University, China",
+    "topics": [
+      "Time-Series Analysis",
+      "AI for Food"
+    ],
+    "outputs": "RamanFusionNet (Spectrochimica Acta Part A, 2026)",
+    "tone": "blue",
+    "output_links": {
+      "RamanFusionNet (Spectrochimica Acta Part A, 2026)": "https://doi.org/10.1016/j.saa.2026.128577"
+    }
+  },
+  {
+    "name": "Xu Shen",
+    "initials": "XS",
+    "role": "Master’s Student",
+    "institution": "Jilin University, China",
+    "topics": [
+      "Graph Learning",
+      "LLM Multi-Agent Systems"
+    ],
+    "outputs": "MPHIL (TPAMI 2026) · EIB-Learner (EMNLP 2025) · UB-GOLD (ICLR 2025)",
+    "tone": "blue",
+    "output_links": {
+      "MPHIL (TPAMI 2026)": "https://arxiv.org/pdf/2502.10706",
+      "EIB-Learner (EMNLP 2025)": "https://arxiv.org/pdf/2505.23352",
+      "UB-GOLD (ICLR 2025)": "https://arxiv.org/pdf/2406.15523"
+    }
+  },
+  {
+    "name": "Pengcheng Weng",
+    "initials": "PW",
+    "role": "Master’s Student",
+    "institution": "University of Bonn, Swiss",
+    "topics": [
+      "LLM Hallucination Detection",
+      "Diffusion Language Models"
+    ],
+    "outputs": "TRE (Preprint 2026)",
+    "tone": "blue",
+    "output_links": {
+      "TRE (Preprint 2026)": "https://arxiv.org/pdf/2607.22661"
+    }
+  }
+]
