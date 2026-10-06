@@ -8,7 +8,7 @@
       "Graph Anomaly Detection",
       "LLM Multi-Agent Systems"
     ],
-    "outputs": "PREM (ICDM 2023) · HUGE (AAAI 2025) · GenGLAD (NeurIPS 2026) · XG-Guard (ACL 2026) · CAMERA (IJCAI 2026) · GAD Survey (ICKG 2025)",
+    "outputs": "PREM (ICDM 2023) · HUGE (AAAI 2025) · TUNE (AAAI 2026) · GenGLAD (NeurIPS 2026) · XG-Guard (ACL 2026) · CAMERA (IJCAI 2026) · GAD Survey (ICKG 2025)",
     "tone": "blue",
     "output_links": {
       "PREM (ICDM 2023)": "https://arxiv.org/pdf/2310.11676",
@@ -16,7 +16,8 @@
       "GenGLAD (NeurIPS 2026)": "/publications/#genglad",
       "XG-Guard (ACL 2026)": "https://arxiv.org/pdf/2512.18733",
       "CAMERA (IJCAI 2026)": "https://arxiv.org/pdf/2605.20032",
-      "GAD Survey (ICKG 2025)": "https://arxiv.org/pdf/2509.06609"
+      "GAD Survey (ICKG 2025)": "https://arxiv.org/pdf/2509.06609",
+      "TUNE (AAAI 2026)": "https://arxiv.org/pdf/2511.07023"
     },
     "group": "current"
   },
