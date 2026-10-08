@@ -69,7 +69,7 @@
       "Open-Set Graph Learning",
       "Financial Fraud Detection"
     ],
-    "outputs": "HOPE (ICDM 2026) · FSFDLLM (Intelligent Computing 2026)",
+    "outputs": "FSFDLLM (Intelligent Computing 2026) · HOPE (ICDM 2026)",
     "tone": "blue",
     "output_links": {
       "HOPE (ICDM 2026)": "https://arxiv.org/pdf/2609.08685",
@@ -183,7 +183,7 @@
     "topics": [
       "Text Anomaly Detection"
     ],
-    "outputs": "SIM (ICDM 2026) · MCA2 (ECML-PKDD 2026)",
+    "outputs": "MCA2 (ECML-PKDD 2026) · SIM (ICDM 2026)",
     "tone": "teal",
     "output_links": {
       "SIM (ICDM 2026)": "https://arxiv.org/pdf/2609.08200",
@@ -216,7 +216,7 @@
       "Graph Learning",
       "LLM Multi-Agent Systems"
     ],
-    "outputs": "MPHIL (TPAMI 2026) · EIB-Learner (EMNLP 2025) · UB-GOLD (ICLR 2025)",
+    "outputs": "UB-GOLD (ICLR 2025) · EIB-Learner (EMNLP 2025) · MPHIL (TPAMI 2026)",
     "tone": "blue",
     "output_links": {
       "MPHIL (TPAMI 2026)": "https://arxiv.org/pdf/2502.10706",
