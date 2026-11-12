@@ -13,7 +13,7 @@
     "output_links": {
       "PREM (ICDM 2023)": "https://arxiv.org/pdf/2310.11676",
       "HUGE (AAAI 2025)": "https://arxiv.org/pdf/2502.13308",
-      "GenGLAD (NeurIPS 2026)": "/publications/#genglad",
+      "GenGLAD (NeurIPS 2026)": "https://arxiv.org/pdf/2611.07706",
       "XG-Guard (ACL 2026)": "https://arxiv.org/pdf/2512.18733",
       "CAMERA (IJCAI 2026)": "https://arxiv.org/pdf/2605.20032",
       "GAD Survey (ICKG 2025)": "https://arxiv.org/pdf/2509.06609",
@@ -56,7 +56,7 @@
     "output_links": {
       "REFI-GAD (ICML 2026)": "https://arxiv.org/pdf/2605.25429",
       "PaSta (ICDM 2026)": "https://arxiv.org/pdf/2608.25365",
-      "AtlasULP (NeurIPS 2026)": "/publications/#atlasulp"
+      "AtlasULP (NeurIPS 2026)": "https://arxiv.org/pdf/2611.07347"
     },
     "group": "current"
   },

@@ -24,7 +24,7 @@ My research aims to build intelligent systems that can act (Agentic AI), underst
 <details class="mm-collapse" markdown="1">
 <summary>Anomaly Detection</summary>
 
-- Anomaly/Fraud Detection on Graph Data: [CoLA (TNNLS'21)](https://arxiv.org/pdf/2103.00113.pdf), [TADDY (TKDE'21)](https://arxiv.org/pdf/2106.09876.pdf), [SL-GAD (TKDE'21)](https://arxiv.org/pdf/2108.09896), [ANEMONE (CIKM'21)](https://dl.acm.org/doi/10.1145/3459637.3482057), [PREM (ICDM'23)](https://arxiv.org/pdf/2310.11676), [SIGNET (NeurIPS'23)](https://arxiv.org/pdf/2310.16520.pdf), [ARC (NeurIPS'24)](https://arxiv.org/pdf/2405.16771), [FM4GAD Survey (ICKG'25)](https://arxiv.org/pdf/2509.06609), [HUGE (AAAI'25)](https://arxiv.org/pdf/2502.13308), [FreeGAD (CIKM'25)](https://arxiv.org/pdf/2508.10594), [UB-GOLD (ICLR'25)](https://arxiv.org/pdf/2406.15523), [TUNE (AAAI'26)](https://arxiv.org/pdf/2511.07023), [GenGLAD (NeurIPS'26)]()
+- Anomaly/Fraud Detection on Graph Data: [CoLA (TNNLS'21)](https://arxiv.org/pdf/2103.00113.pdf), [TADDY (TKDE'21)](https://arxiv.org/pdf/2106.09876.pdf), [SL-GAD (TKDE'21)](https://arxiv.org/pdf/2108.09896), [ANEMONE (CIKM'21)](https://dl.acm.org/doi/10.1145/3459637.3482057), [PREM (ICDM'23)](https://arxiv.org/pdf/2310.11676), [SIGNET (NeurIPS'23)](https://arxiv.org/pdf/2310.16520.pdf), [ARC (NeurIPS'24)](https://arxiv.org/pdf/2405.16771), [FM4GAD Survey (ICKG'25)](https://arxiv.org/pdf/2509.06609), [HUGE (AAAI'25)](https://arxiv.org/pdf/2502.13308), [FreeGAD (CIKM'25)](https://arxiv.org/pdf/2508.10594), [UB-GOLD (ICLR'25)](https://arxiv.org/pdf/2406.15523), [TUNE (AAAI'26)](https://arxiv.org/pdf/2511.07023), [GenGLAD (NeurIPS'26)](https://arxiv.org/pdf/2611.07706)
 
 - Anomaly Detection on Text Data: [MCA2 (ECML-PKDD'26)](https://arxiv.org/pdf/2601.17786), [DiFA (ICDM'26)](), [SIM (ICDM'26)]()
 
@@ -65,7 +65,7 @@ My research aims to build intelligent systems that can act (Agentic AI), underst
 
 - Graph Self-Supervised Learning: [GSSL Survey (TKDE'22)](https://ieeexplore.ieee.org/document/9770382), [GREET (AAAI'23)](https://arxiv.org/pdf/2211.14065.pdf), [MQE (CIKM'24)](https://arxiv.org/pdf/2407.19944), [Position (AI Magazine'24)](https://onlinelibrary.wiley.com/doi/full/10.1002/aaai.12200)
 
-- Link Prediction: [AtlasULP (NeurIPS'26)]()
+- Link Prediction: [AtlasULP (NeurIPS'26)](https://arxiv.org/pdf/2611.07347)
 
 - Data-Centric Graph Learning: [Data-Centric Survey (arXiv'23)](https://arxiv.org/pdf/2309.10979)
 
@@ -118,7 +118,7 @@ News
 * 🌟 2026/10: Honored to be named among [the World's Top 2% Scientists 2026](https://topresearcherslist.com/Home/Profile/1103860) by Stanford University/Elsevier for the second time!
 * 🎓 2026/01: Honored and excited to be appointed as a Lecturer (Assistant Professor equivalent) at Griffith University!
 * 🏆 2025/11: Honored and thrilled to receive [ARC DECRA Fellowship 2026](https://rms.arc.gov.au/RMS/Report/Download/Report/a3f6be6e-33f7-4fb5-98a6-7526aaa184cf/285) (AU$500,386) for supporting my research on graph anomaly detection!
-* 2026/09: Our papers on foundation models for [graph anomaly detection]() and [link prediction]() have been accepted by NeurIPS 2026 (x2). See you in Sydney🐨!
+* 2026/09: Our papers on foundation models for [graph anomaly detection](https://arxiv.org/pdf/2611.07706) and [link prediction](https://arxiv.org/pdf/2611.07347) have been accepted by NeurIPS 2026 (x2). See you in Sydney🐨!
 * 2026/09: Our paper on [blockchain illicit transaction detection]() has been accepted by ACM SIGMETRICS 2027.
 * 2026/08: Invited to serve as the Area Chair for [ICLR 2027](https://iclr.cc/).
 * 2026/08: Our papers on [diffusion LM hallucination detection](https://arxiv.org/pdf/2603.16459) and [multi-agent system safeguarding](https://arxiv.org/pdf/2606.12474) have been accepted by EMNLP 2026 Findings (x2).
@@ -236,12 +236,19 @@ Selected Papers
 <div class="pub-card" data-topic="gnn">
   <span class="badge-venue">NeurIPS 2026</span>
   <span class="pub-title">AtlasULP: Domain-aware Universal Link Prediction via Relation Atlas</span>
+  <span class="pub-links">
+    <a href="https://arxiv.org/pdf/2611.07347">Paper</a>
+  </span>
   <span class="pub-authors">Yujing Liu, <span class="me">Yixin Liu</span>, Yu Zheng, Lianhua Chi, Alan Wee-Chung Liew, Heng Tao Shen, Shirui Pan</span>
 </div>
 
 <div class="pub-card" data-topic="gad">
   <span class="badge-venue">NeurIPS 2026</span>
   <span class="pub-title">Towards Generalist Graph-Level Anomaly Detection</span>
+  <span class="pub-links">
+    <a href="https://arxiv.org/pdf/2611.07706">Paper</a>
+    <a href="https://github.com/CampanulaBells/Generalist-Graph-Level-Anomaly-Detection">Code</a>
+  </span>
   <span class="pub-authors">Junjun Pan, <span class="me">Yixin Liu</span>, Yu Zheng, Fuyi Li, Alan Wee-Chung Liew, Shirui Pan</span>
 </div>
 

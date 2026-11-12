@@ -24,13 +24,13 @@ ACM SIGMETRICS International Conference on Measurement and Modeling of Computer 
 
 <a id="atlasulp"></a>
 
-* AtlasULP: Domain-aware Universal Link Prediction via Relation Atlas  
+* AtlasULP: Domain-aware Universal Link Prediction via Relation Atlas \[[Paper](https://arxiv.org/pdf/2611.07347)\]  
 Yujing Liu, **Yixin Liu**, Yu Zheng, Lianhua Chi, Alan Wee-Chung Liew, Heng Tao Shen, Shirui Pan.  
 Advances in Neural Information Processing Systems (**NeurIPS**), 2026.
 
 <a id="genglad"></a>
 
-* Towards Generalist Graph-Level Anomaly Detection  
+* Towards Generalist Graph-Level Anomaly Detection \[[Paper](https://arxiv.org/pdf/2611.07706)\] \[[Code](https://github.com/CampanulaBells/Generalist-Graph-Level-Anomaly-Detection)\]  
 Junjun Pan, **Yixin Liu**, Yu Zheng, Fuyi Li, Alan Wee-Chung Liew, Shirui Pan.  
 Advances in Neural Information Processing Systems (**NeurIPS**), 2026.
 
