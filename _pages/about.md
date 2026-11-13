@@ -226,6 +226,7 @@ Selected Papers
   <button class="active" data-filter="all">All</button>
   <button data-filter="gad">Graph Anomaly Detection</button>
   <button data-filter="agent">LLM Agent</button>
+  <button data-filter="hallucination">Hallucination Detection</button>
   <button data-filter="gnn">Learning on Graphs</button>
   <button data-filter="ad">Anomaly Detection</button>
   <button data-filter="fl">Federated Learning</button>
@@ -234,11 +235,18 @@ Selected Papers
 
 <div id="pub-list">
 
-<div class="pub-card" data-topic="ad agent">
+<div class="pub-card" data-topic="hallucination">
   <span class="badge-venue">EACL 2027</span>
   <span class="pub-title">TRE: Training-Free Hallucination Detection for Diffusion Language Models</span>
   <span class="pub-links"><a href="https://arxiv.org/pdf/2607.22661">Paper</a></span>
   <span class="pub-authors">Pengcheng Weng*, Yanyu Qian*, Yue Tan*, <span class="me">Yixin Liu<sup>✉</sup></span></span>
+</div>
+
+<div class="pub-card" data-topic="hallucination">
+  <span class="badge-venue">Findings of EMNLP 2026</span>
+  <span class="pub-title">DynHD: Hallucination Detection for Diffusion Large Language Models via Denoising Dynamics Deviation Learning</span>
+  <span class="pub-links"><a href="https://arxiv.org/pdf/2603.16459">Paper</a></span>
+  <span class="pub-authors">Yanyu Qian, Yue Tan, <span class="me">Yixin Liu<sup>✉</sup></span>, Wang Yu, Shirui Pan</span>
 </div>
 
 <div class="pub-card" data-topic="gnn">
