@@ -115,10 +115,10 @@ News
 ------
 
 <div id="news-list" markdown="1">
-* 2026/11: Our paper on [training-free hallucination detection for diffusion language models](https://arxiv.org/pdf/2607.22661) has been accepted by EACL 2027.
 * 🌟 2026/10: Honored to be named among [the World's Top 2% Scientists 2026](https://topresearcherslist.com/Home/Profile/1103860) by Stanford University/Elsevier for the second time!
 * 🎓 2026/01: Honored and excited to be appointed as a Lecturer (Assistant Professor equivalent) at Griffith University!
 * 🏆 2025/11: Honored and thrilled to receive [ARC DECRA Fellowship 2026](https://rms.arc.gov.au/RMS/Report/Download/Report/a3f6be6e-33f7-4fb5-98a6-7526aaa184cf/285) (AU$500,386) for supporting my research on graph anomaly detection!
+* 2026/11: Our paper on [training-free hallucination detection for diffusion language models](https://arxiv.org/pdf/2607.22661) has been accepted by EACL 2027.
 * 2026/09: Our papers on foundation models for [graph anomaly detection](https://arxiv.org/pdf/2611.07706) and [link prediction](https://arxiv.org/pdf/2611.07347) have been accepted by NeurIPS 2026 (x2). See you in Sydney🐨!
 * 2026/09: Our paper on [blockchain illicit transaction detection]() has been accepted by ACM SIGMETRICS 2027.
 * 2026/08: Invited to serve as the Area Chair for [ICLR 2027](https://iclr.cc/).
@@ -135,7 +135,7 @@ News
 * 2025/12: Our survey on [domain generalization/adaptation](https://arxiv.org/pdf/2504.14280) has been accepted by TPAMI.
 * 2025/11: Our papers on [LLM multi-agent system design](https://arxiv.org/pdf/2507.18224) and [graph anomaly detection](https://arxiv.org/pdf/2511.07023) have been accepted by AAAI 2026 (x2). 
 * 2025/10: Our position paper on [graph-augmented LLM agents](https://arxiv.org/pdf/2507.21407) has been accepted by IEEE Intelligent Systems.
-* 2025/09: Honored to be named in the list of [the World's Top 2% Scientists 2025](https://topresearcherslist.com/Home/Profile/1103860) by Stanford University/Elsevier.
+* 2025/09: Honored to be named to the list of [the World's Top 2% Scientists 2025](https://topresearcherslist.com/Home/Profile/1103860) by Stanford University/Elsevier.
 * 2025/09: Our survey on [generalizable graph anomaly detection](https://arxiv.org/pdf/2509.06609) has been accepted by ICKG 2025.
 * 2025/08: Our paper on [LLM multi-agent system design](https://arxiv.org/pdf/2505.23352) has been accepted by EMNLP 2025 Main Conference.
 * 2025/08: Our paper on [graph anomaly detection](https://arxiv.org/pdf/2508.10594) has been accepted by CIKM 2025.
@@ -239,11 +239,11 @@ Selected Papers
   <span class="badge-venue">EACL 2027</span>
   <span class="pub-title">TRE: Training-Free Hallucination Detection for Diffusion Language Models</span>
   <span class="pub-links"><a href="https://arxiv.org/pdf/2607.22661">Paper</a></span>
-  <span class="pub-authors">Pengcheng Weng*, Yanyu Qian*, Yue Tan*, <span class="me">Yixin Liu<sup>✉</sup></span></span>
+  <span class="pub-authors">Pengcheng Weng, Yanyu Qian, Yue Tan, <span class="me">Yixin Liu<sup>✉</sup></span></span>
 </div>
 
 <div class="pub-card" data-topic="hallucination">
-  <span class="badge-venue">Findings of EMNLP 2026</span>
+  <span class="badge-venue">EMNLP 2026</span>
   <span class="pub-title">DynHD: Hallucination Detection for Diffusion Large Language Models via Denoising Dynamics Deviation Learning</span>
   <span class="pub-links"><a href="https://arxiv.org/pdf/2603.16459">Paper</a></span>
   <span class="pub-authors">Yanyu Qian, Yue Tan, <span class="me">Yixin Liu<sup>✉</sup></span>, Wang Yu, Shirui Pan</span>
