@@ -16,6 +16,10 @@ author_profile: true
 ## Conference
 -----
 
+* TRE: Training-Free Hallucination Detection for Diffusion Language Models \[[Paper](https://arxiv.org/pdf/2607.22661)\]<br>
+Pengcheng Weng&#42;, Yanyu Qian&#42;, Yue Tan&#42;, **Yixin Liu<sup>✉</sup>**.<br>
+Conference of the European Chapter of the Association for Computational Linguistics (**EACL**), 2027.
+
 <a id="mixguard"></a>
 
 * How Attackers Launder Funds through Mixers: Characterization and Detection on Ethereum  

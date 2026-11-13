@@ -26,7 +26,7 @@ My research aims to build intelligent systems that can act (Agentic AI), underst
 
 - Anomaly/Fraud Detection on Graph Data: [CoLA (TNNLS'21)](https://arxiv.org/pdf/2103.00113.pdf), [TADDY (TKDE'21)](https://arxiv.org/pdf/2106.09876.pdf), [SL-GAD (TKDE'21)](https://arxiv.org/pdf/2108.09896), [ANEMONE (CIKM'21)](https://dl.acm.org/doi/10.1145/3459637.3482057), [PREM (ICDM'23)](https://arxiv.org/pdf/2310.11676), [SIGNET (NeurIPS'23)](https://arxiv.org/pdf/2310.16520.pdf), [ARC (NeurIPS'24)](https://arxiv.org/pdf/2405.16771), [FM4GAD Survey (ICKG'25)](https://arxiv.org/pdf/2509.06609), [HUGE (AAAI'25)](https://arxiv.org/pdf/2502.13308), [FreeGAD (CIKM'25)](https://arxiv.org/pdf/2508.10594), [UB-GOLD (ICLR'25)](https://arxiv.org/pdf/2406.15523), [TUNE (AAAI'26)](https://arxiv.org/pdf/2511.07023), [GenGLAD (NeurIPS'26)](https://arxiv.org/pdf/2611.07706)
 
-- Anomaly Detection on Text Data: [MCA2 (ECML-PKDD'26)](https://arxiv.org/pdf/2601.17786), [DiFA (ICDM'26)](), [SIM (ICDM'26)]()
+- Anomaly Detection on Text Data: [TRE (EACL'27)](https://arxiv.org/pdf/2607.22661), [MCA2 (ECML-PKDD'26)](https://arxiv.org/pdf/2601.17786), [DiFA (ICDM'26)](), [SIM (ICDM'26)]()
 
 - Anomaly Detection on Tabular Data: [OFA-TAD (ICML'26)](https://arxiv.org/pdf/2603.14407), [CORE (arXiv)](https://arxiv.org/pdf/2607.27615)
 
@@ -115,6 +115,7 @@ News
 ------
 
 <div id="news-list" markdown="1">
+* 2026/11: Our paper on [training-free hallucination detection for diffusion language models](https://arxiv.org/pdf/2607.22661) has been accepted by EACL 2027.
 * 🌟 2026/10: Honored to be named among [the World's Top 2% Scientists 2026](https://topresearcherslist.com/Home/Profile/1103860) by Stanford University/Elsevier for the second time!
 * 🎓 2026/01: Honored and excited to be appointed as a Lecturer (Assistant Professor equivalent) at Griffith University!
 * 🏆 2025/11: Honored and thrilled to receive [ARC DECRA Fellowship 2026](https://rms.arc.gov.au/RMS/Report/Download/Report/a3f6be6e-33f7-4fb5-98a6-7526aaa184cf/285) (AU$500,386) for supporting my research on graph anomaly detection!
@@ -232,6 +233,13 @@ Selected Papers
 </div>
 
 <div id="pub-list">
+
+<div class="pub-card" data-topic="ad agent">
+  <span class="badge-venue">EACL 2027</span>
+  <span class="pub-title">TRE: Training-Free Hallucination Detection for Diffusion Language Models</span>
+  <span class="pub-links"><a href="https://arxiv.org/pdf/2607.22661">Paper</a></span>
+  <span class="pub-authors">Pengcheng Weng*, Yanyu Qian*, Yue Tan*, <span class="me">Yixin Liu<sup>✉</sup></span></span>
+</div>
 
 <div class="pub-card" data-topic="gnn">
   <span class="badge-venue">NeurIPS 2026</span>

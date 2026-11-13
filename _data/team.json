@@ -150,11 +150,12 @@
       "LLM Hallucination Detection",
       "Text Anomaly Detection"
     ],
-    "outputs": "DynHD (Findings of EMNLP 2026) · DiFA (ICDM 2026)",
+    "outputs": "DynHD (Findings of EMNLP 2026) · DiFA (ICDM 2026) · TRE (EACL 2027)",
     "tone": "teal",
     "output_links": {
       "DynHD (Findings of EMNLP 2026)": "https://arxiv.org/pdf/2603.16459",
-      "DiFA (ICDM 2026)": "https://arxiv.org/pdf/2609.22136"
+      "DiFA (ICDM 2026)": "https://arxiv.org/pdf/2609.22136",
+      "TRE (EACL 2027)": "https://arxiv.org/pdf/2607.22661"
     },
     "group": "current"
   },
@@ -234,10 +235,10 @@
       "LLM Hallucination Detection",
       "Diffusion Language Models"
     ],
-    "outputs": "TRE (Preprint 2026)",
+    "outputs": "TRE (EACL 2027)",
     "tone": "blue",
     "output_links": {
-      "TRE (Preprint 2026)": "https://arxiv.org/pdf/2607.22661"
+      "TRE (EACL 2027)": "https://arxiv.org/pdf/2607.22661"
     },
     "group": "current"
   }
