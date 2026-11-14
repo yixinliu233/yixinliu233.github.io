@@ -265,7 +265,7 @@ Selected Papers
     <a href="https://arxiv.org/pdf/2611.07706">Paper</a>
     <a href="https://github.com/CampanulaBells/Generalist-Graph-Level-Anomaly-Detection">Code</a>
   </span>
-  <span class="pub-authors">Junjun Pan, <span class="me">Yixin Liu</span>, Yu Zheng, Fuyi Li, Alan Wee-Chung Liew, Shirui Pan</span>
+  <span class="pub-authors">Junjun Pan, <span class="me">Yixin Liu<sup>✉</sup></span>, Yu Zheng, Fuyi Li, Alan Wee-Chung Liew, Shirui Pan</span>
 </div>
 
 <div class="pub-card" data-topic="gad">

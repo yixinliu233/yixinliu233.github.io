@@ -35,7 +35,7 @@ Advances in Neural Information Processing Systems (**NeurIPS**), 2026.
 <a id="genglad"></a>
 
 * Towards Generalist Graph-Level Anomaly Detection \[[Paper](https://arxiv.org/pdf/2611.07706)\] \[[Code](https://github.com/CampanulaBells/Generalist-Graph-Level-Anomaly-Detection)\]  
-Junjun Pan, **Yixin Liu**, Yu Zheng, Fuyi Li, Alan Wee-Chung Liew, Shirui Pan.  
+Junjun Pan, **Yixin Liu<sup>✉</sup>**, Yu Zheng, Fuyi Li, Alan Wee-Chung Liew, Shirui Pan.  
 Advances in Neural Information Processing Systems (**NeurIPS**), 2026.
 
 * DynHD: Hallucination Detection for Diffusion Large Language Models via Denoising Dynamics Deviation Learning  
