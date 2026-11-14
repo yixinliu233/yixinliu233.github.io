@@ -22,7 +22,7 @@ Conference of the European Chapter of the Association for Computational Linguist
 
 <a id="mixguard"></a>
 
-* How Attackers Launder Funds through Mixers: Characterization and Detection on Ethereum  
+* MixGuard: Towards Detecting and Understanding Mixer Laundering on Ethereum \[[Paper](https://arxiv.org/pdf/2609.27807)\]  
 Qishuang Fu, Hang Zheng, Xihan Xiong, Joseph Liu, **Yixin Liu**, Shirui Pan, Qin Wang, Weiqing Wang, Zhipeng Wang, Tsz Hon Yuen.  
 ACM SIGMETRICS International Conference on Measurement and Modeling of Computer Systems (**SIGMETRICS**), 2027.
 

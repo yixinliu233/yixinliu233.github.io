@@ -90,7 +90,7 @@
     "tone": "teal",
     "output_links": {
       "FlowShield (ICDM 2026)": "https://arxiv.org/pdf/2608.17355",
-      "MixGuard (SIGMETRICS 2027)": "/publications/#mixguard"
+      "MixGuard (SIGMETRICS 2027)": "https://arxiv.org/pdf/2609.27807"
     },
     "group": "current"
   },
