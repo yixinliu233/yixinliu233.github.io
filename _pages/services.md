@@ -43,6 +43,7 @@ Conference AC/PC Member/Reviewer
 
 Journal Reviewer
 ----
+* Reviewer, IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)
 * Reviewer, IEEE Transactions on Knowledge and Data Engineering (TKDE, CORE A*)
 * Reviewer, IEEE Transactions on Neural Networks and Learning Systems (TNNLS, CORE A*)
 * Reviewer, IEEE Transactions on Image Processing (TIP, CORE A*)
