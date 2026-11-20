@@ -194,6 +194,10 @@ International Conference on Man-Machine-Environment System Engineering, 2018.
 ## Journal
 -----
 
+* No Fear of Representation Bias: Graph Contrastive Learning with Calibration and Fusion \[[Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4774833)\] \[[Code](https://github.com/jindongli-Ai/CANNON)\]<br>
+Jindong Li, **Yixin Liu**, Qianli Xing, Qi Wang, Shirui Pan.<br>
+Transactions on Graph Intelligence and Network Applications (**TGINA**), 2026.
+
 * From Few-Shot to Zero-Shot: Towards Generalist Graph Anomaly Detection  
 **Yixin Liu**, Shiyuan Li, Yu Zheng, Qingfeng Chen, Chengqi Zhang, Philip S. Yu, Shirui Pan.  
 IEEE Transactions on Knowledge and Data Engineering (**TKDE**), 2026.
