@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-<p style="color: #637485; font-size: 16px; line-height: 1.7; margin: 0 0 25px;">Below is a list of my publications. * denotes equal contribution, and ✉ denotes corresponding author. For a complete list, please visit my <a href="{{ site.author.googlescholar }}" target="_blank" rel="noopener">Google Scholar</a>.</p>
+<p style="color: #637485; font-size: 16px; line-height: 1.7; margin: 0 0 25px;">Below is a list of my publications. * denotes equal contribution, and ✉ denotes corresponding author.</p>
 
 {% include base_path %}
 
@@ -16,25 +16,25 @@ author_profile: true
 ## Conference
 -----
 
-* TRE: Training-Free Hallucination Detection for Diffusion Language Models \[[Paper](https://arxiv.org/pdf/2607.22661)\]<br>
+* TRE: Training-Free Hallucination Detection for Diffusion Language Models<br>
 Pengcheng Weng&#42;, Yanyu Qian&#42;, Yue Tan&#42;, **Yixin Liu<sup>✉</sup>**.<br>
 Conference of the European Chapter of the Association for Computational Linguistics (**EACL**), 2027.
 
-<a id="mixguard"></a>
 
-* MixGuard: Towards Detecting and Understanding Mixer Laundering on Ethereum \[[Paper](https://arxiv.org/pdf/2609.27807)\]  
+
+* MixGuard: Towards Detecting and Understanding Mixer Laundering on Ethereum  
 Qishuang Fu, Hang Zheng, Xihan Xiong, Joseph Liu, **Yixin Liu**, Shirui Pan, Qin Wang, Weiqing Wang, Zhipeng Wang, Tsz Hon Yuen.  
 ACM SIGMETRICS International Conference on Measurement and Modeling of Computer Systems (**SIGMETRICS**), 2027.
 
-<a id="atlasulp"></a>
 
-* AtlasULP: Domain-aware Universal Link Prediction via Relation Atlas \[[Paper](https://arxiv.org/pdf/2611.07347)\]  
+
+* AtlasULP: Domain-aware Universal Link Prediction via Relation Atlas  
 Yujing Liu, **Yixin Liu**, Yu Zheng, Lianhua Chi, Alan Wee-Chung Liew, Heng Tao Shen, Shirui Pan.  
 Advances in Neural Information Processing Systems (**NeurIPS**), 2026.
 
-<a id="genglad"></a>
 
-* Towards Generalist Graph-Level Anomaly Detection \[[Paper](https://arxiv.org/pdf/2611.07706)\] \[[Code](https://github.com/CampanulaBells/Generalist-Graph-Level-Anomaly-Detection)\]  
+
+* Towards Generalist Graph-Level Anomaly Detection  
 Junjun Pan, **Yixin Liu<sup>✉</sup>**, Yu Zheng, Fuyi Li, Alan Wee-Chung Liew, Shirui Pan.  
 Advances in Neural Information Processing Systems (**NeurIPS**), 2026.
 
@@ -194,7 +194,7 @@ International Conference on Man-Machine-Environment System Engineering, 2018.
 ## Journal
 -----
 
-* No Fear of Representation Bias: Graph Contrastive Learning with Calibration and Fusion \[[Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4774833)\] \[[Code](https://github.com/jindongli-Ai/CANNON)\]<br>
+* No Fear of Representation Bias: Graph Contrastive Learning with Calibration and Fusion<br>
 Jindong Li, **Yixin Liu**, Qianli Xing, Qi Wang, Shirui Pan.<br>
 Transactions on Graph Intelligence and Network Applications (**TGINA**), 2026.
 
@@ -218,7 +218,7 @@ IEEE Transactions on Knowledge and Data Engineering (**TKDE**), 2026.
 **Yixin Liu**, Guibin Zhang, Kun Wang, Shiyuan Li, Shirui Pan.  
 IEEE Intelligent Systems, 2026.
 
-* Enhancing Weak Raman Spectral Fingerprints for Multi-Source Walnut Oil Adulteration Using Multi-Level Feature Fusion \[[Paper](https://doi.org/10.1016/j.saa.2026.128577)\]  
+* Enhancing Weak Raman Spectral Fingerprints for Multi-Source Walnut Oil Adulteration Using Multi-Level Feature Fusion  
 Xinyu Bi, Zhaohui Qiao, Yuchen Ni, Feilong Yue, Min Li, Xiaoyi Lv, Enguang Zuo<sup>✉</sup>, **Yixin Liu<sup>✉</sup>**.  
 Spectrochimica Acta Part A: Molecular and Biomolecular Spectroscopy, 2026.
 
@@ -286,6 +286,6 @@ IEEE International Joint Conference on Neural Networks (**IJCNN**), Gold Coast, 
 
 ## Preprint
 -----
-* Towards Data-centric Graph Machine Learning: Review and Outlook \[[PDF](https://arxiv.org/abs/2309.10979)\]  
+* Towards Data-centric Graph Machine Learning: Review and Outlook  
 Xin Zheng, **Yixin Liu**, Zhifeng Bao, Meng Fang, Xia Hu, Alan Wee-Chung Liew, Shirui Pan.  
 2023.
