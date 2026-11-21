@@ -118,7 +118,7 @@ News
 * 🌟 2026/10: Honored to be named among [the World's Top 2% Scientists 2026](https://topresearcherslist.com/Home/Profile/1103860) by Stanford University/Elsevier for the second time!
 * 🎓 2026/01: Honored and excited to be appointed as a Lecturer (Assistant Professor equivalent) at Griffith University!
 * 🏆 2025/11: Honored and thrilled to receive [ARC DECRA Fellowship 2026](https://rms.arc.gov.au/RMS/Report/Download/Report/a3f6be6e-33f7-4fb5-98a6-7526aaa184cf/285) (AU$500,386) for supporting my research on graph anomaly detection!
-* 2026/11: Our paper on [training-free hallucination detection for diffusion language models](https://arxiv.org/pdf/2607.22661) has been accepted by EACL 2027.
+* 2026/11: Our paper on [diffusion LM hallucination detection](https://arxiv.org/pdf/2607.22661) has been accepted by EACL 2027.
 * 2026/09: Our papers on foundation models for [graph anomaly detection](https://arxiv.org/pdf/2611.07706) and [link prediction](https://arxiv.org/pdf/2611.07347) have been accepted by NeurIPS 2026 (x2). See you in Sydney🐨!
 * 2026/09: Our paper on [MixGuard: mixer laundering detection on Ethereum](https://arxiv.org/pdf/2609.27807) has been accepted by ACM SIGMETRICS 2027.
 * 2026/08: Invited to serve as the Area Chair for [ICLR 2027](https://iclr.cc/).
